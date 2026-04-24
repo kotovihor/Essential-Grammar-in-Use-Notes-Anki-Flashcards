@@ -11,20 +11,32 @@
             "id": "1460e5e8ebba1ba1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas",
-                "viewState": {
-                  "x": -1178.4742492411094,
-                  "y": -141.49462653045202,
-                  "zoom": -1.155949191070753
-                }
+                "file": "Lessons/01 - am is are/01 am is are.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "01 - am is are - graph"
+              "icon": "lucide-file",
+              "title": "01 am is are"
+            }
+          },
+          {
+            "id": "d87d41e7a6666f63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - am is are (exercises)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +206,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84932ac12d35d2e7",
+  "active": "d87d41e7a6666f63",
   "lastOpenFiles": [
-    "Exercises/01 - am is are (exercises)",
+    "Exercises/01 - am is are (exercises)/1.5 Write sentences for the pictures..md",
+    "Exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
+    "Exercises/01 - am is are (exercises)/1.1. Write the short form (she's , we aren't etc.).md",
+    "Exercises/01 - am is are (exercises)/1.2. Write am, is or are..md",
+    "_images/01 - am is are (pictures)/01 am is are - pic. 1.png",
+    "_images/01 - am is are (pictures)/01 am is are - pic. 1 (exercises).png",
+    "_images/01 - am is are (pictures)/01 am is are - pic. 2.png",
+    "Exercises/01 - am is are (exercises)/1.6 Write true sentences, positive or negative. Use is, isn't or are, aren't. Write true sentences, positive or negative. Use I'm, I'm not..md",
+    "_images/01 - am is are (pictures)/01 am is are - pic. 6 (exercises).png",
+    "Exercises/01 - am is are (exercises)/1.4 Look at Lisa's sentences in 1A. Now write sentences about yourself..md",
+    "_images/01 - am is are (pictures)/01 am is are - pic. 5 (exercises).png",
+    "_images/01 - am is are (pictures)/01 am is are - pic. 4 (exercises).png",
+    "Untitled.canvas",
+    "Exercises/01 - am is are (exercises)/1.3. Complete the sentences..md",
+    "_images/01 - am is are (pictures)/01 am is are - pic. 3.png",
+    "_images/01 - am is are (pictures)/01 am is are - pic. 3 (exercises).png",
     "Lessons/01 - am is are/01 am is are.md",
-    "Essential Grammar in Use.md"
+    "_images/01 - am is are (pictures)/01 am is are - pic. 2 (exercises).png",
+    "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas",
+    "Essential Grammar in Use.md",
+    "Exercises/01 - am is are (exercises)"
   ]
 }
