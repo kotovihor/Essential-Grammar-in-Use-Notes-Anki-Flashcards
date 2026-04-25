@@ -93,21 +93,28 @@
 | **How fast?**  | **Як швидко?**         | **How fast can Usain Bolt run?**                                       | **Як швидко Усейн Болт може бігти?**                                     |
 | **How come?**  | **Як так? (причина)**  | **How come I didn’t see you at the party?**                            | **Як так сталося, що я не бачив тебе на вечірці?**                       |
 | **How about?** | **Як щодо?**           | **How about going to the club tonight?**                               | **Як щодо піти сьогодні у клуб?**                                        |
+##### How much чи How many?
+- **How much** вживається перед необчислювальними іменниками і по відношенню до кількості чогось (рідин, матеріалу). How much також використовується для того, щоб спитати ціну чогось.
+	- **How much** salt should I put? – Скільки мені потрібно покласти солі? 
+	- **How much** does it cost to go to London? – Скільки коштує поїхати до Лондона?
+- **How many** використовується з обчислювальними предметами та поняттями та щодо осіб, живих істот.
+	- **How many** pinches of salt should I put? – Скільки дрібок солі мені потрібно покласти? **How many** students are going to London? – Скільки студентів збираються до Лондона?
+
 #### WHAT..
 
-| What kind?            | Який? Якого роду? (тип, вид)  | What kind of music do you like?             | Яка музика тобі подобається?             |
-| --------------------- | ----------------------------- | ------------------------------------------- | ---------------------------------------- |
-| **What type?**        | **Який тип?**                 | **What type of guys do you prefer?**            | **Який тип хлопців тобі до вподоби?**        |
-| **What sort?**        | **Який? Якого типу, виду?**   | **What sort of questions did you want to ask?** | **Які запитання ти хотів поставити?**        |
-| **What time?**        | **Котра година?**             | **What time is it now?**                        | **Котра зараз година?**                      |
-| **What color?**       | **Якого кольору?**            | **What color are your socks today?**            | **Якого кольору у тебе шкарпетки сьогодні?** |
-| **What ... for?**     | **Для чого? Навіщо?**         | **What did you do that for?**                   | **Навіщо ти це зробив?**                     |
-| **What ... about?**   | **Про що?**                   | **What is this article about?**                 | **Про що ця стаття?**                        |
-| **What ... like?**    | **Як? Який вигляд?**          | **What does your new car look like?**           | **Як виглядає твоя нова машина?**            |
-| **What ... like as?** | **Що становить як..? Що за?** | **What is she like as an actress?**             | **Що вона за акторка?**                      |
-| **What ... with?**    | **Чим?**                      | **What do you eat with? Fork or chopsticks?**   | **Чим ти їси? Виделкою чи паличками?**       |
-| **What about?**       | **Як щодо?**                  | **What about a cup of coffee?**                 | **Як щодо філіжанки кави?**                  |
-| **What of it?**       | **І що з цього?**             | **I skipped 3 days and what of it?**            | **Я пропустив 3 дні і що з цього?**          |
+| What kind ..?          | Який? Якого роду? (тип, вид)  | What kind of music do you like?                 | Яка музика тобі подобається?                 |
+| ---------------------- | ----------------------------- | ----------------------------------------------- | -------------------------------------------- |
+| **What type ..?**      | **Який тип?**                 | **What type of guys do you prefer?**            | **Який тип хлопців тобі до вподоби?**        |
+| **What sort ..?**      | **Який? Якого типу, виду?**   | **What sort of questions did you want to ask?** | **Які запитання ти хотів поставити?**        |
+| **What time ..?**      | **Котра година?**             | **What time is it now?**                        | **Котра зараз година?**                      |
+| **What color ..?**     | **Якого кольору?**            | **What color are your socks today?**            | **Якого кольору у тебе шкарпетки сьогодні?** |
+| **What ... for ..?**   | **Для чого? Навіщо?**         | **What did you do that for?**                   | **Навіщо ти це зробив?**                     |
+| **What ... about ..?** | **Про що?**                   | **What is this article about?**                 | **Про що ця стаття?**                        |
+| **What … like..?**     | **Як? Який вигляд?**          | **What does your new car look like?**           | **Як виглядає твоя нова машина?**            |
+| **What … like as ..?** | **Що становить як..? Що за?** | **What is she like as an actress?**             | **Що вона за акторка?**                      |
+| **What … with ..?**    | **Чим?**                      | **What do you eat with? Fork or chopsticks?**   | **Чим ти їси? Виделкою чи паличками?**       |
+| **What about?**        | **Як щодо?**                  | **What about a cup of coffee?**                 | **Як щодо філіжанки кави?**                  |
+| **What of it?**        | **І що з цього?**             | **I skipped 3 days and what of it?**            | **Я пропустив 3 дні і що з цього?**          |
 #### ІНШІ
 
 | So what?             | То й що?              | Yes, I don’t know how to cook and so what? | Так, я не вмію готувати, й що з цього?    |
