@@ -98,7 +98,8 @@
 	- **How much** salt should I put? – Скільки мені потрібно покласти солі? 
 	- **How much** does it cost to go to London? – Скільки коштує поїхати до Лондона?
 - **How many** використовується з обчислювальними предметами та поняттями та щодо осіб, живих істот.
-	- **How many** pinches of salt should I put? – Скільки дрібок солі мені потрібно покласти? **How many** students are going to London? – Скільки студентів збираються до Лондона?
+	- **How many** pinches of salt should I put? – Скільки дрібок солі мені потрібно покласти?
+	- **How many** students are going to London? – Скільки студентів збираються до Лондона?
 
 #### WHAT..
 
