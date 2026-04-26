@@ -71,4 +71,25 @@
 	- We'**re having** dinner. — Ми вечеряємо.
 	- You'**re not listening** to me. (or You **aren't listening** ...) — Ти мене не слухаєш.
 	- The children **are doing** their homework. — Діти роблять домашню роботу.
-- 
+## Візуальна схема та правила додавання закінчення -ing
+![[03 - I am doing (present continuous) - pic. 3.png|Малюнок 3. Візуальна схема present continuous. Правила додавання закінчення.]]
+- ==Конструкція **am/is/are + -ing** використовується для опису дій, які відбуваються прямо зараз (something is happening now) . На часовій шкалі внизу зображення видно, що дія зосереджена саме на моменті «тепер» (now), а не в минулому чи майбутньому.==
+	- Please be quiet. I'**m working**. — Будь ласка, тихіше. Я працюю.
+	- Look, there's Sarah. She'**s wearing** a brown coat. — Дивись, там Сара. Вона вдягнена в коричневе пальто.
+	- The weather is nice. It'**s not raining**. — Погода гарна. Дощу немає. / Дощ не йде.
+	- 'Where are the children?' 'They'**re playing** in the park.' — 'Де діти?' 'Вони грають в парку.'
+	- We'**re having** dinner now. Can I phone you later? — Ми зараз вечеряємо. Можу я зателефонувати тобі пізніше?
+	- You can turn off the television. I'**m not watching** it. — Можеш вимкнути телевізор. Я його не дивлюся.
+- **Додавання закінчення/суфікса -ing**
+	- Німа "e":
+		- Якщо дієслово закінчується на німу букву «е», то перед -ing вона випадає. Якщо ж [ e ] вимовляється, тоді випадання не відбувається.
+			- "е" не вимовляється
+				- to make → making 
+				- to take → taking 
+				- to forgive → forgiving 
+				- to write → writing
+			- «е» вимовляється
+				- to agree → agreeing 
+				- to free → freeing 
+				- to pee → peeing 
+				- to fee → feeing
