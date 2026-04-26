@@ -11,14 +11,10 @@
             "id": "b190200e07333ab3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercises/02 - am is are (questions) (exercises)/2.2 Make questions with these words.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.2 Make questions with these words"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,19 +187,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b190200e07333ab3",
+  "active": "f886df199904d2fd",
   "lastOpenFiles": [
-    "Exercises/02 - am is are (questions) (exercises)/02 - am is are (questions) exercises.md",
-    "Lessons/02 - am is are (questions)/02 am is are (questions).md",
-    "Essential Grammar in Use.md",
     "Lessons/01 - am is are/01 am is are.md",
-    "Exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
+    "Essential Grammar in Use.md",
     "Book Essential Grammar in Use.png",
     "Exercises/02 - am is are (questions) (exercises)/2.5 Write short answers (Yes, I am.  No, he isn't. etc.).md",
+    "_anki cards/02 am is are (questions) (flashcards)/Essential Grammar in Use__Unit 2 am_is_are (questions)__Theory.apkg",
+    "_anki cards/02 am is are (questions) (flashcards)",
     "Exercises/02 - am is are (questions) (exercises)/2.4 Write the questions.md",
     "Exercises/02 - am is are (questions) (exercises)/2.3 Complete the questions. Use What ... Who ... Where ... How.md",
     "Exercises/02 - am is are (questions) (exercises)/2.2 Make questions with these words.md",
     "Exercises/02 - am is are (questions) (exercises)/2.1 Find the right answers for the questions.md",
+    "Exercises/02 - am is are (questions) (exercises)/02 - am is are (questions) exercises.md",
+    "Lessons/02 - am is are (questions)/02 am is are (questions).md",
+    "Exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
     "_images/02 - am is are (questions) (pictures)/02 am is are (questions) - pic. 5 (exercises).png",
     "_images/02 - am is are (questions) (pictures)/02 am is are (questions) - pic. 4 (exercises).png",
     "_images/02 - am is are (questions) (pictures)/02 am is are (questions) - pic. 2.png",
