@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 419.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1e40c067e4ddd6b",
