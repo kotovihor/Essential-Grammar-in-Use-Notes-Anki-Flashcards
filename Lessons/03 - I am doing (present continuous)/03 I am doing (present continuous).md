@@ -35,6 +35,27 @@
 ### Формування present continuous
 ![[03 - I am doing (present continuous) - pic. 2.png|Малюнок 2. Структура present continuous.]]
 - ==Граматичний час **Present Continuous (Present Progressive)** утворюється за допомогою допоміжного дієслова **be** у формах **am**, **is** або **are** та форми **Present Participle** (першої форми смислового дієслова із закінченням **-ing**).==
+- Вибір необхідної форми допоміжного дієслова залежить від підмета (виконавця дії):
+	- **I → am** (про себе);
+	- **He, she, it → is** (підмет виражений іменником або займенником в однині);
+	- **You, we, they → are** (підмет виражений іменником або займенником в множині або займенником you)
+- Скорочення з дієсловом to be:
+	- I am = I'**m**
+	- He is = He'**s**
+	- She is = She'**s**
+	- It is = It'**s**
+	- You are = You'**re**
+	- We are = We'**re**
+	- They are = They'**re**
+- Приклади використання present continuous:
+	- I'**m working**. I'**m not watching** TV. — Я працюю. Я не дивлюся телевізор.
+	- Maria **is reading** a newspaper. — Марія читає газету.
+	- She **isn't eating**. (or She'**s not eating**.) — Вона не їсть.
+	- The phone **is ringing**. — Телефон дзвонить.
+	- We'**re having** dinner. — Ми вечеряємо.
+	- You'**re not listening** to me. (or You **aren't listening** ...) — Ти мене не слухаєш.
+	- The children **are doing** their homework. — Діти роблять домашню роботу.
+### Дієприкметник теперішнього часу
 - ==**Дієприкметник (Participle)** – це безособова форма дієслова, що передає ознаку предмета за дією та відповідає на питання «який?» та «що роблячи?». Англійські дієприкметники поєднують у собі ознаки дієслова, прикметника, а також прислівника. Дієприкметник не змінюється за категоріями числа, особи та способу, також він не має ступенів порівняння.==
 	- **Дієприкметник (Participle)** поєднує ознаки дієслова, прикметника та інколи прислівника, тому що в реченні він може виконувати різні функції:
 		1. **Ознаки дієслова**
@@ -75,26 +96,7 @@
 				 - happy → happier → happiest — щасливий → щасливіший → найщасливіший
 			- Participle так не змінюється.
 	- **Дієприкметник теперішнього часу (Participle I)** вживається для утворення часів **Present Continuous**, **Past Continuous**, **Future Continuous**, а також **Present Perfect Continuous**, **Past Perfect Continuous** та **Future Perfect Continuous**.
-- Вибір необхідної форми допоміжного дієслова залежить від підмета (виконавця дії):
-	- **I → am** (про себе);
-	- **He, she, it → is** (підмет виражений іменником або займенником в однині);
-	- **You, we, they → are** (підмет виражений іменником або займенником в множині або займенником you)
-- Скорочення з дієсловом to be:
-	- I am = I'**m**
-	- He is = He'**s**
-	- She is = She'**s**
-	- It is = It'**s**
-	- You are = You'**re**
-	- We are = We'**re**
-	- They are = They'**re**
-- Приклади використання present continuous:
-	- I'**m working**. I'**m not watching** TV. — Я працюю. Я не дивлюся телевізор.
-	- Maria **is reading** a newspaper. — Марія читає газету.
-	- She **isn't eating**. (or She'**s not eating**.) — Вона не їсть.
-	- The phone **is ringing**. — Телефон дзвонить.
-	- We'**re having** dinner. — Ми вечеряємо.
-	- You'**re not listening** to me. (or You **aren't listening** ...) — Ти мене не слухаєш.
-	- The children **are doing** their homework. — Діти роблять домашню роботу.
+- 
 ## Візуальна схема та правила додавання закінчення -ing
 ![[03 - I am doing (present continuous) - pic. 3.png|Малюнок 3. Візуальна схема present continuous. Правила додавання закінчення.]]
 - ==Конструкція **am/is/are + -ing** використовується для опису дій, які відбуваються прямо зараз (something is happening now) . На часовій шкалі внизу зображення видно, що дія зосереджена саме на моменті «тепер» (now), а не в минулому чи майбутньому.==
