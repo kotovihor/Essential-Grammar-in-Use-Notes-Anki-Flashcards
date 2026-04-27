@@ -96,9 +96,36 @@
 				 - happy → happier → happiest — щасливий → щасливіший → найщасливіший
 			- Participle так не змінюється.
 	- **Дієприкметник теперішнього часу (Participle I)** вживається для утворення часів **Present Continuous**, **Past Continuous**, **Future Continuous**, а також **Present Perfect Continuous**, **Past Perfect Continuous** та **Future Perfect Continuous**.
-- 
+	- Дієприкметник теперішнього часу (**Present Participle (Participle I)** має форми **active** і **passive**, утворюється додаванням **-ing** до основи дієслова (doing) або через **being / having + Participle II** за потреби.
+		![[04 - I am doing (present continuous) - pic. 3.png|Малюнок 3. Форми дієприкметника теперішнього часу.|608]]
+		- ==Неозначений дієприкметник (**Indefinite Participle I**) в активному й пасивному станах виражає дію, що відбувається одночасно з дією присудка, або дію без точного часовогo значення (загальну, постійну чи невизначену в часі).==
+			- **Активний стан:**
+				- Who is this **crying** boy? – Хто цей хлопчик, що плаче?
+				- While **listening** to his stories, Kate couldn’t help laughing. – Слухаючи його розповіді, Кейт не могла стримати сміх.
+			- **Пасивний стан:**
+				- **Being written** in pencil the text was difficult to read. – Було складно читати текст, оскільки він був написаний олівцем.
+				- **Being left** alone in the house Ann didn’t know what to do. – Енн, яку залишили одну вдома, не знала, що їй робити.
+		- ==**Perfect Participle I** в активному й пасивному станах означає дію, яка **відбулася або тривала раніше** за іншу дію, виражену дієсловом-присудком.==
+			- **Активний стан:**
+				- Nancy and Mark, **having washed** their hands, sat down at the table. – Ненсі та Марк вимили руки та сіли за стіл.
+				- **Having been friends** at school we still keep in touch. – Ми були друзями у школі та досі підтримуємо зв'язок один з одним.
+			- **Пасивний стан:**
+				- **Having been cheated** once Michael doesn’t trust anyone. – Оскільки Майкла вже один раз обдурили, він нікому не довіряє.
+				- **Not having been informed** beforehand I didn’t know when to come to the meeting. – Оскільки мені не повідомили заздалегідь, я не знав, коли приходити на збори.
+		- ==**Неозначений дієприкметник** вживається замість **доконаного дієприкметника** з дієсловами сприйняття та руху, навіть якщо дія передає значення передування іншій дії.==
+			- to arrive — прибувати
+			- to come — приходити
+			- to enter — входити
+			- to hear — чути
+			- to look — дивитися
+			- to see — бачити
+			- to seize — схопити
+			- to turn — повертати
+			- **Arriving** at the hotel we could relax at last. – Коли ми приїхали до готелю, ми нарешті змогли відпочити.
+			- **Hearing** someone coming Jack rushed to hide his diary. – Почувши, що хтось йде, Джек побіг ховати свій щоденник.
+			- **Entering** the shop Clark stood a bit in the doorway and then went to the cashier. – Зайшовши до магазину, Кларк постояв трохи у проході, а потім пішов до касира.
 ## Візуальна схема та правила додавання закінчення -ing
-![[03 - I am doing (present continuous) - pic. 3.png|Малюнок 3. Візуальна схема present continuous. Правила додавання закінчення.]]
+![[03 - I am doing (present continuous) - pic. 4.png|Малюнок 4. Візуальна схема present continuous. Правила додавання закінчення.]]
 - ==Конструкція **am/is/are + -ing** використовується для опису дій, які відбуваються прямо зараз (something is happening now) . На часовій шкалі внизу зображення видно, що дія зосереджена саме на моменті «тепер» (now), а не в минулому чи майбутньому.==
 	- Please be quiet. I'**m working**. — Будь ласка, тихіше. Я працюю.
 	- Look, there's Sarah. She'**s wearing** a brown coat. — Дивись, там Сара. Вона вдягнена в коричневе пальто.
@@ -179,3 +206,18 @@
 			- traffic → trafficking — торгувати (незаконно) → торгуючи / торгівля
 			- mimic → mimicking — наслідувати → наслідуючи
 			- panic → panicking — панікувати → панікуючи
+## Маркери часу
+- **Present Continuous** використовується з певними словами та виразами, що вказують на певний відомий момент або проміжок часу, в який відбувається дія.
+	- now – зараз
+	- right now – прямо зараз 
+	- still – все ще 
+	- currently – тепер, у цей час 
+	- at the moment – в цей момент 
+	- at present – у теперішній час 
+	- this morning – цього ранку, цим ранком 
+	- this evening – цього вечора 
+	- this afternoon – сьогодні після обіду
+	- today – сьогодні (удень) 
+	- tonight – сьогодні (ввечері) 
+	- these days – останніми днями 
+	- nowadays – у наші дні
