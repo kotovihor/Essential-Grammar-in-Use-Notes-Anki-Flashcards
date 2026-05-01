@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercises/03 - I am doing (present continuous) (exercises)/3.4 What's happening now. Write true sentences..md",
+                "file": "Lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4 What's happening now. Write true sentences."
+              "title": "04 are you doing (present continuous questions)"
             }
           }
         ],
@@ -198,12 +198,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,26 +219,29 @@
   },
   "active": "81fffaa8b6fbf8a5",
   "lastOpenFiles": [
+    "_images/04 - are you doing (present continuous questions) (pictures)",
+    "Essential Grammar in Use.md",
+    "Lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
+    "Lessons/02 - am is are (questions)/02 am is are (questions).md",
+    "Book Essential Grammar in Use.png",
+    "Exercises/03 - I am doing (present continuous) (exercises)/3.4 What's happening now. Write true sentences..md",
+    "Lessons/04 - are you doing (present continuous questions)",
     "Exercises/03 - I am doing (present continuous) (exercises)/3.3 Look at the picture. Write sentences about Jane. Use She's ing or She isn't ing..md",
     "Exercises/03 - I am doing (present continuous) (exercises)/3.2 Complete the sentences. Use these verbs..md",
     "Exercises/03 - I am doing (present continuous) (exercises)/3.1 What are these people doing. Use these verbs to complete the sentences.md",
-    "Exercises/03 - I am doing (present continuous) (exercises)/3.4 What's happening now. Write true sentences..md",
     "_images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 4 (exercises).png",
     "Exercises/03 - I am doing (present continuous) (exercises)/03 - I am doing (present continuous) (exercises).md",
     "_images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 3 (exercises).png",
     "Lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
     "_images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 2 (exercises).png",
     "_images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 1 (exercises).png",
-    "Book Essential Grammar in Use.png",
     "_images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 3.png",
     "_images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 4.png",
     "Exercises/02 - am is are (questions) (exercises)/2.2 Make questions with these words.md",
     "Exercises/02 - am is are (questions) (exercises)/02 - am is are (questions) exercises.md",
     "Exercises/02 - am is are (questions) (exercises)/2.5 Write short answers (Yes, I am.  No, he isn't. etc.).md",
-    "Lessons/02 - am is are (questions)/02 am is are (questions).md",
     "Lessons/01 - am is are/01 am is are.md",
     "Exercises/03 - I am doing (present continuous) (exercises)",
-    "Essential Grammar in Use.md",
     "README.md",
     "01 - am is are - graph.canvas",
     "Untitled.base",
@@ -263,7 +265,6 @@
     "Exercises/01 - am is are (exercises)/1.6 Write true sentences, positive or negative. Use is, isn't or are, aren't. Write true sentences, positive or negative. Use I'm, I'm not..md",
     "Exercises/01 - am is are (exercises)/1.5 Write sentences for the pictures..md",
     "Exercises/02 - am is are (questions) (exercises)",
-    "_images/02 - am is are (questions) (pictures)",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
   ]

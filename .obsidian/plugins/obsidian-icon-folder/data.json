@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖼",
       "LiTarget",
       "LiPackage",
       "LiImage"
@@ -32,7 +33,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "_images": "LiImage",
+  "_images": "🖼",
   "_anki cards": "LiPackage",
   "Exercises": "LiTarget"
 }
