@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/03 - I am doing (present continuous) (exercises)/3.3 Look at the picture. Write sentences about Jane. Use She's ing or She isn't ing..md",
+                "file": "lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Look at the picture. Write sentences about Jane. Use She's ing or She isn't ing."
+              "title": "04 are you doing (present continuous questions)"
             }
           }
         ]
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,19 +202,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c4522c175706379",
+  "active": "f886df199904d2fd",
   "lastOpenFiles": [
+    "lessons/02 - am is are (questions)/02 am is are (questions).md",
+    "Essential Grammar in Use.md",
+    "images/01 - am is are (pictures)/01 am is are - pic. 1.png",
+    "README.md",
+    "exercises/03 - I am doing (present continuous) (exercises)/3.3 Look at the picture. Write sentences about Jane. Use She's ing or She isn't ing..md",
     "exercises/03 - I am doing (present continuous) (exercises)/3.2 Complete the sentences. Use these verbs..md",
     "exercises/03 - I am doing (present continuous) (exercises)/3.1 What are these people doing. Use these verbs to complete the sentences.md",
     "exercises/03 - I am doing (present continuous) (exercises)/03 - I am doing (present continuous) (exercises).md",
     "lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
     "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
-    "lessons/02 - am is are (questions)/02 am is are (questions).md",
     "Book Essential Grammar in Use.png",
     "exercises/01 - am is are (exercises)/1.2. Write am, is or are..md",
     "exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
     "lessons/01 - am is are/01 am is are.md",
-    "Essential Grammar in Use.md",
     "exercises/01 - am is are (exercises)/1.5 Write sentences for the pictures..md",
     "exercises/exercises.md",
     "lessons/02 - am is are (questions)/02 am is are (questions).html",
@@ -234,7 +236,6 @@
     "exercises/01 - am is are (exercises)/1.1. Write the short form (she's , we aren't etc.).md",
     "anki cards/anki cards.md",
     "images/images.md",
-    "README.md",
     "Essential-Grammar-in-Use-Notes-Anki-Flashcards.md",
     "exercises/02 - am is are (questions) (exercises)/2.1 Find the right answers for the questions.md",
     "exercises/02 - am is are (questions) (exercises)/02 - am is are (questions) exercises.md",
@@ -245,10 +246,8 @@
     "images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 2.png",
     "images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 1.png",
     "exercises/03 - I am doing (present continuous) (exercises)/3.4 What's happening now. Write true sentences..md",
-    "exercises/03 - I am doing (present continuous) (exercises)/3.3 Look at the picture. Write sentences about Jane. Use She's ing or She isn't ing..md",
     "images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 4 (exercises).png",
     "images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 2 (exercises).png",
-    "images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 1 (exercises).png",
     "exercises/02 - am is are (questions) (exercises)/2.2 Make questions with these words.md",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",

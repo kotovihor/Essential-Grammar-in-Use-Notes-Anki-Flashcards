@@ -32,7 +32,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "anki cards": "LiPackage",
-  "exercises": "LiTarget"
+  }
 }
