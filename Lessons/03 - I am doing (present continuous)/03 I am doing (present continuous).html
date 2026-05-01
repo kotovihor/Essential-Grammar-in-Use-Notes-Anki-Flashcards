@@ -1,0 +1,1431 @@
+<head><style>* { box-sizing: border-box; }
+body {
+            --xfa-unfocused-field-background: url("data:image/svg+xml;charset=UTF-8,<svg width='1px' height='1px' xmlns='http://www.w3.org/2000/svg'><rect width='100%' height='100%' style='fill:rgba(0, 54, 255, 0.13);'/></svg>");
+--xfa-focus-outline: auto;
+--viewer-container-height: 0;
+--pdf-viewer-padding-bottom: 0;
+--page-margin: 1px auto -8px;
+--page-border: 9px solid transparent;
+--spread-horizontal-wrapped-margin--l-r: -3.5px;
+--loading-icon-delay: 400ms;
+--csstools-light-dark-toggle--23:  #0060df;
+--focus-ring-color:  #0060df;
+--focus-ring-outline: 2px solid light-dark(#0060df, #0df);
+--h1-weight: 700;
+--h2-weight: 680;
+--h3-weight: 660;
+--h4-weight: 640;
+--h5-weight: 620;
+--h6-weight: 600;
+--anim-duration-none: 0;
+--anim-duration-superfast: 70ms;
+--anim-duration-fast: 140ms;
+--anim-duration-moderate: 300ms;
+--anim-duration-slow: 560ms;
+--anim-motion-smooth: cubic-bezier(0.45, 0.05, 0.55, 0.95);
+--anim-motion-delay: cubic-bezier(0.65, 0.05, 0.36, 1);
+--anim-motion-jumpy: cubic-bezier(0.68, -0.55, 0.27, 1.55);
+--anim-motion-swing: cubic-bezier(0, 0.55, 0.45, 1);
+--bases-header-border-width: 0 0 1px 0;
+--bases-header-height: 40px;
+--bases-header-padding-start: 2px;
+--bases-header-padding-end: 2px;
+--bases-toolbar-label-display: block;
+--bases-toolbar-badge-display: none;
+--bases-embed-border-width: 0px;
+--bases-embed-border-color: rgb(188, 192, 204);
+--bases-embed-border-radius: 4px;
+--bases-filter-menu-width: 520px;
+--bases-group-heading-property-size: 12px;
+--bases-group-heading-property-weight: 400;
+--bases-group-heading-property-color: rgb(124, 127, 147);
+--bases-group-heading-value-size: 0.875em;
+--bases-group-heading-value-weight: 600;
+--bases-group-heading-property-display: block;
+--bases-table-container-border-width: 1px;
+--bases-table-container-border-radius: 4px;
+--bases-table-group-background: rgb(230, 233, 239);
+--bases-table-header-weight: 400;
+--bases-table-header-color: rgb(124, 127, 147);
+--bases-table-header-icon-display: flex;
+--bases-table-header-background: rgb(239, 241, 245);
+--bases-table-header-background-hover: rgba(76, 79, 105, 0.075);
+--bases-table-header-sort-mask: linear-gradient(to left, transparent 24px, black 24px);
+--bases-table-summary-background: rgb(239, 241, 245);
+--bases-table-summary-background-hover: rgba(76, 79, 105, 0.075);
+--bases-table-border-color: rgb(188, 192, 204);
+--bases-table-column-border-width: 1px;
+--bases-table-group-gap: 10px;
+--bases-table-row-border-width: 1px;
+--bases-table-row-background-hover: transparent;
+--bases-table-row-height: 30px;
+--bases-table-font-size: 0.875em;
+--bases-table-column-max-width: 300;
+--bases-table-column-min-width: 40;
+--bases-table-cell-radius-active: 2px;
+--bases-table-cell-shadow-active: 0 0 0 2px rgb(156, 160, 176);
+--bases-table-cell-radius-focus: 2px;
+--bases-table-cell-shadow-focus: 0 0 0 2px hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--bases-table-cell-background-active: rgb(239, 241, 245);
+--bases-table-cell-background-disabled: rgb(230, 233, 239);
+--bases-table-cell-background-selected: hsla(258, 88%, 66%, 0.1);
+--bases-cards-background: rgb(239, 241, 245);
+--bases-cards-border-width: 1px;
+--bases-cards-container-background: transparent;
+--bases-cards-corner-shape: round;
+--bases-cards-cover-background: rgb(230, 233, 239);
+--bases-cards-font-size: 0.875em;
+--bases-cards-line-height: 24px;
+--bases-cards-radius: 8px;
+--bases-cards-scale: 1;
+--bases-cards-shadow-hover: 0 0 0 1px rgb(172, 176, 190);
+--bases-cards-shadow: 0 0 0 1px rgb(188, 192, 204);
+--blockquote-border-thickness: 2px;
+--blockquote-border-color: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--blockquote-font-style: normal;
+--blockquote-background-color: rgba(220, 224, 232, 0.5);
+--bold-modifier: 200;
+--bold-weight: calc(400 + 200);
+--border-width: 1px;
+--button-radius: 5px;
+--button-corner-shape: round;
+--blur-background: color-mix(in srgb, rgb(239, 241, 245) 65%, transparent) linear-gradient(rgb(239, 241, 245), color-mix(in srgb, rgb(239, 241, 245) 65%, transparent));
+--blur-opacity-s: 65%;
+--blur-opacity-m: 90%;
+--blur-brightness: 1.15;
+--blur-saturation: 1.5;
+--blur-radius-s: 6px;
+--blur-radius-m: 10px;
+--blur-radius-l: 16px;
+--blur-s: blur(6px) saturate(1.5) brightness(1.15);
+--blur-m: blur(10px) saturate(1.5) brightness(1.15);
+--blur-l: blur(16px) saturate(1.5) brightness(1.15);
+--callout-border-width: 0px;
+--callout-border-opacity: 0.25;
+--callout-padding: 0;
+--callout-radius: 4px;
+--callout-blend-mode: none;
+--callout-title-padding: 8px;
+--callout-title-weight: calc(400 + 200);
+--callout-content-padding: 8px;
+--callout-content-background: transparent;
+--callout-bug: 210, 15, 57;
+--callout-default: 42, 110, 245;
+--callout-error: 210, 15, 57;
+--callout-example: 114, 135, 253;
+--callout-fail: 210, 15, 57;
+--callout-important: 4, 165, 229;
+--callout-info: 42, 110, 245;
+--callout-question: 254, 100, 11;
+--callout-success: 64, 160, 43;
+--callout-summary: 4, 165, 229;
+--callout-tip: 4, 165, 229;
+--callout-todo: 42, 110, 245;
+--callout-warning: 254, 100, 11;
+--callout-quote: 158, 158, 158;
+--canvas-background: rgb(239, 241, 245);
+--canvas-card-label-color: rgb(108, 111, 133);
+--canvas-color-1: 210, 15, 57;
+--canvas-color-2: 254, 100, 11;
+--canvas-color-3: 228, 147, 32;
+--canvas-color-4: 64, 160, 43;
+--canvas-color-5: 4, 165, 229;
+--canvas-color-6: 114, 135, 253;
+--canvas-controls-radius: 4px;
+--canvas-controls-icon-size: 16px;
+--canvas-controls-icon-stroke: 2px;
+--canvas-dot-pattern: rgb(188, 192, 204);
+--caret-color: rgb(76, 79, 105);
+--checkbox-radius: 4px;
+--checkbox-size: 16px;
+--checkbox-marker-color: rgb(239, 241, 245);
+--checkbox-color: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--checkbox-color-hover: hsl(calc(258 - 3), calc(88% * 1.02), calc(66% * 1.15));
+--checkbox-border-color: rgb(108, 111, 133);
+--checkbox-border-color-hover: rgb(124, 127, 147);
+--checkbox-margin-inline-start: 0.85em;
+--checklist-done-decoration: line-through;
+--checklist-done-color: rgb(124, 127, 147);
+--code-white-space: pre-wrap;
+--code-border-width: 0px;
+--code-border-color: rgb(188, 192, 204);
+--code-bracket-background: rgba(76, 79, 105, 0.075);
+--code-radius: 4px;
+--code-size: 0.875em;
+--code-background: rgb(220, 224, 232);
+--code-normal: rgb(76, 79, 105);
+--code-comment: rgb(108, 111, 133);
+--code-function: rgb(228, 147, 32);
+--code-important: rgb(254, 100, 11);
+--code-keyword: rgb(236, 131, 208);
+--code-operator: rgb(210, 15, 57);
+--code-property: rgb(4, 165, 229);
+--code-punctuation: rgb(124, 127, 147);
+--code-string: rgb(64, 160, 43);
+--code-tag: rgb(210, 15, 57);
+--code-value: rgb(114, 135, 253);
+--collapse-icon-color: rgb(108, 111, 133);
+--collapse-icon-color-collapsed: hsl(258, 88%, 66%);
+--cursor: default;
+--cursor-link: pointer;
+--dialog-width: 560px;
+--dialog-max-width: 80vw;
+--dialog-max-height: 85vh;
+--divider-color: rgb(188, 192, 204);
+--divider-color-hover: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--divider-width: 1px;
+--divider-width-hover: 3px;
+--divider-vertical-height: 100%;
+--drag-ghost-background: rgb(76, 79, 105);
+--drag-ghost-text-color: rgb(220, 224, 232);
+--dropdown-background-blend-mode: hard-light;
+--dropdown-background-position: right 0.5em top 50%, 0 0;
+--dropdown-background-size: 1em auto, 100%;
+--dropdown-icon-width: 1em;
+--dropdown-icon-inset: 0.5em;
+--dropdown-padding: 0 1.9em 0 0.8em;
+--dropdown-padding-start: 0.8em;
+--dropdown-padding-end: 1.9em;
+--embed-max-height: 4000px;
+--embed-canvas-max-height: 400px;
+--embed-border-start: 2px solid hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--embed-border-end: none;
+--embed-border-top: none;
+--embed-border-bottom: none;
+--embed-padding: 0 0 0 24px;
+--embed-block-shadow-hover: none;
+--file-line-width: 700px;
+--file-folding-offset: 24px;
+--file-margins: 32px 32px;
+--file-margins-x: 32px;
+--file-margins-y: 32px;
+--file-header-font: '??', '??', '??', ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Google Sans Flex", Roboto, "Inter Variable", "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+--file-header-font-size: 13px;
+--file-header-font-weight: 400;
+--file-header-background: rgb(239, 241, 245);
+--file-header-background-focused: rgb(239, 241, 245);
+--file-header-border: 1px solid transparent;
+--file-header-justify: center;
+--header-height: 40px;
+--font-smallest: 0.8em;
+--font-smaller: 0.875em;
+--font-small: 0.933em;
+--flair-background: rgb(204, 208, 218);
+--flair-color: rgb(76, 79, 105);
+--font-ui-smaller: 12px;
+--font-ui-small: 13px;
+--font-ui-medium: 15px;
+--font-ui-large: 20px;
+--font-weight: 400;
+--font-thin: 100;
+--font-extralight: 200;
+--font-light: 300;
+--font-normal: 400;
+--font-medium: 500;
+--font-semibold: 600;
+--font-bold: 700;
+--font-extrabold: 800;
+--font-black: 900;
+--footnote-divider-color-active: transparent;
+--footnote-divider-color: rgb(188, 192, 204);
+--footnote-divider-width: 1px;
+--footnote-gap: 4px;
+--footnote-id-color-no-occurrences: rgb(108, 111, 133);
+--footnote-id-color: rgb(124, 127, 147);
+--footnote-id-delimiter: ".";
+--footnote-input-background-active: rgba(76, 79, 105, 0.075);
+--footnote-input-background: transparent;
+--footnote-line-height: 1.5;
+--footnote-padding-block: 6px;
+--footnote-padding-inline: 6px;
+--footnote-radius: 4px;
+--footnote-size: 0.875em;
+--graph-controls-width: 240px;
+--graph-text: rgb(76, 79, 105);
+--graph-line: rgb(172, 176, 190);
+--graph-node: rgb(124, 127, 147);
+--graph-node-unresolved: rgb(108, 111, 133);
+--graph-node-focused: hsl(258, 88%, 66%);
+--graph-node-tag: rgb(64, 160, 43);
+--graph-node-attachment: rgb(228, 147, 32);
+--heading-formatting: rgb(108, 111, 133);
+--heading-spacing: calc(1rem * 2.5);
+--h1-letter-spacing: -0.015em;
+--h2-letter-spacing: -0.011em;
+--h3-letter-spacing: -0.008em;
+--h4-letter-spacing: -0.005em;
+--h5-letter-spacing: -0.002em;
+--h6-letter-spacing: 0em;
+--h1-line-height: 1.2;
+--h2-line-height: 1.2;
+--h3-line-height: 1.3;
+--h4-line-height: 1.4;
+--h5-line-height: 1.5;
+--h6-line-height: 1.5;
+--h1-size: 1.618em;
+--h2-size: 1.462em;
+--h3-size: 1.318em;
+--h4-size: 1.188em;
+--h5-size: 1.076em;
+--h6-size: 1em;
+--h1-style: normal;
+--h2-style: normal;
+--h3-style: normal;
+--h4-style: normal;
+--h5-style: normal;
+--h6-style: normal;
+--h1-variant: normal;
+--h2-variant: normal;
+--h3-variant: normal;
+--h4-variant: normal;
+--h5-variant: normal;
+--h6-variant: normal;
+--hr-color: rgb(188, 192, 204);
+--hr-thickness: 2px;
+--icon-size: 18px;
+--icon-stroke: 1.75px;
+--icon-xs: 14px;
+--icon-s: 16px;
+--icon-m: 18px;
+--icon-l: 18px;
+--icon-xl: 32px;
+--icon-xs-stroke-width: 2px;
+--icon-s-stroke-width: 2px;
+--icon-m-stroke-width: 1.75px;
+--icon-l-stroke-width: 1.75px;
+--icon-xl-stroke-width: 1.25px;
+--icon-color: rgb(124, 127, 147);
+--icon-color-hover: rgb(124, 127, 147);
+--icon-color-active: hsl(258, 88%, 66%);
+--icon-color-focused: hsl(258, 88%, 66%);
+--icon-opacity: 0.85;
+--icon-opacity-hover: 1;
+--icon-opacity-active: 1;
+--clickable-icon-radius: 4px;
+--indent-size: 4;
+--indent-unit: 0.5625em;
+--indentation-guide-width: 1px;
+--indentation-guide-width-active: 1px;
+--indentation-guide-color: rgba(76, 79, 105, 0.12);
+--indentation-guide-color-active: rgba(76, 79, 105, 0.3);
+--indentation-guide-editing-indent: 0.85em;
+--indentation-guide-reading-indent: -0.85em;
+--indentation-guide-source-indent: 0.25em;
+--inline-title-line-height: 1.2;
+--inline-title-size: 1.618em;
+--inline-title-style: normal;
+--inline-title-variant: normal;
+--inline-title-weight: 700;
+--inline-title-margin-bottom: 0.5em;
+--input-height: 30px;
+--input-padding: 4px 8px;
+--input-radius: 5px;
+--input-corner-shape: round;
+--input-font-weight: 400;
+--input-border-width: 1px;
+--input-border-width-focus: 2px;
+--input-placeholder-color: rgb(108, 111, 133);
+--input-date-separator: rgb(108, 111, 133);
+--input-icon-inset: 4px;
+--layer-cover: 5;
+--layer-sidedock: 10;
+--layer-status-bar: 15;
+--layer-popover: 30;
+--layer-slides: 45;
+--layer-modal: 50;
+--layer-notice: 60;
+--layer-menu: 65;
+--layer-tooltip: 70;
+--layer-dragged-item: 80;
+--line-height-normal: 1.5;
+--line-height-tight: 1.3;
+--link-color: hsl(258, 88%, 66%);
+--link-color-hover: hsl(calc(258 - 3), calc(88% * 1.02), calc(66% * 1.15));
+--link-decoration: underline;
+--link-decoration-hover: underline;
+--link-decoration-thickness: auto;
+--link-weight: 400;
+--link-external-color: hsl(258, 88%, 66%);
+--link-external-color-hover: hsl(calc(258 - 3), calc(88% * 1.02), calc(66% * 1.15));
+--link-external-decoration: underline;
+--link-external-decoration-hover: underline;
+--link-external-filter: none;
+--link-unresolved-color: hsl(258, 88%, 66%);
+--link-unresolved-opacity: 0.7;
+--link-unresolved-filter: none;
+--link-unresolved-decoration-style: solid;
+--link-unresolved-decoration-color: hsla(258, 88%, 66%, 0.3);
+--list-indent: calc(0.5625em * 4);
+--list-indent-editing: 0.75em;
+--list-indent-source: 0;
+--list-spacing: 0.075em;
+--list-marker-color: rgb(108, 111, 133);
+--list-marker-color-hover: rgb(124, 127, 147);
+--list-marker-color-collapsed: hsl(258, 88%, 66%);
+--list-bullet-border: none;
+--list-bullet-radius: 50%;
+--list-bullet-size: 0.3em;
+--list-bullet-transform: none;
+--list-numbered-style: decimal;
+--list-bullet-end-padding: 1.3rem;
+--nav-item-size: 13px;
+--nav-item-radius: 4px;
+--nav-item-color: rgb(124, 127, 147);
+--nav-item-color-hover: rgb(76, 79, 105);
+--nav-item-color-active: rgb(76, 79, 105);
+--nav-item-color-selected: rgb(76, 79, 105);
+--nav-item-color-highlighted: hsl(258, 88%, 66%);
+--nav-item-background-hover: rgba(76, 79, 105, 0.075);
+--nav-item-background-active: rgba(76, 79, 105, 0.075);
+--nav-item-background-selected: hsla(258, 88%, 66%, 0.15);
+--nav-item-padding: 4px 8px 4px 24px;
+--nav-item-parent-padding: 4px 8px 4px 24px;
+--nav-item-margin-bottom: 2px;
+--nav-item-children-padding-start: 4px;
+--nav-item-children-margin-start: 12px;
+--nav-item-white-space: pre;
+--nav-indentation-guide-width: 1px;
+--nav-indentation-guide-color: rgb(156, 160, 176);
+--nav-collapse-icon-color: rgb(108, 111, 133);
+--nav-collapse-icon-color-collapsed: rgb(108, 111, 133);
+--nav-heading-color: rgb(76, 79, 105);
+--nav-heading-color-hover: rgb(76, 79, 105);
+--nav-heading-color-collapsed: rgb(108, 111, 133);
+--nav-heading-color-collapsed-hover: rgb(124, 127, 147);
+--nav-heading-weight: 500;
+--nav-heading-weight-hover: 500;
+--nav-tag-background: transparent;
+--nav-tag-radius: 4px;
+--nav-tag-color: rgb(108, 111, 133);
+--nav-tag-color-hover: rgb(124, 127, 147);
+--nav-tag-color-active: rgb(124, 127, 147);
+--nav-tag-weight: 600;
+--menu-padding: 6px;
+--menu-shadow: 0px 1px 2px rgba(220, 224, 232, 0.121),
+      0px 3.4px 6.7px rgba(220, 224, 232, 0.179),
+      0px 15px 30px rgba(220, 224, 232, 0.3);
+--menu-radius: 8px;
+--menu-corner-shape: round;
+--menu-background: rgb(230, 233, 239);
+--menu-border-color: rgb(172, 176, 190);
+--menu-border-width: 1px;
+--menu-backdrop-filter: none;
+--menu-scroll-mask: linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0.1) 48px);
+--metadata-background: transparent;
+--metadata-display-reading: block;
+--metadata-display-editing: block;
+--metadata-max-width: none;
+--metadata-padding: 8px 0;
+--metadata-border-color: rgb(188, 192, 204);
+--metadata-border-radius: 0;
+--metadata-border-width: 0;
+--metadata-divider-color: rgb(188, 192, 204);
+--metadata-divider-color-hover: transparent;
+--metadata-divider-color-focus: transparent;
+--metadata-divider-width: 0;
+--metadata-gap: 3px;
+--metadata-property-padding: 0;
+--metadata-property-radius: 6px;
+--metadata-property-radius-hover: 6px;
+--metadata-property-radius-focus: 6px;
+--metadata-property-corner-shape: round;
+--metadata-property-corner-shape-hover: round;
+--metadata-property-corner-shape-focus: round;
+--metadata-property-background: transparent;
+--metadata-property-background-hover: transparent;
+--metadata-property-background-active: rgba(76, 79, 105, 0.075);
+--metadata-property-box-shadow-hover: 0 0 0 1px rgb(172, 176, 190);
+--metadata-property-box-shadow-focus: 0 0 0 2px rgb(156, 160, 176);
+--metadata-label-background: transparent;
+--metadata-label-background-hover: transparent;
+--metadata-label-background-active: rgba(76, 79, 105, 0.075);
+--metadata-label-font: '??', '??', '??', ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Google Sans Flex", Roboto, "Inter Variable", "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+--metadata-label-font-size: 0.875em;
+--metadata-label-text-color: rgb(124, 127, 147);
+--metadata-label-text-color-hover: rgb(124, 127, 147);
+--metadata-label-width: 9em;
+--metadata-input-height: calc(16px * 1.75);
+--metadata-input-text-color: rgb(76, 79, 105);
+--metadata-input-font: '??', '??', '??', ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Google Sans Flex", Roboto, "Inter Variable", "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+--metadata-input-font-size: 0.875em;
+--metadata-input-background: transparent;
+--metadata-input-background-hover: transparent;
+--metadata-input-background-active: rgba(76, 79, 105, 0.075);
+--metadata-input-longtext-lines: 3;
+--metadata-input-padding: 4px 8px;
+--metadata-sidebar-label-font-size: 13px;
+--metadata-sidebar-input-font-size: 13px;
+--modal-background: rgb(239, 241, 245);
+--modal-width: 90vw;
+--modal-header-height: auto;
+--modal-height: 85vh;
+--modal-max-width: 1100px;
+--modal-max-height: 1000px;
+--modal-max-width-narrow: 800px;
+--modal-shadow: none;
+--modal-border-width: 1px;
+--modal-border-color: rgb(204, 208, 218);
+--modal-radius: 12px;
+--modal-community-sidebar-width: 280px;
+--pill-color: rgb(124, 127, 147);
+--pill-color-hover: rgb(76, 79, 105);
+--pill-color-remove: rgb(108, 111, 133);
+--pill-color-remove-hover: hsl(258, 88%, 66%);
+--pill-decoration: none;
+--pill-decoration-hover: none;
+--pill-background: transparent;
+--pill-background-hover: transparent;
+--pill-border-color: rgb(188, 192, 204);
+--pill-border-color-hover: rgb(172, 176, 190);
+--pill-border-width: 1px;
+--pill-padding-x: 0.65em;
+--pill-padding-y: 0.25em;
+--pill-radius: 2em;
+--p-spacing: 1rem;
+--p-spacing-empty: 0rem;
+--pdf-background: rgb(239, 241, 245);
+--pdf-page-background: rgb(239, 241, 245);
+--pdf-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 8px transparent;
+--pdf-spread-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
+--pdf-sidebar-background: rgb(239, 241, 245);
+--pdf-thumbnail-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 8px transparent;
+--popover-width: 450px;
+--popover-height: 400px;
+--popover-max-height: 95vh;
+--popover-pdf-width: 450px;
+--popover-pdf-height: 400px;
+--popover-font-size: 16px;
+--prompt-background: rgb(239, 241, 245);
+--prompt-backdrop-filter: none;
+--prompt-input-height: 40px;
+--prompt-width: 700px;
+--prompt-max-width: 80vw;
+--prompt-max-height: 70vh;
+--prompt-border-width: 1px;
+--prompt-border-color: rgb(156, 160, 176);
+--corner-shape: round;
+--radius-s: 4px;
+--radius-m: 8px;
+--radius-l: 12px;
+--radius-xl: 16px;
+--raised-background: color-mix(in srgb, rgb(239, 241, 245) 65%, transparent) linear-gradient(rgb(239, 241, 245), color-mix(in srgb, rgb(239, 241, 245) 65%, transparent));
+--raised-blur: blur(6px) saturate(1.5) brightness(1.15);
+--raised-shadow: 0 1px 6px rgba(0, 0, 0, 0.015), 0 4px 24px rgba(0, 0, 0, 0.065), 0 0 transparent;
+--raised-mask-display: block;
+--raised-mask-border-width: 0;
+--raised-mask-background: linear-gradient(to bottom left, white, transparent, white) border-box no-repeat;
+--raised-mask: linear-gradient(white, white) padding-box, linear-gradient(white, white) border-box;
+--raised-mask-composite: exclude, add;
+--ribbon-background: rgb(230, 233, 239);
+--ribbon-background-collapsed: rgb(239, 241, 245);
+--ribbon-width: 44px;
+--ribbon-padding: 8px 4px 12px;
+--scrollbar-width: 12px;
+--scrollbar-height: 12px;
+--scrollbar-border-width: 3px 3px 3px 2px;
+--scrollbar-radius: 12px;
+--scrollbar-active-thumb-bg: rgba(76, 79, 105, 0.2);
+--scrollbar-bg: rgba(76, 79, 105, 0.05);
+--scrollbar-thumb-bg: rgba(76, 79, 105, 0.1);
+--search-clear-button-color: rgb(124, 127, 147);
+--search-clear-button-size: 13px;
+--search-icon-color: rgb(124, 127, 147);
+--search-icon-size: 18px;
+--search-result-background: rgb(239, 241, 245);
+--setting-group-heading-color: rgb(76, 79, 105);
+--setting-group-heading-size: 15px;
+--setting-group-heading-weight: 600;
+--setting-items-background: rgb(230, 233, 239);
+--setting-items-padding: 20px;
+--setting-items-radius: 12px;
+--setting-items-border-width: 0;
+--setting-items-border-color: rgb(188, 192, 204);
+--size-2-1: 2px;
+--size-2-2: 4px;
+--size-2-3: 6px;
+--size-4-1: 4px;
+--size-4-2: 8px;
+--size-4-3: 12px;
+--size-4-4: 16px;
+--size-4-5: 20px;
+--size-4-6: 24px;
+--size-4-8: 32px;
+--size-4-9: 36px;
+--size-4-10: 40px;
+--size-4-12: 48px;
+--size-4-16: 64px;
+--size-4-18: 72px;
+--sidebar-markdown-font-size: calc(16px * 0.9);
+--sidebar-tab-text-display: none;
+--sidebar-left-toggle-inner-width: 8.33%;
+--sidebar-right-toggle-inner-width: 8.33%;
+--sidebar-left-toggle-inner-width-open: 24%;
+--sidebar-right-toggle-inner-width-open: 24%;
+--slider-thumb-border-width: 1px;
+--slider-thumb-border-color: rgb(172, 176, 190);
+--slider-thumb-height: 18px;
+--slider-thumb-width: 18px;
+--slider-thumb-y: -6px;
+--slider-thumb-radius: 18px;
+--slider-s-thumb-size: 15px;
+--slider-s-thumb-position: -5px;
+--slider-track-background: rgb(188, 192, 204);
+--slider-track-height: 3px;
+--status-bar-background: rgb(230, 233, 239);
+--status-bar-border-color: rgb(188, 192, 204);
+--status-bar-border-width: 1px 0 0 1px;
+--status-bar-font-size: 12px;
+--status-bar-text-color: rgb(124, 127, 147);
+--status-bar-position: fixed;
+--status-bar-radius: 8px 0 0 0;
+--suggestion-background: rgb(239, 241, 245);
+--suggestion-backdrop-filter: none;
+--sync-avatar-color-current-user: transparent;
+--sync-avatar-color-1: rgb(210, 15, 57);
+--sync-avatar-color-2: rgb(254, 100, 11);
+--sync-avatar-color-3: rgb(228, 147, 32);
+--sync-avatar-color-4: rgb(64, 160, 43);
+--sync-avatar-color-5: rgb(4, 165, 229);
+--sync-avatar-color-6: rgb(42, 110, 245);
+--sync-avatar-color-7: rgb(114, 135, 253);
+--sync-avatar-color-8: rgb(236, 131, 208);
+--swatch-radius: 14px;
+--swatch-height: 22px;
+--swatch-width: 22px;
+--swatch-shadow: inset 0 0 0 1px rgba(76, 79, 105, 0.15);
+--tab-background-active: rgb(239, 241, 245);
+--tab-text-color: rgb(108, 111, 133);
+--tab-text-color-active: rgb(124, 127, 147);
+--tab-text-color-focused: rgb(124, 127, 147);
+--tab-text-color-focused-active: rgb(124, 127, 147);
+--tab-text-color-focused-highlighted: hsl(258, 88%, 66%);
+--tab-text-color-focused-active-current: rgb(76, 79, 105);
+--tab-font-size: 13px;
+--tab-container-background: rgb(230, 233, 239);
+--tab-divider-color: rgb(172, 176, 190);
+--tab-outline-color: rgb(188, 192, 204);
+--tab-outline-width: 1px;
+--tab-curve: 6px;
+--tab-radius: 4px;
+--tab-radius-active: 6px 6px 0 0;
+--tab-width: 200px;
+--tab-max-width: 320px;
+--tab-switcher-menubar-background: linear-gradient(to top, rgb(230, 233, 239), transparent);
+--tab-switcher-background: rgb(230, 233, 239);
+--tab-switcher-preview-radius: 16px;
+--tab-switcher-preview-background-shadow: 0 4px 30px 2px rgba(0, 0, 0, 0.2);
+--tab-switcher-preview-shadow: 0 0 0 1px rgba(76, 79, 105, 0.05);
+--tab-switcher-preview-shadow-active: 0 0 0 2px hsl(258, 88%, 66%);
+--tab-stacked-pane-width: calc(1 * 700px);
+--tab-stacked-header-width: 40px;
+--tab-stacked-font-size: 13px;
+--tab-stacked-font-weight: 400;
+--tab-stacked-text-align: start;
+--tab-stacked-text-transform: rotate(0deg);
+--tab-stacked-text-writing-mode: vertical-lr;
+--tab-stacked-shadow: -8px 0 8px 0 rgba(0, 0, 0, 0.05);
+--table-background: transparent;
+--table-border-width: 1px;
+--table-border-color: rgb(188, 192, 204);
+--table-white-space: break-spaces;
+--table-header-background: transparent;
+--table-header-border-width: 1px;
+--table-header-border-color: rgb(188, 192, 204);
+--table-header-size: 16px;
+--table-header-weight: calc(400 + 200);
+--table-header-color: rgb(76, 79, 105);
+--table-line-height: 1.3;
+--table-text-size: 16px;
+--table-column-min-width: 6ch;
+--table-column-max-width: none;
+--table-column-alt-background: transparent;
+--table-column-first-border-width: 1px;
+--table-column-last-border-width: 1px;
+--table-row-background-hover: transparent;
+--table-row-alt-background: transparent;
+--table-row-alt-background-hover: transparent;
+--table-row-last-border-width: 1px;
+--table-selection: hsla(258, 88%, 66%, 0.1);
+--table-selection-blend-mode: none;
+--table-selection-border-color: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--table-selection-border-width: 2px;
+--table-selection-border-radius: 4px;
+--table-cell-vertical-alignment: top;
+--table-drag-handle-background: transparent;
+--table-drag-handle-background-active: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--table-drag-handle-color: rgb(108, 111, 133);
+--table-drag-handle-color-active: rgb(239, 241, 245);
+--table-drop-indicator-half-width: 2px;
+--table-add-button-background: transparent;
+--table-add-button-border-width: 1px;
+--table-add-button-border-color: rgb(188, 192, 204);
+--tag-size: 0.875em;
+--tag-color: hsl(258, 88%, 66%);
+--tag-color-hover: hsl(258, 88%, 66%);
+--tag-decoration: none;
+--tag-decoration-hover: none;
+--tag-background: hsla(258, 88%, 66%, 0.1);
+--tag-background-hover: hsla(258, 88%, 66%, 0.2);
+--tag-border-color: hsla(258, 88%, 66%, 0.15);
+--tag-border-color-hover: hsla(258, 88%, 66%, 0.15);
+--tag-border-width: 0px;
+--tag-padding-x: 0.65em;
+--tag-padding-y: 0.25em;
+--tag-radius: 2em;
+--tag-corner-shape: round;
+--traffic-lights-offset-x: 40px;
+--traffic-lights-offset-y: 40px;
+--titlebar-background: rgb(230, 233, 239);
+--titlebar-background-focused: rgb(220, 224, 232);
+--titlebar-border-width: 0px;
+--titlebar-border-color: rgb(188, 192, 204);
+--titlebar-text-color: rgb(124, 127, 147);
+--titlebar-text-color-focused: hsl(258, 88%, 66%);
+--titlebar-text-weight: 700;
+--toggle-border-width: 2px;
+--toggle-width: 40px;
+--toggle-radius: 18px;
+--toggle-thumb-color: white;
+--toggle-thumb-radius: 18px;
+--toggle-thumb-height: 18px;
+--toggle-thumb-width: 18px;
+--toggle-s-border-width: 2px;
+--toggle-s-width: 34px;
+--toggle-s-thumb-height: 15px;
+--toggle-s-thumb-width: 15px;
+--touch-size-xxs: 24px;
+--touch-size-xs: 30px;
+--touch-size-s: 40px;
+--touch-size-m: 44px;
+--touch-size-l: 52px;
+--touch-size-xl: 60px;
+--touch-radius-xxs: 24px;
+--touch-radius-xs: 30px;
+--touch-radius-s: 40px;
+--touch-radius-m: 44px;
+--touch-radius-l: 52px;
+--touch-radius-xl: 60px;
+--vault-profile-display: flex;
+--vault-profile-order: 2;
+--vault-profile-actions-display: flex;
+--vault-profile-font-size: 13px;
+--vault-profile-font-weight: 500;
+--vault-profile-color: rgb(76, 79, 105);
+--vault-profile-color-hover: rgb(76, 79, 105);
+--workspace-background-translucent: rgba(220, 224, 232, 0.6);
+--accent-h: 258;
+--accent-s: 88%;
+--accent-l: 66%;
+--background-primary: rgb(239, 241, 245);
+--background-primary-alt: rgb(230, 233, 239);
+--background-secondary: rgb(230, 233, 239);
+--background-modifier-hover: rgba(76, 79, 105, 0.075);
+--background-modifier-active-hover: hsla(258, 88%, 66%, 0.1);
+--background-modifier-border: rgb(188, 192, 204);
+--background-modifier-border-hover: rgb(172, 176, 190);
+--background-modifier-border-focus: rgb(156, 160, 176);
+--background-modifier-error-rgb: 210, 15, 57;
+--background-modifier-error: rgba(210, 15, 57, 1);
+--background-modifier-error-hover: rgba(210, 15, 57, 0.9);
+--background-modifier-success-rgb: 64, 160, 43;
+--background-modifier-success: rgba(64, 160, 43, 1);
+--background-modifier-message: rgba(220, 224, 232, 0.9);
+--background-modifier-form-field: rgba(220, 224, 232, 0.3);
+--background-modifier-form-field-hover: rgba(220, 224, 232, 0.3);
+--text-normal: rgb(76, 79, 105);
+--text-muted: rgb(124, 127, 147);
+--text-faint: rgb(108, 111, 133);
+--text-on-accent: rgb(239, 241, 245);
+--text-on-accent-inverted: black;
+--text-error: rgb(210, 15, 57);
+--text-warning: rgb(254, 100, 11);
+--text-success: rgb(64, 160, 43);
+--text-selection: hsla(258, 88%, 66%, 0.2);
+--text-highlight-bg-rgb: 255, 208, 0;
+--text-highlight-bg: rgba(228, 147, 32, 0.2);
+--text-accent: hsl(258, 88%, 66%);
+--text-accent-hover: hsl(calc(258 - 3), calc(88% * 1.02), calc(66% * 1.15));
+--interactive-normal: rgb(204, 208, 218);
+--interactive-hover: rgb(188, 192, 204);
+--interactive-accent-hsl: 258, 88%, 66%;
+--interactive-accent: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--interactive-accent-hover: hsl(calc(258 - 3), calc(88% * 1.02), calc(66% * 1.15));
+--dropdown-background: rgb(204, 208, 218);
+--dropdown-background-hover: rgb(188, 192, 204);
+--highlight-mix-blend-mode: none;
+--mono-rgb-0: 220, 224, 232;
+--mono-rgb-100: 76, 79, 105;
+--color-red-rgb: 210, 15, 57;
+--color-red: rgb(210, 15, 57);
+--color-orange-rgb: 254, 100, 11;
+--color-orange: rgb(254, 100, 11);
+--color-yellow-rgb: 228, 147, 32;
+--color-yellow: rgb(228, 147, 32);
+--color-green-rgb: 64, 160, 43;
+--color-green: rgb(64, 160, 43);
+--color-cyan-rgb: 4, 165, 229;
+--color-cyan: rgb(4, 165, 229);
+--color-blue-rgb: 42, 110, 245;
+--color-blue: rgb(42, 110, 245);
+--color-purple-rgb: 114, 135, 253;
+--color-purple: rgb(114, 135, 253);
+--color-pink-rgb: 236, 131, 208;
+--color-pink: rgb(236, 131, 208);
+--color-base-00: rgb(220, 224, 232);
+--color-base-05: #fcfcfc;
+--color-base-10: rgb(230, 233, 239);
+--color-base-20: rgb(239, 241, 245);
+--color-base-25: rgb(204, 208, 218);
+--color-base-30: rgb(188, 192, 204);
+--color-base-35: rgb(172, 176, 190);
+--color-base-40: rgb(156, 160, 176);
+--color-base-50: rgb(140, 143, 161);
+--color-base-60: rgb(124, 127, 147);
+--color-base-70: rgb(108, 111, 133);
+--color-base-100: rgb(76, 79, 105);
+--color-accent-hsl: 258, 88%, 66%;
+--color-accent: hsl(258, 88%, 66%);
+--color-accent-1: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--color-accent-2: hsl(calc(258 - 3), calc(88% * 1.02), calc(66% * 1.15));
+--background-secondary-alt: rgb(220, 224, 232);
+--background-modifier-box-shadow: rgba(0, 0, 0, 0.1);
+--background-modifier-cover: #00000022;
+--input-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.12), 0 2px 3px 0 rgba(0, 0, 0, 0.05), 0 1px 1.5px 0 rgba(0, 0, 0, 0.03), 0 1px 2px 0 rgba(0, 0, 0, 0.04), 0 0 0 0 transparent;
+--input-shadow-hover: inset 0 0 0 1px rgba(0, 0, 0, 0.17), 0 2px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 1.5px 0 rgba(0, 0, 0, 0.03), 0 1px 2px 0 rgba(0, 0, 0, 0.04), 0 0 0 0 transparent;
+--shadow-edges: 0 0 transparent;
+--shadow-xs: 0 1px 6px rgba(0, 0, 0, 0.015), 0 4px 24px rgba(0, 0, 0, 0.065), 0 0 transparent;
+--shadow-s: 0px 1px 2px rgba(220, 224, 232, 0.121),
+      0px 3.4px 6.7px rgba(220, 224, 232, 0.179),
+      0px 15px 30px rgba(220, 224, 232, 0.3);
+--shadow-l: 0px 1.8px 7.3px rgba(220, 224, 232, 0.071),
+      0px 6.3px 24.7px rgba(220, 224, 232, 0.112),
+      0px 30px 90px rgba(220, 224, 232, 0.2);
+--font-default: ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Google Sans Flex", Roboto, "Inter Variable", "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+--font-monospace-default: ui-monospace, SFMono-Regular, "Cascadia Mono", "Roboto Mono", "DejaVu Sans Mono", "Liberation Mono", Menlo, Monaco, "Consolas", "Source Code Pro", monospace;
+--font-interface-override: '??';
+--font-interface-theme: '??';
+--font-interface: '??', '??', '??', ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Google Sans Flex", Roboto, "Inter Variable", "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+--font-text-override: '??';
+--font-text-theme: '??';
+--font-text: '??', '??', ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Google Sans Flex", Roboto, "Inter Variable", "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+--font-print-override: '??';
+--font-print: '??', '??', '??', 'Arial';
+--font-monospace-override: '??';
+--font-monospace-theme: '??';
+--font-monospace: '??', '??', ui-monospace, SFMono-Regular, "Cascadia Mono", "Roboto Mono", "DejaVu Sans Mono", "Liberation Mono", Menlo, Monaco, "Consolas", "Source Code Pro", monospace;
+--font-text-size: 16px;
+--font-mermaid: '??', '??', ui-sans-serif, -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Google Sans Flex", Roboto, "Inter Variable", "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+--zoom-factor: 1;
+--titlebar-height: 30px;
+--frame-left-space: 0px;
+--frame-right-space: 126px;
+--direction: 1;
+--inset-start: left;
+--inset-end: right;
+--pill-focus-width: calc(100% + 6px);
+--pill-focus-left-adjust: -4px;
+--canvas-color: 156, 160, 176;
+--safe-area-inset-top: 0px;
+--safe-area-inset-bottom: 0px;
+--safe-area-inset-left: 0px;
+--safe-area-inset-right: 0px;
+--preferred-text-scale: 1;
+--keyboard-height: 0px;
+--git-delete-bg: #ff475040;
+--git-delete-hl: #96050a75;
+--git-insert-bg: #68d36840;
+--git-insert-hl: #23c02350;
+--git-change-bg: #ffd55840;
+--git-selected: #3572b0;
+--git-delete: #c33;
+--git-insert: #399839;
+--git-change: #d0b44c;
+--git-move: #3572b0;
+--advanced-tables-helper-size: 28px;
+--toolbar-horizontal-offset: 0px;
+--toolbar-vertical-offset: 0px;
+--toolbar-icon-size: 18px;
+--mk-ui-divider: rgb(188, 192, 204);
+--mk-ui-border: rgb(188, 192, 204);
+--mk-ui-border-accent: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--mk-ui-radius-small: 4px;
+--mk-ui-radius-medium: 8px;
+--mk-ui-radius-large: 12px;
+--mk-ui-background-overlay: rgba(0, 0, 0, .5);
+--mk-ui-border-overlay: rgba(15, 15, 15, .5);
+--mk-ui-background-blur: rgb(239, 241, 245);
+--mk-ui-border-hover: rgb(172, 176, 190);
+--mk-ui-handle-color: rgba(70, 79, 200, 1);
+--mk-ui-handle-color-hover: #eb3b5a22;
+--mk-ui-handle-outline: rgba(255, 255, 255, .8);
+--mk-ui-handle-fill: #fff;
+--mk-ui-active: hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075));
+--mk-ui-active-hover: rgb(188, 192, 204);
+--mk-ui-active-normal: rgb(204, 208, 218);
+--mk-ui-background: rgb(239, 241, 245);
+--mk-ui-background-variant: rgb(230, 233, 239);
+--mk-ui-background-contrast: rgb(230, 233, 239);
+--mk-ui-background-active: hsla(258, 88%, 66%, 0.1);
+--mk-ui-background-selected: hsla(258, 88%, 66%, 0.1);
+--mk-ui-background-reverse: rgb(76, 79, 105);
+--mk-ui-background-hover: rgba(76, 79, 105, 0.075);
+--mk-ui-background-menu: rgb(230, 233, 239);
+--mk-ui-background-menu-input: rgba(220, 224, 232, 0.3);
+--mk-ui-background-menu-hover: rgba(76, 79, 105, 0.075);
+--mk-ui-background-input: rgba(220, 224, 232, 0.3);
+--mk-ui-text-primary: rgb(76, 79, 105);
+--mk-ui-text-secondary: rgb(124, 127, 147);
+--mk-ui-text-tertiary: rgb(108, 111, 133);
+--mk-ui-text-accent: rgb(239, 241, 245);
+--mk-ui-text-reverse: rgb(239, 241, 245);
+--mk-ui-text-error: #eb3b5a;
+--mk-shadow-card: 0px 1px 4px 0px rgba(0, 0, 0, .4);
+--mk-shadow-menu: 0px 0px 32px 0px rgba(0, 0, 0, .2);
+--mk-color-none: rgba(76, 79, 105, .025);
+--mk-color-blue: #3867d6;
+--mk-color-green: #20bf6b;
+--mk-color-orange: #fa8231;
+--mk-color-purple: #8854d0;
+--mk-color-red: #eb3b5a;
+--mk-color-turquoise: #0fb9b1;
+--mk-color-yellow: #E5A216;
+--mk-color-charcoal: #4b6584;
+--mk-color-teal: #2d98da;
+--mk-color-pink: #E83289;
+--mk-color-brown: #68381E;
+--mk-color-gray: #8392A4;
+--mk-color-black: #000000;
+--mk-color-white: #ffffff;
+--mk-color-base-0: rgb(220, 224, 232);
+--mk-color-base-10: rgb(230, 233, 239);
+--mk-color-base-20: rgb(239, 241, 245);
+--mk-color-base-30: rgb(188, 192, 204);
+--mk-color-base-40: rgb(156, 160, 176);
+--mk-color-base-50: rgb(140, 143, 161);
+--mk-color-base-60: rgb(124, 127, 147);
+--mk-color-base-70: rgb(108, 111, 133);
+--mk-color-base-100: rgb(76, 79, 105);
+--mk-color-selection: hsla(258, 88%, 66%, 0.1);
+--mk-color-ui-accent: hsl(258, 88%, 66%);
+--mk-layer-editor-popover: 100;
+--mk-layer-editor-overlay: 100;
+--mk-gradient-overlay: linear-gradient(to bottom, #000000, transparent);
+--page-width: 700px;
+--ctp-rosewater: 222, 149, 132;
+--ctp-flamingo: 221, 120, 120;
+--ctp-pink: 236, 131, 208;
+--ctp-mauve: 136, 57, 239;
+--ctp-red: 210, 15, 57;
+--ctp-maroon: 230, 69, 83;
+--ctp-peach: 254, 100, 11;
+--ctp-yellow: 228, 147, 32;
+--ctp-green: 64, 160, 43;
+--ctp-teal: 23, 146, 153;
+--ctp-sky: 4, 165, 229;
+--ctp-sapphire: 32, 159, 181;
+--ctp-blue: 42, 110, 245;
+--ctp-lavender: 114, 135, 253;
+--ctp-text: 76, 79, 105;
+--ctp-subtext1: 92, 95, 119;
+--ctp-subtext0: 108, 111, 133;
+--ctp-overlay2: 124, 127, 147;
+--ctp-overlay1: 140, 143, 161;
+--ctp-overlay0: 156, 160, 176;
+--ctp-surface2: 172, 176, 190;
+--ctp-surface1: 188, 192, 204;
+--ctp-surface0: 204, 208, 218;
+--ctp-base: 239, 241, 245;
+--ctp-mantle: 230, 233, 239;
+--ctp-crust: 220, 224, 232;
+--text-highlight-bg-active: rgba(228, 147, 32, 0.4);
+--background-modifier-active: hsla(258, 88%, 66%, 0.1);
+--background-modifier-success-hover: rgba(64, 160, 43, 0.9);
+--text-muted-rgb: 124, 127, 147;
+--text-error-hover: rgba(210, 15, 57, 0.8);
+--interactive-success: rgb(64, 160, 43);
+--width-image-gallery: 200px;
+--min-width-image: 50%;
+--max-width-image: 90%;
+--anp-speech-bubble-opacity: 0.5;
+--anp-rainbow-folder-bg-opacity: 1;
+--anp-rainbow-folder-border-opacity: 1;
+--anp-rainbow-folder-collapse-border-custom: #00000044;
+--anp-preview-width-pct: 95%;
+--anp-preview-width-max: 800px;
+--anp-header-margin-value: 15px;
+--anp-header-font: "Noto Serif";
+--anp-table-width-pct: 100%;
+--card-background-color: rgb(220, 224, 232);
+--card-foreground-color: rgb(239, 241, 245);
+--tab-inactive-color: rgb(230, 233, 239);
+--pdf-dark-opacity: 1;
+--colorful-icon-color: rgb(230, 233, 239);
+--colorful-icon-color-alt: rgb(220, 224, 232);
+margin: 0;
+background-color: var(--mk-ui-background);
+text-rendering: optimizeLegibility;
+font-family: var(--font-interface);
+line-height: var(--line-height-tight);
+font-size: var(--font-ui-medium);
+color: var(--text-normal);
+-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+display: flex;
+height: 100%;
+overflow: hidden;
+            }
+ div.main {
+            display: flex;
+flex-direction: column;
+overflow: auto;
+position: relative;
+flex: 1;
+            }
+ div.main h1 {
+            --font-weight: var(--h1-weight);
+font-variant: var(--h1-variant);
+letter-spacing: -0.015em;
+line-height: var(--h1-line-height);
+font-size: var(--h1-size);
+color: var(--h1-color);
+font-style: var(--h1-style);
+font-family: var(--h1-font);
+font-weight: var(--font-weight);
+            }
+
+ div.main h2 {
+            --font-weight: var(--h2-weight);
+font-variant: var(--h2-variant);
+letter-spacing: -0.015em;
+line-height: var(--h2-line-height);
+font-size: var(--h2-size);
+color: var(--h2-color);
+font-style: var(--h2-style);
+font-family: var(--h2-font);
+font-weight: var(--font-weight);
+            }
+
+ div.main h3 {
+            --font-weight: var(--h3-weight);
+font-variant: var(--h3-variant);
+letter-spacing: -0.015em;
+line-height: var(--h3-line-height);
+font-size: var(--h3-size);
+color: var(--h3-color);
+font-style: var(--h3-style);
+font-family: var(--h3-font);
+font-weight: var(--font-weight);
+            }
+
+ div.main h4 {
+            --font-weight: var(--h4-weight);
+font-variant: var(--h4-variant);
+letter-spacing: 0.015em;
+line-height: var(--h4-line-height);
+font-size: var(--h4-size);
+color: var(--h4-color);
+font-style: var(--h4-style);
+font-family: var(--h4-font);
+font-weight: var(--font-weight);
+            }
+
+ div.main h5 {
+            --font-weight: var(--h5-weight);
+font-variant: var(--h5-variant);
+letter-spacing: 0.015em;
+line-height: var(--h5-line-height);
+font-size: var(--h5-size);
+color: var(--h5-color);
+font-style: var(--h5-style);
+font-family: var(--h5-font);
+font-weight: var(--font-weight);
+            }
+
+ div.main h6 {
+            --font-weight: var(--h6-weight);
+font-variant: var(--h6-variant);
+letter-spacing: 0.015em;
+line-height: var(--h6-line-height);
+font-size: var(--h6-size);
+color: var(--h6-color);
+font-style: var(--h6-style);
+font-family: var(--h6-font);
+font-weight: var(--font-weight);
+            }
+
+ div.main div[data-type='contextView'] {
+            display: flex;
+flex-direction: column;
+            }
+
+ div.main div[data-type='contextGroup'] {
+            display: flex;
+flex-direction: column;
+            }
+
+ div.main a[data-type='contextItem'] {
+            display: flex;
+flex-direction: column;
+text-decoration: none;
+color: inherit;
+            }
+ div.main a[data-type='contextItem']:hover {
+            background: var(--mk-ui-background-hover)!important;
+            }
+
+ div.main ol {
+            padding-inline-start: 0;
+margin-block-start: var(--p-spacing);
+margin-block-end: var(--p-spacing);
+            }
+ div.main ol li {
+            margin-inline-start: 3ch;
+            }
+
+ div.main ul {
+            padding-inline-start: 0;
+margin-block-start: var(--p-spacing);
+margin-block-end: var(--p-spacing);
+list-style-type: \200B;
+            }
+ div.main ul li {
+            margin-inline-start: 3ch;
+            }
+
+ div.main li[data-type='taskList'] {
+            padding-inline-start: 0;
+margin-block-start: var(--p-spacing);
+margin-block-end: var(--p-spacing);
+            }
+ div.main li[data-type='taskList'] task {
+            display: flex;
+flex-direction: row;
+align-items: center;
+margin-block-start: var(--p-spacing);
+margin-block-end: var(--p-spacing);
+            }
+ div.main li[data-type='taskList'] task input {
+            margin-inline-start: calc(var(--checkbox-size)* -1.5);
+            }
+
+ div.main li {
+            margin-inline-start: 3ch;
+            }
+
+ div.main a {
+            --font-weight: var(--link-weight);
+color: var(--link-color);
+font-weight: var(--link-weight);
+outline: none;
+text-decoration-line: var(--link-decoration);
+text-decoration-thickness: var(--link-decoration-thickness);
+cursor: var(--cursor-link);
+transition: opacity 0.15s ease-in-out;
+            }
+
+ div.main span {
+            color: var(--span-color);
+font-weight: var(--span-weight);
+font-style: var(--span-style);
+font-family: var(--span-font);
+font-size: var(--span-size);
+line-height: var(--span-line-height);
+letter-spacing: var(--span-spacing);
+text-transform: var(--span-transform);
+            }
+
+ div.main table {
+            border-collapse: collapse;
+width: 100%;
+margin-block-start: var(--p-spacing);
+margin-block-end: var(--p-spacing);
+            }
+ div.main table thead {
+            
+            }
+ div.main table thead tr {
+            
+            }
+ div.main table thead tr td {
+            
+            }
+
+ div.main table tbody {
+            
+            }
+ div.main table tbody tr {
+            
+            }
+ div.main table tbody tr td {
+            padding: var(--size-2-2) var(--size-4-2);
+border: var(--table-border-width) solid var(--table-border-color);
+max-width: var(--table-column-max-width);
+min-width: var(--table-column-min-width);
+vertical-align: var(--table-cell-vertical-alignment);
+            }
+
+ div.main input {
+            margin-inline-start: 3ch;
+            }
+
+ div.main pre {
+            position: relative;
+padding: var(--size-4-3) var(--size-4-4);
+min-height: 38px;
+background-color: var(--code-background);
+border-radius: var(--code-radius);
+white-space: var(--code-white-space);
+border: var(--code-border-width) solid var(--code-border-color);
+overflow-x: auto;
+            }
+
+ div.main br {
+            margin-inline-start: 3ch;
+            }
+
+ div.main hr {
+            border: none;
+border-top: var(--hr-thickness) solid;
+border-color: var(--hr-color);
+            }
+
+ div.main img {
+            max-width: 100%;
+            }
+
+ div.main code {
+            
+            }
+
+ div.main blockquote {
+            color: var(--blockquote-color);
+font-style: var(--blockquote-font-style);
+background-color: var(--blockquote-background-color);
+border-inline-start: var(--blockquote-border-thickness) solid var(--blockquote-border-color);
+padding-top: 0;
+padding-bottom: 0;
+padding-inline-start: var(--size-4-6);
+margin-inline-start: 0;
+margin-inline-end: 0;
+            }
+
+ div.main p {
+            
+            }
+
+ div.main strong {
+            
+            }
+
+ div.main em {
+            
+            }
+
+ div.main s {
+            
+            }
+</style><title>03 I am doing (present continuous)</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="theme-color" content="var(--theme-color)"><meta name="description" content="03 I am doing (present continuous)"><link rel="icon" href="data:image/svg+xml,&#x3C;svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; fill=&#x22;none&#x22; viewBox=&#x22;0 0 24 24&#x22; stroke-width=&#x22;2&#x22; stroke=&#x22;currentColor&#x22;&#x3E;
+    &#x3C;path stroke-linecap=&#x22;round&#x22; stroke-linejoin=&#x22;round&#x22; d=&#x22;M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z&#x22; /&#x3E;
+  &#x3C;/svg&#x3E;" type="image/svg+xml"></head><body><div class="nav">
+  <style>
+    .nav {
+      display: flex;
+      flex-direction: column;
+      overflow: auto;
+      position: relative;
+      width: 300px;
+      padding: 24px 8px;
+    }
+      .nav-item.nav-root {
+      padding-left: 0;
+      }
+    .nav-root > .nav-contents > .nav-spacer {
+      width: 0;
+    }
+    .nav-item {
+      display: none;
+      flex-direction: column;
+      padding-left: 16px;
+      gap: 2px;
+    }
+      .nav-contents.active {
+        background: var(--mk-ui-background-selected);
+      }
+    .nav-item.expanded, .nav-item.expanded > .nav-item {
+      display: flex;
+    }
+    .nav-contents {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 2px 4px;
+      border-radius: 4px;
+    }
+    .nav-collapse {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 14px;
+      height: 14px;
+      cursor: pointer;
+      color: var(--mk-ui-text-tertiary);
+      transition: transform 0.2s ease;
+      transform: rotate(0deg);
+      transform-origin: center;
+    }
+      .nav-spacer {
+        width: 14px;
+        height: 14px;
+        cursor: default;
+}
+      .nav-contents:hover  {
+      background: var(--mk-ui-background-hover);
+    }
+    .nav-item.expanded > .nav-contents > .nav-collapse {
+      transform: rotate(90deg);
+    }
+    .nav-icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 16px;
+      height: 16px;
+      color: var(--mk-ui-text-secondary);
+    }
+    .nav-name {
+      flex: 1;
+      font-size: 14px;
+      color: var(--mk-ui-text-secondary);
+      text-decoration: none;
+      text-transform: none;
+      text-align: left;
+      line-height: 24px;
+      transition: color 0.2s ease;
+      border-radius: var(--file-border-radius);
+      background: var(--file-background);
+    }
+      .main {
+        display: flex;
+        flex-direction: column;
+        overflow: auto;
+        position: relative;
+        flex: 1;
+      }
+      </style>
+  
+      <div class="nav-item expanded nav-root" data-path="lessons">
+      <div class="nav-contents " onclick="event.stopPropagation();window.location.href='../index.html';" data-path="lessons">
+      <div class='nav-spacer'></div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12.75V12A2.25 2.25 0 014.5 9.75h15A2.25 2.25 0 0121.75 12v.75m-8.69-6.44l-2.12-2.12a1.5 1.5 0 00-1.061-.44H4.5A2.25 2.25 0 002.25 6v12a2.25 2.25 0 002.25 2.25h15A2.25 2.25 0 0021.75 18V9a2.25 2.25 0 00-2.25-2.25h-5.379a1.5 1.5 0 01-1.06-.44z" />
+    </svg></div>
+        <div class="nav-name">lessons</div>
+        </div>
+        
+      <div class="nav-item" data-path="lessons/01 - am is are">
+      <div class="nav-contents " onclick="event.stopPropagation();window.location.href='../01 - am is are/index.html';" data-path="lessons/01 - am is are">
+      <div class="nav-collapse " onclick="event.stopPropagation();document.querySelector('[data-path=&#x22;lessons/01 - am is are&#x22;]').classList.toggle('expanded');">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+  </svg>
+      </div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12.75V12A2.25 2.25 0 014.5 9.75h15A2.25 2.25 0 0121.75 12v.75m-8.69-6.44l-2.12-2.12a1.5 1.5 0 00-1.061-.44H4.5A2.25 2.25 0 002.25 6v12a2.25 2.25 0 002.25 2.25h15A2.25 2.25 0 0021.75 18V9a2.25 2.25 0 00-2.25-2.25h-5.379a1.5 1.5 0 01-1.06-.44z" />
+    </svg></div>
+        <div class="nav-name">01 - am is are</div>
+        </div>
+        
+      <div class="nav-item" data-path="lessons/01 - am is are/01 am is are.md">
+      <div class="nav-contents " onclick="event.stopPropagation();window.location.href='../01 - am is are/01 am is are.html';" data-path="lessons/01 - am is are/01 am is are.md">
+      <div class='nav-spacer'></div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
+  </svg></div>
+        <div class="nav-name">01 am is are</div>
+        </div>
+        
+      </div>
+    
+      </div>
+    
+      <div class="nav-item" data-path="lessons/02 - am is are (questions)">
+      <div class="nav-contents " onclick="event.stopPropagation();window.location.href='../02 - am is are (questions)/index.html';" data-path="lessons/02 - am is are (questions)">
+      <div class="nav-collapse " onclick="event.stopPropagation();document.querySelector('[data-path=&#x22;lessons/02 - am is are (questions)&#x22;]').classList.toggle('expanded');">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+  </svg>
+      </div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12.75V12A2.25 2.25 0 014.5 9.75h15A2.25 2.25 0 0121.75 12v.75m-8.69-6.44l-2.12-2.12a1.5 1.5 0 00-1.061-.44H4.5A2.25 2.25 0 002.25 6v12a2.25 2.25 0 002.25 2.25h15A2.25 2.25 0 0021.75 18V9a2.25 2.25 0 00-2.25-2.25h-5.379a1.5 1.5 0 01-1.06-.44z" />
+    </svg></div>
+        <div class="nav-name">02 - am is are (questions)</div>
+        </div>
+        
+      <div class="nav-item" data-path="lessons/02 - am is are (questions)/02 am is are (questions).md">
+      <div class="nav-contents " onclick="event.stopPropagation();window.location.href='../02 - am is are (questions)/02 am is are (questions).html';" data-path="lessons/02 - am is are (questions)/02 am is are (questions).md">
+      <div class='nav-spacer'></div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
+  </svg></div>
+        <div class="nav-name">02 am is are (questions)</div>
+        </div>
+        
+      </div>
+    
+      </div>
+    
+      <div class="nav-item expanded" data-path="lessons/03 - I am doing (present continuous)">
+      <div class="nav-contents " onclick="event.stopPropagation();window.location.href='./index.html';" data-path="lessons/03 - I am doing (present continuous)">
+      <div class="nav-collapse expanded" onclick="event.stopPropagation();document.querySelector('[data-path=&#x22;lessons/03 - I am doing (present continuous)&#x22;]').classList.toggle('expanded');">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+  </svg>
+      </div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12.75V12A2.25 2.25 0 014.5 9.75h15A2.25 2.25 0 0121.75 12v.75m-8.69-6.44l-2.12-2.12a1.5 1.5 0 00-1.061-.44H4.5A2.25 2.25 0 002.25 6v12a2.25 2.25 0 002.25 2.25h15A2.25 2.25 0 0021.75 18V9a2.25 2.25 0 00-2.25-2.25h-5.379a1.5 1.5 0 01-1.06-.44z" />
+    </svg></div>
+        <div class="nav-name">03 - I am doing (present continuous)</div>
+        </div>
+        
+      <div class="nav-item expanded" data-path="lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md">
+      <div class="nav-contents active" onclick="event.stopPropagation();window.location.href='./03 I am doing (present continuous).html';" data-path="lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md">
+      <div class='nav-spacer'></div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
+  </svg></div>
+        <div class="nav-name">03 I am doing (present continuous)</div>
+        </div>
+        
+      </div>
+    
+      </div>
+    
+      <div class="nav-item" data-path="lessons/04 - are you doing (present continuous questions)">
+      <div class="nav-contents " onclick="event.stopPropagation();window.location.href='../04 - are you doing (present continuous questions)/index.html';" data-path="lessons/04 - are you doing (present continuous questions)">
+      <div class="nav-collapse " onclick="event.stopPropagation();document.querySelector('[data-path=&#x22;lessons/04 - are you doing (present continuous questions)&#x22;]').classList.toggle('expanded');">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+  </svg>
+      </div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12.75V12A2.25 2.25 0 014.5 9.75h15A2.25 2.25 0 0121.75 12v.75m-8.69-6.44l-2.12-2.12a1.5 1.5 0 00-1.061-.44H4.5A2.25 2.25 0 002.25 6v12a2.25 2.25 0 002.25 2.25h15A2.25 2.25 0 0021.75 18V9a2.25 2.25 0 00-2.25-2.25h-5.379a1.5 1.5 0 01-1.06-.44z" />
+    </svg></div>
+        <div class="nav-name">04 - are you doing (present continuous questions)</div>
+        </div>
+        
+      <div class="nav-item" data-path="lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md">
+      <div class="nav-contents " onclick="event.stopPropagation();window.location.href='../04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).html';" data-path="lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md">
+      <div class='nav-spacer'></div>
+        <div class="nav-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
+  </svg></div>
+        <div class="nav-name">04 are you doing (present continuous questions)</div>
+        </div>
+        
+      </div>
+    
+      </div>
+    
+      </div>
+    </div><div class="main" ><div style="margin: 0 auto; width: 100%; margin-top: var(--file-margins); max-width: var(--file-line-width);  display: flex; position: relative; flex-direction: column; padding: 0 var(--file-margins); margin-bottom: var(--file-margins);"><h1>03 I am doing (present continuous)</h1><div style=""><h2 style="">Структура і випадки використання present continuous</h2><div style=""><p style=""></p>![[03 - I am doing (present continuous) - pic. 1.png|Малюнок 1. Приклади використання Present Continuous.]]</div><h3 style=""><p style=""></p>Дії, що відбуваються зараз</h3><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==<strong style="">Present Continuous</strong> використовується для вираження дії, яка відбувається прямо зараз, у момент мовлення. Тобто ми говоримо про те, що людина робить саме в цю хвилину. Також <strong style="">Present Continuous</strong> вживається, коли кілька дій відбуваються одночасно в теперішній момент.==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">She'<strong style="">s eating</strong>. —  Вона їсть.</div></li><li style=""><div style="">She <strong style="">isn't reading</strong>. — Вона не читає.</div></li><li style=""><div style="">It'<strong style="">s raining</strong>. — Йде дощ.</div></li><li style=""><div style="">The sun <strong style="">isn't shining</strong>. — Сонце не світить.</div></li><li style=""><div style="">They'<strong style="">re running</strong>. — Вони біжать.</div></li><li style=""><div style="">They <strong style="">aren't walking</strong>. — Вони не йдуть пішки.</div></li><li style=""><div style="">He'<strong style="">s playing</strong> the piano <strong style="">now</strong>. — Він зараз грає на піаніно.</div></li><li style=""><div style="">I'<strong style="">m washing</strong> my clothes <strong style="">at the moment</strong>. — Я перу свій одяг у цей момент.</div></li><li style=""><div style="">They’<strong style="">re repairing</strong> the car <strong style="">right now</strong>. – Вони ремонтують машину прямо зараз.</div></li><li style=""><div style="">I’<strong style="">m working</strong> and Ann <strong style="">is cooking now</strong>. – Я працюю зараз, а Енн займається приготуванням їжі.</div></li></ul></li></ul><h3 style=""><p style=""></p>Дії around now</h3><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==<strong style="">Present Continuous</strong> використовується для вираження тимчасової дії, що відбувається не в даний момент часу, а загалом в найближчий часовий проміжок – «<strong style="">around now</strong>» (приблизно у цей час).==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">She’<strong style="">s preparing</strong> for her next week exam. – Вона готується до екзамену, що буде на наступному тижні. (Вона, можливо, не готується до нього прямо зараз, але готувалася та буде до нього готуватися скоро, найближчим часом)</div></li><li style=""><div style="">My brother <strong style="">is looking</strong> for a job these days. – Мій брат зараз шукає роботу. (Не факт, що він зайнятий пошуками прямо зараз, але загалом, він шукає роботу)</div></li><li style=""><div style="">I’<strong style="">m waiting</strong> for the parcel coming soon. – Я чекаю на пакунок, що скоро прийде. (Я чекаю на нього загалом, не в цей конкретний момент)</div></li></ul></li></ul><h3 style=""><p style=""></p>Плани на найближче майбутнє</h3><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==За допомогою <strong style="">Present Continuous</strong> виражаються дії, що були заплановані на найближче майбутнє, особливо якщо час та місце виконання дії заздалегідь відомі та сплановані.==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">They’<strong style="">re moving</strong> to Kyiv next Monday. – Вони переїжджають до Києва наступного понеділка.</div></li><li style=""><div style="">I’<strong style="">m going</strong> to the seaside this evening. – Я їду на море сьогодні ввечері.</div></li><li style=""><div style="">Kate and I <strong style="">are playing</strong> our new concert tonight. – Сьогодні ввечері ми з Кейт граємо наш новий концерт.</div></li></ul></li></ul><h3 style=""><p style=""></p>Обставини, що змінюються</h3><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==<strong style="">Present Continuous</strong> використовується для вираження ситуацій, що розвиваються або змінюються, тобто для вираження певних тенденцій.==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">More men <strong style="">are taking</strong> paternity leave nowadays. – У наш час все більше чоловіків беруть декретну відпустку.</div></li><li style=""><div style="">This tree <strong style="">is growing</strong> so fast. – Це дерево росте так швидко.</div></li><li style=""><div style="">The weather <strong style="">is changing</strong> so unexpectedly these days. – Останнім часом погода змінюється так неочікувано.</div></li></ul></li></ul><h3 style=""><p style=""></p>Негативне ставлення до дій</h3><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==Ми можемо використовувати <strong style="">Present Continuous</strong> для вираження свого ставлення до дій, що відбуваються постійно, або характеру певної людини, коли вони викликають у нас гнів (<strong style="">anger</strong>), роздратування (<strong style="">irritation</strong>) або вони нам докучають (<strong style="">annoy</strong>). Часто в таких реченнях використовуються слова <strong style="">always</strong> (завжди), <strong style="">constantly</strong> (постійно, без упину), <strong style="">continually</strong> (безперервно).==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">You’<strong style="">re always interrupting</strong> me when I’<strong style="">m trying</strong> to tell this story. – Ти постійно мене перебиваєш, коли я намагаюся розповісти цю історію.</div></li><li style=""><div style="">He’<strong style="">s constantly losing</strong> our keys on the vacation. – На відпочинку він постійно губить наші ключі.</div></li><li style=""><div style="">I’<strong style="">m always getting</strong> ill after this ice-cream. – Я постійно хворію після цього морозива.</div></li></ul></li></ul><h3 style=""><p style=""></p>Формування present continuous</h3><div style=""><p style=""></p>![[03 - I am doing (present continuous) - pic. 2.png|Малюнок 2. Структура present continuous.]]</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==Граматичний час <strong style="">Present Continuous (Present Progressive)</strong> утворюється за допомогою допоміжного дієслова <strong style="">be</strong> у формах <strong style="">am</strong>, <strong style="">is</strong> або <strong style="">are</strong> та форми <strong style="">Present Participle</strong> (першої форми смислового дієслова із закінченням <strong style="">-ing</strong>).==</div></li><li style=""><p style=""></p><div style="">Вибір необхідної форми допоміжного дієслова залежить від підмета (виконавця дії):</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">I → am</strong> (про себе);</div></li><li style=""><div style=""><strong style="">He, she, it → is</strong> (підмет виражений іменником або займенником в однині);</div></li><li style=""><div style=""><strong style="">You, we, they → are</strong> (підмет виражений іменником або займенником в множині або займенником you)</div></li></ul></li><li style=""><p style=""></p><div style="">Скорочення з дієсловом to be:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">I am = I'<strong style="">m</strong></div></li><li style=""><div style="">He is = He'<strong style="">s</strong></div></li><li style=""><div style="">She is = She'<strong style="">s</strong></div></li><li style=""><div style="">It is = It'<strong style="">s</strong></div></li><li style=""><div style="">You are = You'<strong style="">re</strong></div></li><li style=""><div style="">We are = We'<strong style="">re</strong></div></li><li style=""><div style="">They are = They'<strong style="">re</strong></div></li></ul></li><li style=""><p style=""></p><div style="">Приклади використання present continuous:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">I'<strong style="">m working</strong>. I'<strong style="">m not watching</strong> TV. — Я працюю. Я не дивлюся телевізор.</div></li><li style=""><div style="">Maria <strong style="">is reading</strong> a newspaper. — Марія читає газету.</div></li><li style=""><div style="">She <strong style="">isn't eating</strong>. (or She'<strong style="">s not eating</strong>.) — Вона не їсть.</div></li><li style=""><div style="">The phone <strong style="">is ringing</strong>. — Телефон дзвонить.</div></li><li style=""><div style="">We'<strong style="">re having</strong> dinner. — Ми вечеряємо.</div></li><li style=""><div style="">You'<strong style="">re not listening</strong> to me. (or You <strong style="">aren't listening</strong> ...) — Ти мене не слухаєш.</div></li><li style=""><div style="">The children <strong style="">are doing</strong> their homework. — Діти роблять домашню роботу.</div></li></ul></li></ul><h2 style=""><p style=""></p>Дієприкметник теперішнього часу</h2><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==<strong style="">Дієприкметник (Participle)</strong> – це безособова форма дієслова, що передає ознаку предмета за дією та відповідає на питання «який?» та «що роблячи?». Англійські дієприкметники поєднують у собі ознаки дієслова, прикметника, а також прислівника. Дієприкметник не змінюється за категоріями числа, особи та способу, також він не має ступенів порівняння.==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">Дієприкметник (Participle)</strong> поєднує ознаки дієслова, прикметника та інколи прислівника, тому що в реченні він може виконувати різні функції:</div><ol style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">Ознаки дієслова</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Дієприкметник походить від дієслова і зберігає значення дії:</div><ul style="flex-basis: 100%;"><li style=""><div style=""><strong style="">running</strong> water — вода, що тече</div></li><li style=""><div style=""><strong style="">broken</strong> window — вікно, яке розбили</div></li><li style=""><div style="">He is <strong style="">reading</strong>. — Він читає.</div></li></ul></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Ознаки прикметника</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Дієприкметник може описувати предмет, тобто відповідати на питання який?</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">a <strong style="">smiling</strong> girl — усміхнена дівчина</div></li><li style=""><div style="">a <strong style="">closed</strong> door — зачинені двері</div></li><li style=""><div style="">an <strong style="">interesting</strong> book — цікава книга</div></li></ul></li><li style=""><p style=""></p><div style="">Тут слова описують іменник, як звичайні прикметники.</div></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Ознаки прислівника</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Іноді дієприкметник показує як, коли, за якої умови відбувається дія:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">He sat <strong style="">reading</strong> a book. — Він сидів, читаючи книгу.</div></li><li style=""><div style="">She came in <strong style="">smiling</strong>. — Вона зайшла, усміхаючись.</div></li></ul></li></ul></li></ol></li><li style=""><p style=""></p><div style=""><strong style="">Дієприкметник (Participle)</strong> в англійській мові є незмінною формою, тобто він не змінюється так, як звичайні дієслова чи прикметники:</div><ol style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">Не змінюється за числом</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Одна й та сама форма використовується і для однини, і для множини:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">a <strong style="">smiling</strong> boy — усміхнений хлопець;</div></li><li style=""><div style=""><strong style="">smiling</strong> boys — усміхнені хлопці;</div></li><li style=""><div style="">a <strong style="">broken</strong> chair — зламаний стілець;</div></li><li style=""><div style=""><strong style="">broken</strong> chairs — зламані стільці.</div></li></ul></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Не змінюється за особою</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">На відміну від дієслова, форма participle не залежить від того, хто виконує дію:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">I am <strong style="">working</strong></div></li><li style=""><div style="">He is <strong style="">working</strong></div></li><li style=""><div style="">They are <strong style="">working</strong></div></li></ul></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Категорії способу</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Спосіб — це наказ, бажання, факт (як наказовий спосіб);</div></li><li style=""><p style=""></p><div style="">Дієприкметник сам по собі не може виражати: наказ, прохання, умову, бажання:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">working — просто форма дії;</div></li><li style=""><div style="">Work! — наказ (це вже дієслово, не participle)</div></li></ul></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Не має ступенів порівняння</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Звичайні прикметники можуть мати:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">big → bigger → biggest — великий → більший → найбільший</div></li><li style=""><div style="">happy → happier → happiest — щасливий → щасливіший → найщасливіший</div></li></ul></li><li style=""><p style=""></p><div style="">Participle так не змінюється.</div></li></ul></li></ol></li><li style=""><p style=""></p><div style=""><strong style="">Дієприкметник теперішнього часу (Participle I)</strong> вживається для утворення часів <strong style="">Present Continuous</strong>, <strong style="">Past Continuous</strong>, <strong style="">Future Continuous</strong>, а також <strong style="">Present Perfect Continuous</strong>, <strong style="">Past Perfect Continuous</strong> та <strong style="">Future Perfect Continuous</strong>.</div></li><li style=""><p style=""></p><div style="">Дієприкметник теперішнього часу (<strong style="">Present Participle (Participle I)</strong> має форми <strong style="">active</strong> і <strong style="">passive</strong>, утворюється додаванням <strong style="">-ing</strong> до основи дієслова (doing) або через <strong style="">being / having + Participle II</strong> за потреби.</div><div style=""><p style=""></p>![[03 - I am doing (present continuous) - pic. 4.png|Малюнок 3. Форми дієприкметника теперішнього часу.|608]]</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==Неозначений дієприкметник (<strong style="">Indefinite Participle I</strong>) в активному й пасивному станах виражає дію, що відбувається одночасно з дією присудка, або дію без точного часовогo значення (загальну, постійну чи невизначену в часі).==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">Активний стан:</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Who is this <strong style="">crying</strong> boy? – Хто цей хлопчик, що плаче?</div></li><li style=""><div style="">While <strong style="">listening</strong> to his stories, Kate couldn’t help laughing. – Слухаючи його розповіді, Кейт не могла стримати сміх.</div></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Пасивний стан:</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">Being written</strong> in pencil the text was difficult to read. – Було складно читати текст, оскільки він був написаний олівцем.</div></li><li style=""><div style=""><strong style="">Being left</strong> alone in the house Ann didn’t know what to do. – Енн, яку залишили одну вдома, не знала, що їй робити.</div></li></ul></li></ul></li><li style=""><p style=""></p><div style="">==Доконаний дієприслівник (<strong style="">Perfect Participle I</strong>) в активному й пасивному станах означає дію, яка <strong style="">відбулася або тривала раніше</strong> за іншу дію, виражену дієсловом-присудком.==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">Активний стан:</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Nancy and Mark, <strong style="">having washed</strong> their hands, sat down at the table. – Ненсі та Марк вимили руки та сіли за стіл.</div></li><li style=""><div style=""><strong style="">Having been friends</strong> at school we still keep in touch. – Ми були друзями у школі та досі підтримуємо зв'язок один з одним.</div></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Пасивний стан:</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">Having been cheated</strong> once Michael doesn’t trust anyone. – Оскільки Майкла вже один раз обдурили, він нікому не довіряє.</div></li><li style=""><div style=""><strong style="">Not having been informed</strong> beforehand I didn’t know when to come to the meeting. – Оскільки мені не повідомили заздалегідь, я не знав, коли приходити на збори.</div></li></ul></li></ul></li><li style=""><p style=""></p><div style="">==<strong style="">Неозначений дієприкметник</strong> вживається замість <strong style="">доконаного дієприкметника</strong> з дієсловами сприйняття та руху, навіть якщо дія передає значення передування іншій дії.==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">to arrive — прибувати</div></li><li style=""><div style="">to come — приходити</div></li><li style=""><div style="">to enter — входити</div></li><li style=""><div style="">to hear — чути</div></li><li style=""><div style="">to look — дивитися</div></li><li style=""><div style="">to see — бачити</div></li><li style=""><div style="">to seize — схопити</div></li><li style=""><div style="">to turn — повертати</div></li><li style=""><p style=""></p><div style=""><strong style="">Arriving</strong> at the hotel we could relax at last. – Коли ми приїхали до готелю, ми нарешті змогли відпочити.</div></li><li style=""><div style=""><strong style="">Hearing</strong> someone coming Jack rushed to hide his diary. – Почувши, що хтось йде, Джек побіг ховати свій щоденник.</div></li><li style=""><div style=""><strong style="">Entering</strong> the shop Clark stood a bit in the doorway and then went to the cashier. – Зайшовши до магазину, Кларк постояв трохи у проході, а потім пішов до касира.</div></li></ul></li></ul></li></ul></li></ul><h2 style=""><p style=""></p>Візуальна схема та правила додавання закінчення -ing</h2><div style=""><p style=""></p>![[03 - I am doing (present continuous) - pic. 3.png|Малюнок 4. Візуальна схема present continuous. Правила додавання закінчення.]]</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==Конструкція <strong style="">am/is/are + -ing</strong> використовується для опису дій, які відбуваються прямо зараз (something is happening now) . На часовій шкалі внизу зображення видно, що дія зосереджена саме на моменті «тепер» (now), а не в минулому чи майбутньому.==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Please be quiet. I'<strong style="">m working</strong>. — Будь ласка, тихіше. Я працюю.</div></li><li style=""><div style="">Look, there's Sarah. She'<strong style="">s wearing</strong> a brown coat. — Дивись, там Сара. Вона вдягнена в коричневе пальто.</div></li><li style=""><div style="">The weather is nice. It'<strong style="">s not raining</strong>. — Погода гарна. Дощу немає. / Дощ не йде.</div></li><li style=""><div style="">'Where are the children?' 'They'<strong style="">re playing</strong> in the park.' — 'Де діти?' 'Вони грають в парку.'</div></li><li style=""><div style="">We'<strong style="">re having</strong> dinner now. Can I phone you later? — Ми зараз вечеряємо. Можу я зателефонувати тобі пізніше?</div></li><li style=""><div style="">You can turn off the television. I'<strong style="">m not watching</strong> it. — Можеш вимкнути телевізор. Я його не дивлюся.</div></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Додавання закінчення/суфікса -ing</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==Німа "e":==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Якщо дієслово закінчується на німу букву "е", то перед -ing вона випадає. Якщо ж [ e ] вимовляється, тоді випадання не відбувається:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">"е" не вимовляється</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">to make → making — робити → роблячи / роблення / той, що робить (залежно від ролі в реченні)</div></li><li style=""><div style="">to take → taking — брати → беручи / який бере</div></li><li style=""><div style="">to forgive → forgiving — прощати → прощаючи / великодушний / поблажливий / всепрощаючий</div></li><li style=""><div style="">to write → writing — писати → пишучи / писемність / письмо / письмовий</div></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">"е" вимовляється</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">to agree → agreeing — погоджуватися → погоджуючись / погодившись / коли погодився</div></li><li style=""><div style="">to free → freeing — звільняти → звільняючи / звільнивши / звільнення</div></li><li style=""><div style="">to pee → peeing — пісяти → пісяючи / сечовипускання, пісяння</div></li><li style=""><div style="">to fee → feeing — наймати (людей) → наймаючи (регіональне слово Шотландії, рідко використовується в сучасній англійській). Синонім: to hire → hiring — наймати → наймаючи / найм</div></li></ul></li></ul></li></ul></li><li style=""><p style=""></p><div style="">==Закінчення <strong style="">-ie</strong> змінюється на <strong style="">-y</strong>:==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Якщо дієслово закінчується на буквосполучення "ie", тоді при додаванні -ing суфікс -ie змінюється на "y":</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">to die → dying — померти → помираючи / вмирання / вмираючий, згасаючий</div></li><li style=""><div style="">to lie → lying — лежати → лежачи, лежить / брехати → брехаючи, бреше</div></li><li style=""><div style="">to tie → tying — зав'язувати / зв'язувати → зав'язуючи, зав'язавши / зв'язуючи, зв'язавши</div></li></ul></li></ul></li><li style=""><p style=""></p><div style="">==Літера <strong style="">"y"</strong> зберігається:==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Якщо дієслово закінчується на букву «y», то вона не змінюється та не випадає перед закінченням -ing:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">to carry → carrying — нести / переносити → несучи, понісши, коли несла / переносячи, перенісши, коли переносила</div></li><li style=""><div style="">to study → studying — вчитися / навчатися → навчаючись / вивчаючи</div></li><li style=""><div style="">to play → playing — грати → граючи / гратися</div></li><li style=""><div style="">to try → trying — намагатися / спробувати → намагаючись, складний / виснажливий</div></li><li style=""><div style="">to say → saying — говорити / сказати → говорячи / кажучи / прислів'я, вислів</div></li><li style=""><div style="">to worry → worrying — хвилюватися → хвилюючись / тривожний</div></li></ul></li></ul></li><li style=""><p style=""></p><div style="">==Подвоєння приголосних:==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Подвоєння приголосних перед закінченням <strong style="">-ing</strong> відбувається, якщо дієслово закінчується на одну приголосну букву, перед якою стоїть голосний звук під наголосом:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">to g<strong style="">e</strong>t → ge<strong style="">tt</strong>ing — отримувати → отримуючи / ставати / коли отримав / діставати</div></li><li style=""><div style="">to h<strong style="">i</strong>t → hi<strong style="">tt</strong>ing — вдаряти → вдаряючи, влучаючи / вдаривши, влучивши</div></li><li style=""><div style="">to r<strong style="">u</strong>n → ru<strong style="">nn</strong>ing — бігти → біжучи / біг / біговий</div></li><li style=""><div style="">to s<strong style="">i</strong>t → si<strong style="">tt</strong>ing — сидіти → сидячи / посидівши</div></li><li style=""><div style="">to sw<strong style="">i</strong>m → swi<strong style="">mm</strong>ing — плавати → плаваючи / плавання / плавальний</div></li><li style=""><div style="">to occ<strong style="">u</strong>r → occu<strong style="">rr</strong>ing — траплятися / відбуватися → трапляючись / відбуваючись</div></li><li style=""><div style="">to ref<strong style="">e</strong>r → refe<strong style="">rr</strong>ing — посилатися / звертатися → посилаючись, звертаючись / спираючись на, звертаючись до, що стосується</div></li><li style=""><div style="">to beg<strong style="">i</strong>n → begi<strong style="">nn</strong>ing — починати → починаючи, почавши, на початку / початок</div></li><li style=""><div style="">to st<strong style="">o</strong>p → sto<strong style="">pp</strong>ing — зупинятися / зупиняти → зупиняючись, зупиняючи, зупинивши, коли зупинився, перестати</div></li><li style=""><div style="">to forg<strong style="">e</strong>t → forge<strong style="">tt</strong>ing — забувати → забуваючи, забувши, коли забув, не пам'ятаючи</div></li></ul></li><li style=""><p style=""></p><div style="">Подвоєння кінцевих приголосних перед <strong style="">-ing</strong> не відбувається, якщо наголос падає на інший голосний звук (не перед кінцевим приголосним) або ж коли попередній звук - це довгий голосний звук (диграф):</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">o</strong>pen → ope<strong style="">n</strong>ing — відкривати → відкриваючи, відкривши / початок, відкриття</div></li><li style=""><div style=""><strong style="">o</strong>rder → orde<strong style="">r</strong>ing — замовляти → замовляючи / замовлення</div></li><li style=""><div style="">rem<strong style="">e</strong>mber → remembe<strong style="">r</strong>ing — пам’ятати / згадувати / пригадувати → згадуючи, згадавши, пригадуючи</div></li><li style=""><div style="">f<strong style="">ee</strong>l → fee<strong style="">l</strong>ing — відчувати → відчуваючи, відчувши / почуття, відчуття</div></li><li style=""><div style="">c<strong style="">oo</strong>l → coo<strong style="">l</strong>ing — охолоджувати → охолоджуючи / охолодження, охолоджувальний (participial adjective)</div></li><li style=""><div style="">r<strong style="">ea</strong>d → rea<strong style="">d</strong>ing — читати → читаючи / читання → (процес / іменник)</div></li></ul></li><li style=""><p style=""></p><div style="">Кінцева буква "x" не подвоюється, оскільки ця буква позначає одразу два звуки: [ks] або ж [gz]. Також не подвоюється кінцева буква "w":</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">mix → mi<strong style="">x</strong>ing — змішувати → змішуючи / змішування</div></li><li style=""><div style="">relax → rela<strong style="">x</strong>ing — розслаблятися, відпочивати → розслабляючись, відпочиваючи / розслаблюючий</div></li><li style=""><div style="">tax → ta<strong style="">x</strong>ing — оподатковувати → оподатковуючи / виснажливий, складний, що вимагає багато зусиль</div></li><li style=""><div style="">snow → sno<strong style="">w</strong>ing — сніжити → сніжить, йде сніг, коли сніжило</div></li><li style=""><div style="">blow → blo<strong style="">w</strong>ing — дути → дуючи, дунувши, дме (вітер)</div></li><li style=""><div style="">show → sho<strong style="">w</strong>ing — показувати → показуючи, показавши, демонструючи / показ, результат, демонстрація</div></li></ul></li></ul></li><li style=""><p style=""></p><div style="">==Подвоєння <strong style="">-l</strong> в британській англійській:==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Згідно з граматичними правилами британської англійської, при додаванні закінчення <strong style="">-ing</strong> до дієслів, кінцева <strong style="">"l"</strong> подвоюється завжди, навіть якщо наголос падає не на останній склад у слові:</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">to signal → signalling</strong> — подавати сигнал / сигналізувати → <strong style="">подаючи сигнал / сигналізуючи</strong></div></li><li style=""><div style=""><strong style="">to travel → travelling</strong> — подорожувати / мандрувати → <strong style="">подорожуючи / мандруючи</strong></div></li><li style=""><div style=""><strong style="">to cancel → cancelling</strong> — скасовувати / відміняти → <strong style="">скасовуючи / відміняючи</strong></div></li></ul></li><li style=""><p style=""></p><div style="">В американському варіанті англійської мови подвоєння літери <strong style="">"l"</strong> не відбувається, якщо наголос падає не на голосний перед кінцевою <strong style="">"l"</strong> або ж коли попередній голосний - це довгий голосний звук.</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">to signal → signalling</strong> — подавати сигнал / сигналізувати → <strong style="">подаючи сигнал / сигналізуючи</strong></div></li><li style=""><div style=""><strong style="">to travel → travelling</strong> — подорожувати / мандрувати → <strong style="">подорожуючи / мандруючи</strong></div></li><li style=""><div style=""><strong style="">to cancel → cancelling</strong> — скасовувати / відміняти → <strong style="">скасовуючи / відміняючи</strong></div></li></ul></li><li style=""><p style=""></p><div style="">Якщо ж дієслово закінчується на одну букву "l", якій передує короткий голосний звук під наголосом, то обов'язково подвоєння відбувається в будь-якому випадку</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style=""><strong style="">Британська англійська:</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">compel → compelling — змушувати / примушувати → змушуючи / примушуючи / (в значенні прикметника: переконливий, захопливий, вагомий)</div></li><li style=""><div style="">rebel → rebelling — бунтувати → бунтуючи</div></li></ul></li><li style=""><p style=""></p><div style=""><strong style="">Американська англійська:</strong></div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">compel → compelling — змушувати → змушуючи / примушуючий</div></li><li style=""><div style="">rebel → rebelling — бунтувати → бунтуючи</div></li></ul></li></ul></li></ul></li><li style=""><p style=""></p><div style="">==Закінчення <strong style="">-ic</strong>:==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">Якщо дієслово закінчується на буквосполучення <strong style="">"ic"</strong>, то при додаванні закінчення <strong style="">-ing</strong>, суфікс <strong style="">-ic</strong> змінюється на <strong style="">-ick</strong>.</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">to traffic → trafficking — незаконно торгувати / займатися незаконним перевезенням → незаконно торгуючи / займаючись незаконним перевезенням. Як іменник:</div><ul style="flex-basis: 100%;"><li style=""><div style="">human trafficking — торгівля людьми</div></li><li style=""><div style="">drug trafficking — незаконний обіг наркотиків / наркоторгівля</div></li><li style=""><div style="">arms trafficking — незаконна торгівля зброєю</div></li></ul></li><li style=""><div style="">to mimic → mimicking — наслідувати / імітувати → наслідуючи / імітуючи</div></li><li style=""><div style="">to panic → panicking — панікувати → панікуючи</div></li></ul></li></ul></li></ul></li></ul><h2 style=""><p style=""></p>Маркери часу</h2><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">==<strong style="">Present Continuous</strong> використовується з певними словами та виразами, що вказують на певний відомий момент або проміжок часу, в який відбувається дія.==</div><ul style="flex-basis: 100%;"><p style=""></p><li style=""><div style="">now – зараз</div></li><li style=""><div style="">right now – прямо зараз</div></li><li style=""><div style="">still – все ще</div></li><li style=""><div style="">currently – тепер, у цей час</div></li><li style=""><div style="">at the moment – в цей момент</div></li><li style=""><div style="">at present – у теперішній час</div></li><li style=""><div style="">this morning – цього ранку, цим ранком</div></li><li style=""><div style="">this evening – цього вечора</div></li><li style=""><div style="">this afternoon – сьогодні після обіду</div></li><li style=""><div style="">today – сьогодні (удень)</div></li><li style=""><div style="">tonight – сьогодні (ввечері)</div></li><li style=""><div style="">these days – останніми днями</div></li><li style=""><div style="">nowadays – у наші дні</div></li></ul></li></ul><hr style=""><p style=""></p></hr><div style="">Exercises: <div style="display: flex;"><a href="../../../exercises/03 - I am doing (present continuous) (exercises)/index.html"><div style="display: flex; align-items: center;"><div style="width: 16px; height: 16px;"><html><head></head><body><svg style="width: 100%; height: 100%;" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12.75V12A2.25 2.25 0 014.5 9.75h15A2.25 2.25 0 0121.75 12v.75m-8.69-6.44l-2.12-2.12a1.5 1.5 0 00-1.061-.44H4.5A2.25 2.25 0 002.25 6v12a2.25 2.25 0 002.25 2.25h15A2.25 2.25 0 0021.75 18V9a2.25 2.25 0 00-2.25-2.25h-5.379a1.5 1.5 0 01-1.06-.44z"></path>
+    </svg></body></html></div><div style="margin-left: 8px;">03 - I am doing (present continuous) (exercises)</div></div></a></div></div></div></div></div></div></body>

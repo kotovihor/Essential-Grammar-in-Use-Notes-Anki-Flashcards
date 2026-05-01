@@ -14,10 +14,10 @@
 
 ## Structure
 
-- `Lessons` — конспекти уроків;
-- `Exercises` — вправи;
-- `_anki cards` — картки для Anki;
-- `_images` — зображення та ілюстрації;
+- `lessons` — конспекти уроків;
+- `exercises` — вправи;
+- `anki cards` — картки для Anki;
+- `images` — зображення та ілюстрації;
 - `Essential Grammar in Use.md` — головна сторінка бази.
 
 ## Goal

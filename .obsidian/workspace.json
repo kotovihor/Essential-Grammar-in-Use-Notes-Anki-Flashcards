@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0a994e0d54c89eba",
+        "id": "d209ecb0f714c1bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b190200e07333ab3",
+            "id": "7c4522c175706379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
+                "file": "lessons/02 - am is are (questions)/02 am is are (questions).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 I am doing (present continuous)"
-            }
-          },
-          {
-            "id": "81fffaa8b6fbf8a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Essential Grammar in Use.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essential Grammar in Use"
+              "title": "02 am is are (questions)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "ea222cb2b06a376c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mk-path-view"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,53 +214,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81fffaa8b6fbf8a5",
+  "active": "7c4522c175706379",
   "lastOpenFiles": [
+    "lessons/02 - am is are (questions)/02 am is are (questions).html",
+    "lessons/02 - am is are (questions)/index.html",
+    "lessons/02 - am is are (questions)/02 am is are (questions).md",
+    "lessons/index.html",
+    "lessons/04 - are you doing (present continuous questions)/index.html",
+    "lessons/03 - I am doing (present continuous)/index.html",
+    "lessons/01 - am is are/index.html",
+    "lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).html",
+    "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).html",
+    "lessons/01 - am is are/01 am is are.html",
+    "exercises/03 - I am doing (present continuous) (exercises)/3.1 What are these people doing. Use these verbs to complete the sentences.md",
+    "exercises/03 - I am doing (present continuous) (exercises)/03 - I am doing (present continuous) (exercises).md",
+    "images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 3 (exercises).png",
     "Book Essential Grammar in Use.png",
+    "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
+    "exercises/01 - am is are (exercises)/1.6 Write true sentences, positive or negative. Use is, isn't or are, aren't. Write true sentences, positive or negative. Use I'm, I'm not..md",
+    "exercises/01 - am is are (exercises)/1.5 Write sentences for the pictures..md",
+    "exercises/01 - am is are (exercises)/1.4 Look at Lisa's sentences in 1A. Now write sentences about yourself..md",
+    "exercises/01 - am is are (exercises)/1.3. Complete the sentences..md",
+    "exercises/01 - am is are (exercises)/1.2. Write am, is or are..md",
+    "exercises/01 - am is are (exercises)/1.1. Write the short form (she's , we aren't etc.).md",
+    "exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
+    "anki cards/anki cards.md",
+    "images/images.md",
+    "README.md",
+    "Essential-Grammar-in-Use-Notes-Anki-Flashcards.md",
+    "exercises/exercises.md",
     "Essential Grammar in Use.md",
-    "Lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
-    "anki cards/03 I am doing (present continuous) (flashcards)/Essential Grammar in Use__Unit 3 I am doing (present continuous)__Exercises.apkg",
-    "anki cards/03 I am doing (present continuous) (flashcards)/Essential Grammar in Use__Unit 3 I am doing (present continuous).apkg",
-    "anki cards/03 I am doing (present continuous) (flashcards)/Essential Grammar in Use__Unit 3 I am doing (present continuous)__Theory.apkg",
-    "anki cards/03 I am doing (present continuous) (flashcards)",
-    "Lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
+    "exercises/02 - am is are (questions) (exercises)/2.1 Find the right answers for the questions.md",
+    "exercises/02 - am is are (questions) (exercises)/02 - am is are (questions) exercises.md",
+    "Tags",
+    "lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
     "images/02 - am is are (questions) (pictures)/02 am is are (questions) - pic. 1.png",
     "images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 4.png",
     "images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 3.png",
     "images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 2.png",
     "images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 1.png",
-    "images/04 - are you doing (present continuous questions) (pictures)",
-    "Lessons/02 - am is are (questions)/02 am is are (questions).md",
-    "Exercises/03 - I am doing (present continuous) (exercises)/3.4 What's happening now. Write true sentences..md",
-    "Lessons/04 - are you doing (present continuous questions)",
-    "Exercises/03 - I am doing (present continuous) (exercises)/3.3 Look at the picture. Write sentences about Jane. Use She's ing or She isn't ing..md",
-    "Exercises/03 - I am doing (present continuous) (exercises)/3.2 Complete the sentences. Use these verbs..md",
-    "Exercises/03 - I am doing (present continuous) (exercises)/3.1 What are these people doing. Use these verbs to complete the sentences.md",
+    "exercises/03 - I am doing (present continuous) (exercises)/3.4 What's happening now. Write true sentences..md",
+    "exercises/03 - I am doing (present continuous) (exercises)/3.3 Look at the picture. Write sentences about Jane. Use She's ing or She isn't ing..md",
+    "exercises/03 - I am doing (present continuous) (exercises)/3.2 Complete the sentences. Use these verbs..md",
     "images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 4 (exercises).png",
-    "Exercises/03 - I am doing (present continuous) (exercises)/03 - I am doing (present continuous) (exercises).md",
-    "images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 3 (exercises).png",
     "images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 2 (exercises).png",
     "images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 1 (exercises).png",
-    "Exercises/02 - am is are (questions) (exercises)/2.2 Make questions with these words.md",
-    "Exercises/02 - am is are (questions) (exercises)/02 - am is are (questions) exercises.md",
-    "Exercises/02 - am is are (questions) (exercises)/2.5 Write short answers (Yes, I am.  No, he isn't. etc.).md",
-    "Lessons/01 - am is are/01 am is are.md",
-    "Exercises/03 - I am doing (present continuous) (exercises)",
-    "README.md",
+    "exercises/02 - am is are (questions) (exercises)/2.2 Make questions with these words.md",
+    "exercises/02 - am is are (questions) (exercises)/2.5 Write short answers (Yes, I am.  No, he isn't. etc.).md",
     "01 - am is are - graph.canvas",
-    "Untitled.base",
-    "images/03 - I am doing (present continuous) (pictures)",
-    "Lessons/03 - I am doing (present continuous)",
-    "Exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
-    "Exercises/01 - am is are (exercises)/1.4 Look at Lisa's sentences in 1A. Now write sentences about yourself..md",
-    "Exercises/01 - am is are (exercises)/1.2. Write am, is or are..md",
-    "Exercises/02 - am is are (questions) (exercises)/2.1 Find the right answers for the questions.md",
-    "Exercises/02 - am is are (questions) (exercises)/2.4 Write the questions.md",
-    "Exercises/02 - am is are (questions) (exercises)/2.3 Complete the questions. Use What ... Who ... Where ... How.md",
-    "Exercises/01 - am is are (exercises)/1.1. Write the short form (she's , we aren't etc.).md",
-    "Exercises/01 - am is are (exercises)/1.3. Complete the sentences..md",
-    "Exercises/01 - am is are (exercises)/1.6 Write true sentences, positive or negative. Use is, isn't or are, aren't. Write true sentences, positive or negative. Use I'm, I'm not..md",
-    "Exercises/01 - am is are (exercises)/1.5 Write sentences for the pictures..md",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
   ]
