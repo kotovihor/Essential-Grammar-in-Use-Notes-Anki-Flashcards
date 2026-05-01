@@ -21,8 +21,12 @@
 	- **What am** I doing now? – Що я зараз роблю?
 	- **What is** she watching now? – Що вона зараз дивиться?
 	- **Where are** they walking? – Де вони прогулюються?
-![[Pasted image 20260501220819.png|Малюнок 2. Приклади питань з часом Present Continuous.]]
+![[04 - are you doing (present continuous questions) - pic. 2.png|Малюнок 2. Приклади питань з часом Present Continuous.]]
 - Приклади питань з часом **Present Continuous**:
 	- '**Are** you **feeling** OK?' 'Yes, I'm fine, thanks.' — 'Ти почуваєшся добре?' 'Так, зі мною все гаразд, дякую.'
 	- '**Is** it **raining**?' 'Yes, take an umbrella.' — 'Іде дощ?' 'Так, візьми парасольку.'
 	- Why **are** you **wearing** a coat? It’s not cold. — Чому ти одягнений у пальто? Не холодно.
+	- 'What’**s** Paul **doing**?' 'He’**s reading** the newspaper.' — 'Що робить Пол?' 'Він читає газету.'
+	- 'What **are** the children **doing**?' 'They’**re watching** television.' — 'Що роблять діти?' 'Вони дивляться телевізор.'
+	- Look, there’s Emily! Where’**s** she **going**? — Дивись, там Емілі! Куди вона йде?
+	- 
