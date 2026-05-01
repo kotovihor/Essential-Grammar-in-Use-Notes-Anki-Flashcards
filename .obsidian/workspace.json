@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +220,7 @@
   },
   "active": "81fffaa8b6fbf8a5",
   "lastOpenFiles": [
+    "_images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 3.png",
     "_images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 2.png",
     "_images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 1.png",
     "_images/04 - are you doing (present continuous questions) (pictures)",
@@ -248,7 +250,6 @@
     "01 - am is are - graph.canvas",
     "Untitled.base",
     "_images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 2.png",
-    "_images/03 - I am doing (present continuous) (pictures)/03 - I am doing (present continuous) - pic. 1.png",
     "_images/03 - I am doing (present continuous) (pictures)",
     "Lessons/03 - I am doing (present continuous)",
     "Exercises/01 - am is are (exercises)/01 - am is are (exercises).md",

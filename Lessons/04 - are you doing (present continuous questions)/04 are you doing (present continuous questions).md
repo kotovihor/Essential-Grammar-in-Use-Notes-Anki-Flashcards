@@ -29,4 +29,6 @@
 	- 'What’**s** Paul **doing**?' 'He’**s reading** the newspaper.' — 'Що робить Пол?' 'Він читає газету.'
 	- 'What **are** the children **doing**?' 'They’**re watching** television.' — 'Що роблять діти?' 'Вони дивляться телевізор.'
 	- Look, there’s Emily! Where’**s** she **going**? — Дивись, там Емілі! Куди вона йде?
-	- 
+	- Who **are** you **waiting** for? **Are** you **waiting** for Sue? — На кого ти чекаєш? Ти чекаєш на Сью?
+## Порядок слів у питальному реченні
+![[04 - are you doing (present continuous questions) - pic. 3.png|Малюнок 3. Порядок слів у питальному реченні.]]
