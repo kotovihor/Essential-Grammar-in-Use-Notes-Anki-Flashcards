@@ -33,7 +33,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "images": "🖼",
   "anki cards": "LiPackage",
   "exercises": "LiTarget"
 }
