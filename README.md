@@ -1,5 +1,9 @@
 # Essential Grammar in Use — Notes & Anki Flashcards
 
+<p align="center">
+  <img src="Book Essential Grammar in Use.png" alt="English Grammar in Use book cover" width="300">
+</p>
+
 Цей репозиторій містить мою навчальну базу в Obsidian за книгою **Essential Grammar in Use**.
 
 Тут зібрані:
