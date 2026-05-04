@@ -47,7 +47,15 @@
 	- **Зі зворотом there is/there are:** There is nothing to say — Нічого сказати.
 	- **Складні речення із neither та so:** He did not say anything, neither did I — Він нічого не сказав, я теж.
 	- **Після слів so (так), thus (таким чином), now (зараз, тоді), then (тоді, після):** Then was the right time to ask her marry me — Тоді був ідеальний момент, щоб запропонувати їй одружитися.
+	- Інверсія часто використовується після слів типу **never**, **rarely**, **seldom**, **hardly**, **scarcely**, **little**, **only**, коли вони стоять на початку речення. Це зазвичай більш формальний або емоційний стиль.
+		- **Never** have I seen this before. — Ніколи раніше я такого не бачив. (більш формальна форма, ніж I have never seen this before.)
+		- **Rarely** does he smile. — Він рідко усміхається.
+		- **Little** did we know what would happen. — Ми й гадки не мали, що станеться.
+		- **Only then** did I understand the problem. — Тільки тоді я зрозумів проблему.
 	- **Окличні речення:** May all your wishes come true — Нехай збуваються всі мрії!
+	- В умовних реченнях без **if**. У формальному стилі умовні речення можуть будуватися без **if**, але з інверсією: **Should you...**, **Were I...**, **Had I...** British Council пояснює, що така інверсія робить речення більш формальним.
+		- **Should** you have any questions, contact me. — Якщо у вас будуть питання, зв’яжіться зі мною.
+		- **Had** I known, I would have helped. — Якби я знав, я б допоміг.
 ## Короткі відповіді
 ![[04 - are you doing (present continuous questions) - pic. 4.png|Малюнок 4. Короткі відповіді на питання.]]
 - **Короткі відповіді в англійській мові (Short Answers)** використовуються для ввічливості та ясності замість простого **"Yes/No"**. Вони будуються за схемою: **Yes/No + займенник (I, you, he...) + допоміжне/модальне дієслово (do, can, is...).**
