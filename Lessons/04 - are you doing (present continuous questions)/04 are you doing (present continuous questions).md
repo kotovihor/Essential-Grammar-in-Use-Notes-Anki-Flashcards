@@ -44,18 +44,34 @@
 	- **Is** he **working** today? — Він працює сьогодні?
 	- **Is** Paul **working** today? — Пол працює сьогодні?
 - Також **непрямий порядок слів** використовується у наступних випадках:
-	- **Зі зворотом there is/there are:** There is nothing to say — Нічого сказати.
-	- **Складні речення із neither та so:** He did not say anything, neither did I — Він нічого не сказав, я теж.
+	- **Зі зворотом there is/there are/here:** 
+		- **There is** nothing to say — Нічого сказати.
+		- **Here** comes the bus! — Ось їде автобус!
+		- **Here's** your coffee. — Ось ваша кава.
+		- I opened the door and **there stood** Michael, all covered in mud. — Я відчинив двері, і там стояв Майкл, весь у багнюці.
+		- She looked out and **there was** Pamela, walking along arm in arm with Goldie. — Вона виглянула у вікно і побачила Памелу, яка йшла під руку з Голді.
+		- Але якщо підмет — **особовий займенник** (_he, she, it, they, we_, you), тоді інверсії **немає**: 
+			- **There she** goes. — Ось вона йде.
+			- **Here he** is. — Ось він.
+			- **Here we** go. — Починаємо / поїхали.
+	- **Складні речення із neither та so:** 
+		- Такі короткі конструкції теж мають інверсію: **so + auxiliary + subject**, **neither/nor + auxiliary + subject**.
+			- He did not say anything, neither did I. — Він нічого не сказав, я теж.
+			- Jack didn't know how to repair that broken car, neither did we. – Джек не знав, як відремонтувати ту розбиту машину, не знали й ми.
+			- Most of French are good at cooking and so are you, right? – Більшість французів готують добре, і ти також, чи не так?
 	- **Після слів so (так), thus (таким чином), now (зараз, тоді), then (тоді, після):** Then was the right time to ask her marry me — Тоді був ідеальний момент, щоб запропонувати їй одружитися.
-	- Інверсія часто використовується після слів типу **never**, **rarely**, **seldom**, **hardly**, **scarcely**, **little**, **only**, коли вони стоять на початку речення. Це зазвичай більш формальний або емоційний стиль.
+	- **Непрямий порядок слів / інверсія** може використовуватися, коли на початку речення стоять слова або словосполучення з **негативним чи обмежувальним значенням**: **never, rarely, seldom, hardly, scarcely, little, only then, only after, no sooner, not only, under no circumstances** тощо. Negative / limiting adverbial + auxiliary / modal verb + subject + main verb
 		- **Never** have I seen this before. — Ніколи раніше я такого не бачив. (більш формальна форма, ніж I have never seen this before.)
 		- **Rarely** does he smile. — Він рідко усміхається.
 		- **Little** did we know what would happen. — Ми й гадки не мали, що станеться.
 		- **Only then** did I understand the problem. — Тільки тоді я зрозумів проблему.
-	- **Окличні речення:** May all your wishes come true — Нехай збуваються всі мрії!
+		- **In vain** were we trying to find Mary in the wood. – Даремно ми намагалися знайти Мері у лісі.
+		- **Never** **before** have I seen such beautiful park. – Ніколи до цього я не бачив такого гарного парку.
+		- **Little** does he know that he needs our help. – Він навіть не здогадується, що йому потрібна наша допомога.
+	- **Окличні речення:** May all your wishes come true! — Нехай збуваються всі мрії!
 	- В умовних реченнях без **if**. У формальному стилі умовні речення можуть будуватися без **if**, але з інверсією: **Should you...**, **Were I...**, **Had I...** British Council пояснює, що така інверсія робить речення більш формальним.
 		- **Should** you have any questions, contact me. — Якщо у вас будуть питання, зв’яжіться зі мною.
-		- **Had** I known, I would have helped. — Якби я знав, я б допоміг.
+		- **Had** I known, I would have helped. — Якби я знав, я б допоміг. (Це **Third Conditional** — умовне речення **3-го типу** про минуле, яке вже не можна змінити. Had + subject + V3, subject + would have + V3)
 ## Короткі відповіді
 ![[04 - are you doing (present continuous questions) - pic. 4.png|Малюнок 4. Короткі відповіді на питання.]]
 - **Короткі відповіді в англійській мові (Short Answers)** використовуються для ввічливості та ясності замість простого **"Yes/No"**. Вони будуються за схемою: **Yes/No + займенник (I, you, he...) + допоміжне/модальне дієслово (do, can, is...).**
