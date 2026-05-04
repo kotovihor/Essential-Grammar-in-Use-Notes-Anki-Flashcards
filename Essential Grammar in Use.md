@@ -8,3 +8,5 @@
 2. [[02 am is are (questions)]]
 3. [[03 I am doing (present continuous)]]
 4. [[04 are you doing (present continuous questions)]]
+5. [[05 I do work like etc. (present simple)]]
+6. 
