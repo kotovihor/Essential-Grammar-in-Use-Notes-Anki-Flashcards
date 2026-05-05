@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1e40c067e4ddd6b",
@@ -218,7 +219,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84932ac12d35d2e7",
+  "active": "53d1aedafde8b294",
   "lastOpenFiles": [
     "images/04 - are you doing (present continuous questions) (pictures)/04 - are you doing (present continuous questions) - pic. 4.png",
     "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 1.png",
