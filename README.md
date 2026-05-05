@@ -1,29 +1,57 @@
-# Essential Grammar in Use — Notes & Anki Flashcards
+# 📘 Essential Grammar in Use — Notes & Anki Flashcards
 
 <p align="center">
   <img src="Book Essential Grammar in Use.png" alt="English Grammar in Use book cover" width="300">
 </p>
 
-Цей репозиторій містить мою навчальну базу в Obsidian за книгою **Essential Grammar in Use**.
+> A personal English grammar learning repository based on  
+> **Essential Grammar in Use** by **Raymond Murphy**.
 
-Тут зібрані:
+This repository contains structured grammar notes, exercises, examples, translations, and Anki flashcards for systematic English learning.
 
-- конспекти уроків;
-- вправи;
-- приклади речень;
-- Anki-картки для повторення;
-- зображення та додаткові матеріали.
+---
 
-Мета репозиторію — системно вивчати англійську граматику, зберігати всі матеріали в одному місці та регулярно повторювати правила за допомогою Anki.
+## 📚 About the Project
 
-## Structure
+The goal of this repository is to create a clear and organized grammar knowledge base for learning English step by step.
 
-- `lessons` — конспекти уроків;
-- `exercises` — вправи;
-- `anki cards` — картки для Anki;
-- `images` — зображення та ілюстрації;
-- `Essential Grammar in Use.md` — головна сторінка бази.
+It is designed for:
 
-## Goal
+- 📖 studying grammar topics;
+- 📝 keeping personal notes;
+- ✅ practising exercises;
+- 🔁 revising grammar regularly;
+- 🧠 creating Anki flashcards;
+- 🔗 organizing everything in Obsidian and GitHub.
 
-Поступово пройти книгу **Essential Grammar in Use**, створити зрозумілі нотатки та перетворити важливі правила на Anki-картки для довготривалого запам’ятовування.
+---
+
+## 🗂️ Repository Structure
+
+```text
+Essential-Grammar-in-Use-Notes-Anki-Flashcards/
+│
+├── README.md
+├── Essential Grammar in Use.md
+├── Book Essential Grammar in Use.png
+│
+├── Lessons/
+│   ├── 01 - am is are/
+│   ├── 02 - am is are (questions)/
+│   ├── 03 - I am doing (present continuous)/
+│   └── ...
+│
+├── Exercises/
+│   ├── 01 - am is are (exercises)/
+│   ├── 02 - am is are (questions) (exercises)/
+│   └── ...
+│
+├── _anki cards/
+│   ├── grammar-cards.csv
+│   └── deck-structure.md
+│
+├── _images/
+│   └── screenshots, diagrams, book images
+│
+└── .obsidian/
+    └── Obsidian configuration files
