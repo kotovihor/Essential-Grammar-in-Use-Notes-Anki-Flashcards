@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/05 - I do work like etc. (present simple) (exercises)/5.2 Complete the sentences about the people in the pictures..md",
+                "file": "lessons/06 - I don't ... (present simple negative)/06 I don't ... (present simple negative).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.2 Complete the sentences about the people in the pictures."
+              "title": "06 I don't ... (present simple negative)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 581.5
+    "width": 480.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1e40c067e4ddd6b",
@@ -187,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,15 +204,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84932ac12d35d2e7",
+  "active": "374dddb8ebbe049f",
   "lastOpenFiles": [
-    "exercises/05 - I do work like etc. (present simple) (exercises)/5.1 Write these verbs with -s or -es.md",
-    "exercises/05 - I do work like etc. (present simple) (exercises)/05 - I do work like etc. (present simple) (exercises).md",
+    "Book Essential Grammar in Use.png",
     "lessons/06 - I don't ... (present simple negative)/06 I don't ... (present simple negative).md",
+    "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 4.png",
+    "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 3.png",
+    "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 2.png",
+    "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 1.png",
+    "README.md",
+    "images/06 - I don't ... (present simple negative) (pictures)",
+    "exercises/05 - I do work like etc. (present simple) (exercises)/05 - I do work like etc. (present simple) (exercises).md",
+    "exercises/05 - I do work like etc. (present simple) (exercises)/5.2 Complete the sentences about the people in the pictures..md",
+    "exercises/05 - I do work like etc. (present simple) (exercises)/5.1 Write these verbs with -s or -es.md",
     "exercises/05 - I do work like etc. (present simple) (exercises)/5.5 Write sentences about yourself. Use always,never,often,usually,sometimes..md",
     "exercises/05 - I do work like etc. (present simple) (exercises)/5.4 Write sentences from these words. Use the right form of the verb (arrive or arrives etc.)..md",
     "exercises/05 - I do work like etc. (present simple) (exercises)/5.3 Complete the sentences.md",
-    "exercises/05 - I do work like etc. (present simple) (exercises)/5.2 Complete the sentences about the people in the pictures..md",
     "exercises/05 - I do work like etc. (present simple) (exercises)",
     "lessons/06 - I don't ... (present simple negative)",
     "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 5 (exercises).png",
@@ -226,15 +235,10 @@
     "lessons/05 - I do work like etc. (present simple)/05 I do work like etc. (present simple).md",
     "lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
     "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 6.png",
-    "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 5.png",
-    "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 1.png",
-    "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 4.png",
     "anki cards/04 are you doing (present continuous questions) (flashcards)/Essential Grammar in Use__Unit 4 Are you doing_ (present continuous questions)__Theory.apkg",
     "anki cards/04 are you doing (present continuous questions) (flashcards)/Essential Grammar in Use__Unit 4 Are you doing_ (present continuous questions)__Exercises.apkg",
     "anki cards/04 are you doing (present continuous questions) (flashcards)/Essential Grammar in Use__Unit 4 Are you doing_ (present continuous questions).apkg",
-    "anki cards/04 are you doing (present continuous questions) (flashcards)",
     "Essential Grammar in Use.md",
-    "Book Essential Grammar in Use.png",
     "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 1.md",
     "05 I do/work/like etc. (present simple).md",
     "exercises/04 - are you doing (present continuous questions) (exercises)/4.4 Write short answers..md",
@@ -248,7 +252,6 @@
     "exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
     "lessons/02 - am is are (questions)/02 am is are (questions).md",
     "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
-    "lessons/01 - am is are/01 am is are.md",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
