@@ -1,0 +1,5 @@
+[[6.1 Write the negative.]]
+[[6.2 Study the information and write sentences with like.]]
+[[6.3 Write about yourself.]]
+[[6.4 Complete the sentences. All of them are negative. Use don't, doesn't + these verbs.]]
+[[6.5 Put the verb into the correct form, positive or negative]]
