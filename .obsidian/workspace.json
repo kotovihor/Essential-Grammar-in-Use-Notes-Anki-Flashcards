@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "374dddb8ebbe049f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lessons/06 - I don't ... (present simple negative)/06 I don't ... (present simple negative).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 I don't ... (present simple negative)"
-            }
-          },
-          {
-            "id": "1ff9520bec322886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercises/06 - I don't ... (present simple negative) (exercises)/6.5 Put the verb into the correct form, positive or negative.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.5 Put the verb into the correct form, positive or negative"
-            }
-          },
-          {
             "id": "1d3a94566e11cab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lessons/07 - Do you ... (present simple questions)/Untitled.md",
+                "file": "lessons/07 - Do you ... (present simple questions)/07 Do you ... (present simple questions).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "07 Do you ... (present simple questions)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +202,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84932ac12d35d2e7",
+  "active": "f886df199904d2fd",
   "lastOpenFiles": [
+    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 6.png",
+    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 5.png",
+    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 4.png",
+    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 3.png",
+    "lessons/07 - Do you ... (present simple questions)/07 Do you ... (present simple questions).md",
+    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 1.png",
+    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 2.png",
+    "Essential Grammar in Use.md",
+    "lessons/06 - I don't ... (present simple negative)/06 I don't ... (present simple negative).md",
+    "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
+    "README.md",
     "exercises/06 - I don't ... (present simple negative) (exercises)/6.5 Put the verb into the correct form, positive or negative.md",
-    "lessons/07 - Do you ... (present simple questions)/Untitled.md",
     "images/07 - Do you ... (present simple questions) (pictures)",
     "lessons/07 - Do you ... (present simple questions)",
     "exercises/06 - I don't ... (present simple negative) (exercises)/6.4 Complete the sentences. All of them are negative. Use don't, doesn't + these verbs..md",
@@ -252,14 +233,7 @@
     "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 4 (exercises).png",
     "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 3 (exercises).png",
     "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 2 (exercises).png",
-    "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 1 (exercises).png",
-    "lessons/06 - I don't ... (present simple negative)/06 I don't ... (present simple negative).md",
     "exercises/06 - I don't ... (present simple negative) (exercises)",
-    "Book Essential Grammar in Use.png",
-    "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 4.png",
-    "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 3.png",
-    "images/06 - I don't ... (present simple negative) (pictures)/06 - I don't ... (present simple negative) - pic. 2.png",
-    "README.md",
     "images/06 - I don't ... (present simple negative) (pictures)",
     "exercises/05 - I do work like etc. (present simple) (exercises)/5.2 Complete the sentences about the people in the pictures..md",
     "exercises/05 - I do work like etc. (present simple) (exercises)/5.1 Write these verbs with -s or -es.md",
@@ -275,10 +249,7 @@
     "5.5 Write sentences about yourself. Use always",
     "lessons/05 - I do work like etc. (present simple)/05 I do work like etc. (present simple).md",
     "lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
-    "Essential Grammar in Use.md",
     "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 1.md",
-    "05 I do/work/like etc. (present simple).md",
-    "exercises/04 - are you doing (present continuous questions) (exercises)/4.4 Write short answers..md",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
