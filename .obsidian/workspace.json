@@ -11,12 +11,14 @@
             "id": "7c4522c175706379",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 6.png"
+                "file": "lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "05 - I do work like etc. (present simple) - pic. 6"
+              "icon": "lucide-file",
+              "title": "04 are you doing (present continuous questions)"
             }
           }
         ]
@@ -201,13 +203,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c4522c175706379",
+  "active": "84932ac12d35d2e7",
   "lastOpenFiles": [
+    "lessons/05 - I do work like etc. (present simple)/05 I do work like etc. (present simple).md",
+    "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 6.png",
     "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 5.png",
     "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 1.png",
     "lessons/04 - are you doing (present continuous questions)/04 are you doing (present continuous questions).md",
-    "lessons/05 - I do work like etc. (present simple)/05 I do work like etc. (present simple).md",
-    "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 6.png",
     "images/05 - I do work like etc. (present simple) (pictures)/05 - I do work like etc. (present simple) - pic. 4.png",
     "anki cards/04 are you doing (present continuous questions) (flashcards)/Essential Grammar in Use__Unit 4 Are you doing_ (present continuous questions)__Theory.apkg",
     "anki cards/04 are you doing (present continuous questions) (flashcards)/Essential Grammar in Use__Unit 4 Are you doing_ (present continuous questions)__Exercises.apkg",
