@@ -150,18 +150,18 @@
 - Наприклад:
 	- I **see** what you mean. — Я розумію, що ти маєш на увазі.
 		- Тут **see = understand**, тому **Present Simple**.
-	- I'**m seeing** her next week. — Я зустрічаются з нею наступного тижня.
+	- I'**m seeing** her next week. — Я зустрічаюся з нею наступного тижня.
 		- Тут **see = meet**, тобто дія / домовленість, тому **Present Continuous**.
 ##### Розбір пар речень
-|Речення|Час|Переклад|Чому так?|
-|---|---|---|---|
-|**I have a ticket to see Lady Gaga.**|Present Simple|У мене є квиток, щоб побачити Lady Gaga.|**have = мати / володіти**. Це стан, тому Simple.|
-|**I’m having a shower.**|Present Continuous|Я приймаю душ.|**have a shower = виконувати дію**, тому Continuous.|
+| Речення                               | Час                | Переклад                                 | Чому так?                                            |
+| ------------------------------------- | ------------------ | ---------------------------------------- | ---------------------------------------------------- |
+| **I have a ticket to see Lady Gaga.** | Present Simple     | У мене є квиток, щоб побачити Lady Gaga. | **have = мати / володіти**. Це стан, тому Simple.    |
+| **I’m having a shower.**              | Present Continuous | Я приймаю душ.                           | **have a shower = виконувати дію**, тому Continuous. |
 
-|Речення|Час|Переклад|Чому так?|
-|---|---|---|---|
-|**That singer appears to be doing well.**|Present Simple|Здається, той співак справляється добре.|**appear = здаватися**. Це стан / враження, тому Simple.|
-|**Eminem’s appearing at the V Festival.**|Present Continuous|Eminem виступає на фестивалі V.|**appear = виступати / з’являтися на сцені**. Це запланована дія, тому Continuous.|
+| Речення                                   | Час                | Переклад                                 | Чому так?                                                                          |
+| ----------------------------------------- | ------------------ | ---------------------------------------- | ---------------------------------------------------------------------------------- |
+| **That singer appears to be doing well.** | Present Simple     | Здається, той співак справляється добре. | **appear = здаватися**. Це стан / враження, тому Simple.                           |
+| **Eminem’s appearing at the V Festival.** | Present Continuous | Eminem виступає на фестивалі V.          | **appear = виступати / з’являтися на сцені**. Це запланована дія, тому Continuous. |
 
 | Речення                     | Час                | Переклад                                | Чому так?                                                             |
 | --------------------------- | ------------------ | --------------------------------------- | --------------------------------------------------------------------- |
@@ -173,10 +173,10 @@
 | **He’s thinking about joining a band.** | Present Continuous | Він думає про те, щоб приєднатися до гурту. | **think about = обдумувати**, процес зараз / у цей період. |
 | **I think that band’s really good.**    | Present Simple     | Я думаю, що той гурт справді хороший.       | **think = мати думку / вважати**, це стан / opinion.       |
 
-|Речення|Час|Переклад|Чому так?|
-|---|---|---|---|
-|**It depends on how much money I’ve got.**|Present Simple|Це залежить від того, скільки в мене грошей.|**depend = залежати**, зазвичай стан, тому Simple.|
-|**I’m depending on her to organise everything.**|Present Continuous|Я покладаюся на неї, щоб вона все організувала.|**depend on = покладатися на когось** у конкретній ситуації, тому Continuous можливий.|
+| Речення                                          | Час                | Переклад                                        | Чому так?                                                                              |
+| ------------------------------------------------ | ------------------ | ----------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **It depends on how much money I’ve got.**       | Present Simple     | Це залежить від того, скільки в мене грошей.    | **depend = залежати**, зазвичай стан, тому Simple.                                     |
+| **I’m depending on her to organise everything.** | Present Continuous | Я покладаюся на неї, щоб вона все організувала. | **depend on = покладатися на когось** у конкретній ситуації, тому Continuous можливий. |
 #### Приклади з книги
 - I'm tired. I **want** to go home. — Я втомлений. Я хочу піти додому.
 - '**Do** you **know** that girl?' 'Yes, but I **don't remember** her name.' — «Ти знаєш ту дівчину?» «Так, але я не пам’ятаю її імені.»
@@ -258,9 +258,9 @@
 - **Listen!** Someone **is singing**. — Послухай! Хтось співає.
 - **Shh!** The baby is sleeping. — Тихо! Дитина спить.
 ### Comparison Table
-|Tense|Typical Signal Words / Phrases|Function|Example|
-|---|---|---|---|
-|**Present Simple**|**every day, usually, often, on Sundays**|показує звичку або регулярність|**I usually get up early.**|
-|**Present Continuous**|**right now, at the moment, currently**|показує дію прямо зараз|**I am studying right now.**|
-|**Present Continuous**|**these days, this week, this year**|показує тимчасову ситуацію в поточний період|**He is staying here this week.**|
-|**Present Simple**|**generally, sometimes, never**|показує загальний факт або частоту|**She never eats meat.**|
+| Tense                  | Typical Signal Words / Phrases            | Function                                     | Example                           |
+| ---------------------- | ----------------------------------------- | -------------------------------------------- | --------------------------------- |
+| **Present Simple**     | **every day, usually, often, on Sundays** | показує звичку або регулярність              | **I usually get up early.**       |
+| **Present Continuous** | **right now, at the moment, currently**   | показує дію прямо зараз                      | **I am studying right now.**      |
+| **Present Continuous** | **these days, this week, this year**      | показує тимчасову ситуацію в поточний період | **He is staying here this week.** |
+| **Present Simple**     | **generally, sometimes, never**           | показує загальний факт або частоту           | **She never eats meat.**          |
