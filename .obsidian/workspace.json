@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,7 +203,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f886df199904d2fd",
+  "active": "1d3a94566e11cab3",
   "lastOpenFiles": [
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 6.png",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 5.png",
