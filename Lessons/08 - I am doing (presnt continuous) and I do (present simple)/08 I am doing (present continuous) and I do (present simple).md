@@ -26,7 +26,7 @@
 		- He **is staying** with friends this week. — Він зупинився у друзів цього тижня.
 			- Тобто це не означає, що він завжди живе з друзями. Це тимчасово.
 	- **Зміни, розвиток і тренди (Developing changes and trends).** **Present Continuous** використовуємо, коли щось **змінюється, розвивається, зростає або зменшується**
-		- .Electric car ownership **is growing** rapidly. — Кількість власників електромобілів швидко зростає.
+		- Electric car ownership **is growing** rapidly. — Кількість власників електромобілів швидко зростає.
 		- The weather **is getting** colder. — Погода стає холоднішою.
 		- Technology **is changing** very fast. — Технології змінюються дуже швидко.
 	- **Заплановані майбутні дії (Arranged future plans).** **Present Continuous** може використовуватися для майбутнього, якщо це **особистий план або домовленість**.
@@ -202,3 +202,65 @@
 - She **often watches** TV in the evening. — Вона часто дивиться телевізор увечері.
 - They **never play** tennis. — Вони ніколи не грають у теніс.
 ##### Routine indicators (Маркери регулярних дій)
+- **every day** — щодня  
+- **every week** — щотижня  
+- **on Mondays** — по понеділках  
+- **in the morning** — вранці  
+- **as a rule** — як правило
+###### Приклади
+- I **work** **every day**. — Я працюю щодня.
+- He **plays** football **on Sundays**. — Він грає у футбол по неділях.
+- **As a rule**, we **have** dinner at 7 p.m. — Як правило, ми вечеряємо о 7 вечора.
+##### Universal markers (Загальні маркери)
+- **generally** — загалом  
+- **normally** — зазвичай  
+- **whenever** — щоразу коли
+###### Приклади
+- People **generally** **need** water to live. — Людям загалом потрібна вода, щоб жити.
+- She **normally goes** to bed early. — Вона зазвичай рано лягає спати.
+### Present Continuous — Signal Words
+#### Now, temporary situations, ongoing changes (Зараз, тимчасові ситуації, поточні зміни)
+- **Present Continuous** часто використовується зі словами, які показують, що дія відбувається **зараз** або **в поточний період**.
+##### Immediate now (Прямо зараз)
+- **now** — зараз  
+- **right now** — прямо зараз  
+- **at the moment** — у цей момент  
+- **at present** — наразі  
+- **currently** — зараз / наразі
+###### Приклади
+- I **am studying** English **right now**. — Я прямо зараз вивчаю англійську.
+- She **is talking** on the phone **at the moment**. — Вона зараз розмовляє по телефону.
+- They **are currently working** on a new project. — Вони наразі працюють над новим проєктом.
+##### Extended now (Поточний період)
+- Ці слова не завжди означають “прямо в цю секунду”. Вони можуть означати **період навколо теперішнього часу**.
+	- **today** — сьогодні  
+	- **this week** — цього тижня  
+	- **this month** — цього місяця  
+	- **this year** — цього року  
+	- **these days** — у ці дні / останнім часом
+###### Приклади
+- He **is staying** with friends **this week**. — Він зупинився у друзів цього тижня.
+- I **am reading** an interesting book **these days**. — Я останнім часом читаю цікаву книгу.
+- She **is working** on a new design **this month**. — Вона працює над новим дизайном цього місяця.
+##### Duration continuance (Дія все ще триває)
+- **still** — все ще. **Still** показує, що дія почалася раніше і досі не закінчилася.
+###### Приклади
+- He **is still sleeping**. — Він усе ще спить.
+- They **are still waiting** for the bus. — Вони все ще чекають автобус.
+- I **am still working** on my homework. — Я все ще працюю над домашнім завданням.
+##### Exclamatory cues (Слова, які звертають увагу на дію зараз)
+- **Look!** — Подивись!  
+- **Listen!** — Послухай!  
+- **Shh!** — Тихо!
+- Після таких слів часто йде **Present Continuous**, бо ми звертаємо увагу на те, що відбувається зараз.
+###### Приклади
+- **Look!** It **is snowing**. — Подивись! Іде сніг.
+- **Listen!** Someone **is singing**. — Послухай! Хтось співає.
+- **Shh!** The baby is sleeping. — Тихо! Дитина спить.
+### Comparison Table
+|Tense|Typical Signal Words / Phrases|Function|Example|
+|---|---|---|---|
+|**Present Simple**|**every day, usually, often, on Sundays**|показує звичку або регулярність|**I usually get up early.**|
+|**Present Continuous**|**right now, at the moment, currently**|показує дію прямо зараз|**I am studying right now.**|
+|**Present Continuous**|**these days, this week, this year**|показує тимчасову ситуацію в поточний період|**He is staying here this week.**|
+|**Present Simple**|**generally, sometimes, never**|показує загальний факт або частоту|**She never eats meat.**|
