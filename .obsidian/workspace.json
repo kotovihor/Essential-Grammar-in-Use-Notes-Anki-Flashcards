@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/07 - Do you ... (present simple questions) (exercises)/7.3 Complete the questions. Use these verbs..md",
+                "file": "exercises/07 - Do you ... (present simple questions) (exercises)/7.4 Write short answers (Yes, he does. No, I don't etc.).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.3 Complete the questions. Use these verbs."
+              "title": "7.4 Write short answers (Yes, he does. No, I don't etc.)"
+            }
+          },
+          {
+            "id": "02c0c1c86f18c3e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 I am doing (present continuous) and I do (present simple)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
+    "width": 494.5,
     "collapsed": true
   },
   "right": {
@@ -204,28 +219,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54ca718b04d52e34",
+  "active": "02c0c1c86f18c3e3",
   "lastOpenFiles": [
+    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 3.png",
+    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 1.png",
+    "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
+    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 2.png",
+    "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
+    "lessons/07 - Do you ... (present simple questions)/07 Do you ... (present simple questions).md",
+    "Book Essential Grammar in Use.png",
+    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)",
+    "exercises/07 - Do you ... (present simple questions) (exercises)/7.4 Write short answers (Yes, he does. No, I don't etc.).md",
+    "lessons/08 - I am doing (presnt continuous) and I do (present simple)",
+    "exercises/07 - Do you ... (present simple questions) (exercises)/7.3 Complete the questions. Use these verbs..md",
     "exercises/07 - Do you ... (present simple questions) (exercises)/7.2 Make questions from these words + do,does. Put the words in the right order..md",
     "exercises/07 - Do you ... (present simple questions) (exercises)/7.1 Write questions with Do ... and Does ....md",
     "exercises/07 - Do you ... (present simple questions) (exercises)/07 - Do you ... (present simple questions) (exercises).md",
-    "exercises/07 - Do you ... (present simple questions) (exercises)/7.3 Complete the questions. Use these verbs..md",
-    "exercises/07 - Do you ... (present simple questions) (exercises)/7.4 Write short answers (Yes, he does. No, I don't etc.).md",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 4 (exercises).png",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 3 (exercises).png",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 2 (exercises).png",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 1 (exercises).png",
-    "lessons/07 - Do you ... (present simple questions)/07 Do you ... (present simple questions).md",
     "exercises/07 - Do you ... (present simple questions) (exercises)",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 6.png",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 5.png",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 4.png",
-    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 3.png",
-    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 1.png",
-    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 2.png",
     "Essential Grammar in Use.md",
     "lessons/06 - I don't ... (present simple negative)/06 I don't ... (present simple negative).md",
-    "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
     "README.md",
     "exercises/06 - I don't ... (present simple negative) (exercises)/6.5 Put the verb into the correct form, positive or negative.md",
     "images/07 - Do you ... (present simple questions) (pictures)",
@@ -245,12 +264,9 @@
     "exercises/05 - I do work like etc. (present simple) (exercises)/5.2 Complete the sentences about the people in the pictures..md",
     "exercises/05 - I do work like etc. (present simple) (exercises)/5.1 Write these verbs with -s or -es.md",
     "exercises/05 - I do work like etc. (present simple) (exercises)/5.5 Write sentences about yourself. Use always,never,often,usually,sometimes..md",
-    "exercises/05 - I do work like etc. (present simple) (exercises)/5.4 Write sentences from these words. Use the right form of the verb (arrive or arrives etc.)..md",
     "exercises/05 - I do work like etc. (present simple) (exercises)",
     "lessons/06 - I don't ... (present simple negative)",
     "5.5 Write sentences about yourself. Use always/never/often/usually",
-    "5.5 Write sentences about yourself. Use always/never/often",
-    "5.5 Write sentences about yourself. Use always/never",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
