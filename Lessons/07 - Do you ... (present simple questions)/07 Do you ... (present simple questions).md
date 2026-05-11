@@ -23,12 +23,27 @@
 	- How often **do** you **wash** your hair? — Як часто ти миєш волосся?
 	- What **does** this word **mean**? — Що означає це слово?
 	- How much **does** it **cost** to fly to Rome? — Скільки коштує полетіти до Рима?
+	- **Do** you **play** the piano? — Ти граєш на піаніно?
+	- **Does** she **like** her job? — Чи подобається їй її робота?
+	- **Do** they **have** children? — У них є діти?
+	- **Does** she **work** every Saturday? — Чи працює вона щосуботи?
+	- **Does** Jack **play** football? — Джек грає у футбол?
+	- **Does** the Earth **orbit** the Sun? — Чи обертається земля навколо сонця?
+	- **Do** you **come** from Malaysia? — Ти родом з Малайзії?
+	- **Do** you **know** how to bake a pie? — Ви знаєте, як спекти пиріг?
+	- **Does** he **believe** in their leader? — Чи вірить він їхньому лідеру?
+	- **Does Tony have a dog?**
 ### Питання зі словами always / usually / often
 ![[07 - Do you ... (present simple questions) - pic. 3.png|Малюнок 3. Питання зі словами always / usually / often : Do/Does + subject + always / usually / often + verb.]]
 - **Приклади:**
 	- **Do** you **always have** breakfast? — Ти завжди снідаєш?
 	- **Does** Chris **often phone** you? — Кріс часто телефонує тобі?
 	- What **do** you **usually do** at weekends? — Що ти зазвичай робиш на вихідних?
+	- How **often** **do** you **go** to the cinema? — Як часто ви ходите в кіно?
+	- What **do** you **usually** have for lunch? — Що ви зазвичай їсте на обід?
+	- **Do** you two **meet** together sometimes for a coffee? — Ви двоє іноді зустрічаєтеся на каву?
+	- **Do** you **usually** **get** up early? — Ви зазвичай встаєте рано?
+	- 
 ### Питання про роботу
 ![[07 - Do you ... (present simple questions) - pic. 4.png|Малюнок 4. Питання про роботу.]]
 - **What do** you **do**? — Ким ти працюєш?
