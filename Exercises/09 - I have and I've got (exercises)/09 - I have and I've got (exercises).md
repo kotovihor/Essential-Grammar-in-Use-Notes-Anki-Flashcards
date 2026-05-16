@@ -1,0 +1,5 @@
+[[9.1 Write the short form with got (we've got, he hasn't got etc.)]]
+[[9.2 Read the questions and answers. Then write sentences about Mark.]]
+[[9.3 Write these sentences with got (I've got, have you got etc.). The meaning is the same.]]
+[[9.4 Write have got (I've got), has got ('s got), haven't got or hasn't got.]]
+[[9.5 Complete the sentences. Use have, has got or haven't, hasn't got with ...]]

@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54ca718b04d52e34",
+            "id": "85fc6eb59b89ce63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/07 - Do you ... (present simple questions) (exercises)/7.4 Write short answers (Yes, he does. No, I don't etc.).md",
+                "file": "exercises/09 - I have and I've got (exercises)/9.4 Write have got (I've got), has got ('s got), haven't got or hasn't got..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.4 Write short answers (Yes, he does. No, I don't etc.)"
-            }
-          },
-          {
-            "id": "02c0c1c86f18c3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 I am doing (present continuous) and I do (present simple)"
-            }
-          },
-          {
-            "id": "32ba5bb3e2a87757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lessons/09 - I have and I've got/09 I have and I've got.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 I have and I've got"
+              "title": "9.4 Write have got (I've got), has got ('s got), haven't got or hasn't got."
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 714.5,
+    "width": 498.5,
     "collapsed": true
   },
   "right": {
@@ -233,14 +204,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32ba5bb3e2a87757",
+  "active": "85fc6eb59b89ce63",
   "lastOpenFiles": [
+    "exercises/09 - I have and I've got (exercises)/9.3 Write these sentences with got (I've got, have you got etc.). The meaning is the same..md",
+    "exercises/09 - I have and I've got (exercises)/9.2 Read the questions and answers. Then write sentences about Mark..md",
+    "exercises/09 - I have and I've got (exercises)/9.1 Write the short form with got (we've got, he hasn't got etc.).md",
+    "exercises/09 - I have and I've got (exercises)/09 - I have and I've got (exercises).md",
+    "exercises/09 - I have and I've got (exercises)/9.5 Complete the sentences. Use have, has got or haven't, hasn't got with ....md",
+    "exercises/09 - I have and I've got (exercises)/9.4 Write have got (I've got), has got ('s got), haven't got or hasn't got..md",
+    "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 6 (exercises).png",
+    "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 5 (exercises).png",
+    "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 4 (exercises).png",
+    "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 3 (exercises).png",
+    "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 2 (exercises).png",
+    "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 1 (exercises).png",
+    "lessons/09 - I have and I've got/09 I have and I've got.md",
+    "Untitled.md",
+    "Essential Grammar in Use.md",
+    "exercises/09 - I have and I've got (exercises)",
     "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 2.png",
     "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 1.png",
     "images/09 - I have and I've got (pictures)",
-    "Essential Grammar in Use.md",
     "Book Essential Grammar in Use.png",
-    "lessons/09 - I have and I've got/09 I have and I've got.md",
     "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
     "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/08 - I am doing (present continuous) and I do (present simple) (exercises).md",
     "lessons/09 - I have and I've got",
@@ -249,13 +234,7 @@
     "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.2 Complete the sentences with am,is,are or do,don't,does,doesn't.md",
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 3 (exercises).png",
     "8.2 Complete the sentences with am,is,are or do,don't,does,doesn't..md",
-    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 2 (exercises).png",
-    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 1 (exercises).png",
     "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)",
-    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 4.png",
-    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 3.png",
-    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 1.png",
-    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 2.png",
     "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
     "lessons/07 - Do you ... (present simple questions)/07 Do you ... (present simple questions).md",
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)",
@@ -265,22 +244,13 @@
     "exercises/07 - Do you ... (present simple questions) (exercises)/7.2 Make questions from these words + do,does. Put the words in the right order..md",
     "exercises/07 - Do you ... (present simple questions) (exercises)/7.1 Write questions with Do ... and Does ....md",
     "exercises/07 - Do you ... (present simple questions) (exercises)/07 - Do you ... (present simple questions) (exercises).md",
-    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 4 (exercises).png",
     "exercises/07 - Do you ... (present simple questions) (exercises)",
     "lessons/06 - I don't ... (present simple negative)/06 I don't ... (present simple negative).md",
     "README.md",
     "exercises/06 - I don't ... (present simple negative) (exercises)/6.5 Put the verb into the correct form, positive or negative.md",
     "images/07 - Do you ... (present simple questions) (pictures)",
     "lessons/07 - Do you ... (present simple questions)",
-    "exercises/06 - I don't ... (present simple negative) (exercises)/6.4 Complete the sentences. All of them are negative. Use don't, doesn't + these verbs..md",
-    "exercises/06 - I don't ... (present simple negative) (exercises)/6.3 Write about yourself..md",
-    "exercises/06 - I don't ... (present simple negative) (exercises)/6.2 Study the information and write sentences with like..md",
-    "exercises/06 - I don't ... (present simple negative) (exercises)/6.1 Write the negative..md",
-    "exercises/06 - I don't ... (present simple negative) (exercises)/06 - I don't ... (present simple negative) (exercises).md",
-    "exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
-    "exercises/02 - am is are (questions) (exercises)/02 - am is are (questions) exercises.md",
     "exercises/06 - I don't ... (present simple negative) (exercises)",
-    "images/06 - I don't ... (present simple negative) (pictures)",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
