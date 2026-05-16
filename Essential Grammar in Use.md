@@ -11,4 +11,6 @@
 5. [[05 I do work like etc. (present simple)]]
 6. [[06 I don't ... (present simple negative)]]
 7. [[07 Do you ... (present simple questions)]]
-8. 
+8. [[08 I am doing (present continuous) and I do (present simple)]]
+9. [[09 I have and I've got]]
+10. 

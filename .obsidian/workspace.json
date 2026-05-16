@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.3 Put the verb in the present continuous (I am doing) or the present simple (I do)..md",
+                "file": "lessons/09 - I have and I've got/09 I have and I've got.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.3 Put the verb in the present continuous (I am doing) or the present simple (I do)."
+              "title": "09 I have and I've got"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 613.5
+    "width": 714.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1e40c067e4ddd6b",
@@ -234,15 +235,22 @@
   },
   "active": "32ba5bb3e2a87757",
   "lastOpenFiles": [
-    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.2 Complete the sentences with am,is,are or do,don't,does,doesn't.md",
-    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.3 Put the verb in the present continuous (I am doing) or the present simple (I do)..md",
-    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.1 Answer the questions about the pictures..md",
+    "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 2.png",
+    "images/09 - I have and I've got (pictures)/09 - I have and I've got - pic. 1.png",
+    "images/09 - I have and I've got (pictures)",
+    "Essential Grammar in Use.md",
+    "Book Essential Grammar in Use.png",
+    "lessons/09 - I have and I've got/09 I have and I've got.md",
+    "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
     "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/08 - I am doing (present continuous) and I do (present simple) (exercises).md",
+    "lessons/09 - I have and I've got",
+    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.1 Answer the questions about the pictures..md",
+    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.3 Put the verb in the present continuous (I am doing) or the present simple (I do)..md",
+    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.2 Complete the sentences with am,is,are or do,don't,does,doesn't.md",
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 3 (exercises).png",
     "8.2 Complete the sentences with am,is,are or do,don't,does,doesn't..md",
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 2 (exercises).png",
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 1 (exercises).png",
-    "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
     "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)",
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 4.png",
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 3.png",
@@ -250,7 +258,6 @@
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)/08 - I am doing (present continuous) and I do (present simple) - pic. 2.png",
     "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
     "lessons/07 - Do you ... (present simple questions)/07 Do you ... (present simple questions).md",
-    "Book Essential Grammar in Use.png",
     "images/08 - I am doing (present continuous) and I do (present simple) (pictures)",
     "exercises/07 - Do you ... (present simple questions) (exercises)/7.4 Write short answers (Yes, he does. No, I don't etc.).md",
     "lessons/08 - I am doing (presnt continuous) and I do (present simple)",
@@ -259,9 +266,7 @@
     "exercises/07 - Do you ... (present simple questions) (exercises)/7.1 Write questions with Do ... and Does ....md",
     "exercises/07 - Do you ... (present simple questions) (exercises)/07 - Do you ... (present simple questions) (exercises).md",
     "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 4 (exercises).png",
-    "images/07 - Do you ... (present simple questions) (pictures)/07 - Do you ... (present simple questions) - pic. 3 (exercises).png",
     "exercises/07 - Do you ... (present simple questions) (exercises)",
-    "Essential Grammar in Use.md",
     "lessons/06 - I don't ... (present simple negative)/06 I don't ... (present simple negative).md",
     "README.md",
     "exercises/06 - I don't ... (present simple negative) (exercises)/6.5 Put the verb into the correct form, positive or negative.md",
@@ -274,11 +279,8 @@
     "exercises/06 - I don't ... (present simple negative) (exercises)/06 - I don't ... (present simple negative) (exercises).md",
     "exercises/01 - am is are (exercises)/01 - am is are (exercises).md",
     "exercises/02 - am is are (questions) (exercises)/02 - am is are (questions) exercises.md",
-    "exercises/03 - I am doing (present continuous) (exercises)/03 - I am doing (present continuous) (exercises).md",
     "exercises/06 - I don't ... (present simple negative) (exercises)",
     "images/06 - I don't ... (present simple negative) (pictures)",
-    "exercises/05 - I do work like etc. (present simple) (exercises)",
-    "lessons/06 - I don't ... (present simple negative)",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
