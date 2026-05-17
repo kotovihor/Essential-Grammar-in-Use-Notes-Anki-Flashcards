@@ -13,4 +13,5 @@
 7. [[07 Do you ... (present simple questions)]]
 8. [[08 I am doing (present continuous) and I do (present simple)]]
 9. [[09 I have and I've got]]
-10. 
+10. [[10 was, were]]
+11. 
