@@ -121,5 +121,5 @@
 			- Heaven forbid. (форма Present Subjunctive) — Боронь Боже
 	- **Офіційні вимоги та пропозиції (Present Subjunctive):**
 		- Використовується після дієслів **suggest**, **demand**, **recommend**, **insist**. У цьому разі дієслово не змінює форму (не додається -s), а **to be** перетворюється просто на be.
-			- They suggested that she **visit** the gallery.
-			- I demand that he **be** here.
+			- They suggested that she **visit** the gallery. — Вони запропонували їй відвідати галерею.
+			- I demand that he **be** here. — Я вимагаю, щоб він був тут.
