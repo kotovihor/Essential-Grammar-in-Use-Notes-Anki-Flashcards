@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "364aa5b1dbcf3296",
+            "id": "a3c5a895d627532d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lessons/10 - was, were/10 was, were.md",
+                "file": "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 was, were"
-            }
-          },
-          {
-            "id": "df95aebcb8cdb0f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercises/04 - are you doing (present continuous questions) (exercises)/4.1 Look at the pictures and write the questions..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.1 Look at the pictures and write the questions."
+              "title": "11 worked, got, went etc. (past simple)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 505.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1e40c067e4ddd6b",
@@ -218,8 +204,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df95aebcb8cdb0f5",
+  "active": "a3c5a895d627532d",
   "lastOpenFiles": [
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11 - worked, got, went etc. (past simple) (exercises).md",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.5 Write sentences about what you did yesterday..md",
+    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 5 (exercises).png",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.4 Write sentences about the past (yesterday, last week etc.).md",
+    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 4 (exercises).png",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.3 Read about Lisa's journey to Madrid. Put the verbs in the correct form..md",
+    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 3 (exercises).png",
+    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 1 (exercises).png",
+    "Pasted image 20260519102021.png",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.2 Write the past simple of these verbs..md",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.1 Complete the sentences. Use a verb from the box..md",
+    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 2 (exercises).png",
+    "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)",
+    "exercises/04 - are you doing (present continuous questions) (exercises)/4.1 Look at the pictures and write the questions..md",
     "exercises/04 - are you doing (present continuous questions) (exercises)/04 - are you doing (present continuous questions) (exercises).md",
     "exercises/10 - was, were (exercises)/10 - was, were (exercises).md",
     "exercises/10 - was, were (exercises)/10.4 Write questions from these words + was, were. Put the words in the right order..md",
@@ -227,16 +228,12 @@
     "exercises/10 - was, were (exercises)/10.2 Write am, is, are (present) or was, were (past)..md",
     "exercises/10 - was, were (exercises)/10.1 Where were these people at 3 o'clock yesterday afternoon..md",
     "lessons/10 - was, were/10 was, were.md",
-    "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
     "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 3.png",
     "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 2.png",
     "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 1.png",
     "images/11 - worked, got, went etc. (past simple) (pictures)",
     "lessons/11 - worked, got, went etc. (past simple)",
     "images/10 - was, were (pictures)/10 - was, were - pic. 4 (exercises).png",
-    "images/10 - was, were (pictures)/10 - was, were - pic. 3 (exercises).png",
-    "images/10 - was, were (pictures)/10 - was, were - pic. 2 (exercises).png",
-    "images/10 - was, were (pictures)/10 - was, were - pic. 1 (exercises).png",
     "exercises/10 - was, were (exercises)",
     "exercises/09 - I have and I've got (exercises)/9.5 Complete the sentences. Use have, has got or haven't, hasn't got with ....md",
     "exercises/09 - I have and I've got (exercises)/9.4 Write have got (I've got), has got ('s got), haven't got or hasn't got..md",
@@ -244,9 +241,6 @@
     "exercises/09 - I have and I've got (exercises)/9.2 Read the questions and answers. Then write sentences about Mark..md",
     "exercises/09 - I have and I've got (exercises)/9.1 Write the short form with got (we've got, he hasn't got etc.).md",
     "lessons/09 - I have and I've got/09 I have and I've got.md",
-    "images/10 - was, were (pictures)/10 - was, were - pic. 3.png",
-    "images/10 - was, were (pictures)/10 - was, were - pic. 2.png",
-    "images/10 - was, were (pictures)/10 - was, were - pic. 1.png",
     "images/10 - was, were (pictures)",
     "Essential Grammar in Use.md",
     "lessons/10 - was, were",
@@ -256,16 +250,7 @@
     "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
     "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/08 - I am doing (present continuous) and I do (present simple) (exercises).md",
     "lessons/09 - I have and I've got",
-    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.1 Answer the questions about the pictures..md",
-    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.3 Put the verb in the present continuous (I am doing) or the present simple (I do)..md",
-    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/8.2 Complete the sentences with am,is,are or do,don't,does,doesn't.md",
-    "8.2 Complete the sentences with am,is,are or do,don't,does,doesn't..md",
     "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)",
-    "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
-    "lessons/07 - Do you ... (present simple questions)/07 Do you ... (present simple questions).md",
-    "images/08 - I am doing (present continuous) and I do (present simple) (pictures)",
-    "exercises/07 - Do you ... (present simple questions) (exercises)/7.4 Write short answers (Yes, he does. No, I don't etc.).md",
-    "exercises/07 - Do you ... (present simple questions) (exercises)/7.3 Complete the questions. Use these verbs..md",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
