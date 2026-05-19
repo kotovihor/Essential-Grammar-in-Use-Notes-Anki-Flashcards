@@ -206,7 +206,11 @@
 	- the year before last — позаминулого року
 	- the night before last — позаминулої ночі
 - **Приклад**:
-	- I **saw** him the week before last. — Я бачив його позаминулого тижня.
+	- I **saw** him **the week before last**. — Я бачив його **позаминулого тижня**.
+	- **The week before last** I **visited** my grandmother. — **Позаминулого тижня** я відвідав бабусю.
+	- **The month before last** he **bought** a new phone. — **Позаминулого місяця** він **купив** новий телефон.
+	- **The year before last** we **went** to Turkey. — **Позаминулого року** ми **їздили** до Туреччини.
+	- **The night before last** I **slept** very badly. — **Позаминулої ночі** я дуже погано спав.
 #### Конструкції з ago
 - **Ago** означає **тому**. Це слово ставиться **після проміжку часу**.
 - **Формула**: time expression + ago
@@ -220,7 +224,7 @@
 	- She **called** me an hour ago. — Вона подзвонила мені годину тому.
 	- I **started** learning English two years ago. — Я почав вивчати англійську два роки тому.
 ### Точні дати й періоди
-- Past Simple також використовується з конкретними датами, роками, місяцями та часом.
+- **Past Simple** також використовується з конкретними датами, роками, місяцями та часом.
 #### In + рік / місяць / період
 - **In** використовується з роками, місяцями та довшими періодами часу.
 - **Приклади**:
@@ -236,8 +240,8 @@
 - **Приклади**:
 	- on Sunday — у неділю
 	- on Monday — у понеділок
-	- on October 23 — 23 жовтня
-	- on 5 May — 5 травня
+	- on October 23 — 23 жовтня (on October twenty-third)
+	- on 5 May — 5 травня (on the fifth of May)
 - **Приклади в реченнях**:
 	- I **saw** her on Sunday. — Я бачив її у неділю.
 	- We **had** a meeting on Monday. — У нас була зустріч у понеділок.
