@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
+                "file": "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.5 Write sentences about what you did yesterday..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 worked, got, went etc. (past simple)"
+              "title": "11.5 Write sentences about what you did yesterday."
+            }
+          },
+          {
+            "id": "0a6de76da6a29c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lessons/12 - I didn't ... , Did you ... (past simple negative and questions)/12 I didn't ... , Did you ... (past simple negative and questions).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 I didn't ... , Did you ... (past simple negative and questions)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,21 +219,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3c5a895d627532d",
+  "active": "0a6de76da6a29c71",
   "lastOpenFiles": [
-    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11 - worked, got, went etc. (past simple) (exercises).md",
+    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 1.png",
+    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures) 1",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.5 Write sentences about what you did yesterday..md",
-    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 5 (exercises).png",
+    "lessons/12 - I didn't ... , Did you ... (past simple negative and questions)/12 I didn't ... , Did you ... (past simple negative and questions).md",
+    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)",
+    "lessons/12 - I didn't ... , Did you ... (past simple negative and questions)",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.4 Write sentences about the past (yesterday, last week etc.).md",
-    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 4 (exercises).png",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.3 Read about Lisa's journey to Madrid. Put the verbs in the correct form..md",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.2 Write the past simple of these verbs..md",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.1 Complete the sentences. Use a verb from the box..md",
+    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11 - worked, got, went etc. (past simple) (exercises).md",
+    "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
+    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 5 (exercises).png",
+    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 4 (exercises).png",
     "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 3 (exercises).png",
     "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 1 (exercises).png",
     "Pasted image 20260519102021.png",
-    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.2 Write the past simple of these verbs..md",
-    "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.1 Complete the sentences. Use a verb from the box..md",
     "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 2 (exercises).png",
-    "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)",
     "exercises/04 - are you doing (present continuous questions) (exercises)/4.1 Look at the pictures and write the questions..md",
     "exercises/04 - are you doing (present continuous questions) (exercises)/04 - are you doing (present continuous questions) (exercises).md",
@@ -246,11 +266,7 @@
     "lessons/10 - was, were",
     "exercises/09 - I have and I've got (exercises)/09 - I have and I've got (exercises).md",
     "exercises/09 - I have and I've got (exercises)",
-    "images/09 - I have and I've got (pictures)",
     "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
-    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)/08 - I am doing (present continuous) and I do (present simple) (exercises).md",
-    "lessons/09 - I have and I've got",
-    "exercises/08 - I am doing (present continuous) and I do (present simple) (exercises)",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
