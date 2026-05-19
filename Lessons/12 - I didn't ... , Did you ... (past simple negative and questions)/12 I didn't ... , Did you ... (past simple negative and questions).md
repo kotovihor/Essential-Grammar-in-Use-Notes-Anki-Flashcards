@@ -40,3 +40,173 @@
 	- **Did you ask** Tina to go out? — Ти запросив Тіну погуляти?
 	- **Did they finish** the course? — Вони закінчили курс?
 	- **Did he call** you? — Він тобі телефонував?
+#### Спеціальні питання
+- Спеціальні питання починаються з питального слова: **what, where, when, why, how, who**.
+- **Формула**: ==**Wh-word + did + підмет (subject) + V1?**==
+- Для запам'ятовування порядку слів можна використовувати акронім **QWASI**:
+
+| Літера | Значення      |
+| ------ | ------------- |
+| QW     | Question Word |
+| A      | Auxiliary     |
+| S      | Subject       |
+| I      | Infinitive    |
+- Тобто: ==**Question word + did + subject + infinitive.**==
+- **Приклади**:
+	- **When did you buy** that sweater? — Коли ти купив той светр?
+	- **Where did you call** Tina? — Звідки ти дзвонив Тіні?
+	- **Why did they leave** early? — Чому вони пішли рано?
+#### Розділові питання
+- Розділові питання, або **tag questions**, додаються в кінці речення для уточнення.
+- Якщо основне речення **стверджувальне**, хвостик буде **заперечним**:
+	- John scored a goal, **didn't he**? — Джон забив гол, чи не так?
+- Якщо основне речення **заперечне**, хвостик буде **стверджувальним**:
+	- Kate didn't take out the rubbish, **did she**? — Кейт не винесла сміття, чи не так?
+### Важливі винятки та зауваження
+#### Дієслово to be
+- Дієслово **to be** у **Past Simple** має форми: **was** та **were**.
+- Воно не потребує допоміжного **did** у запереченнях і питаннях.
+- **Приклади**:
+	- He **wasn't** at home. — Він не був удома.
+	- **Were** they happy? — Вони були щасливі?
+#### Емфатичне did
+- Іноді **did** може вживатися у стверджувальному реченні для підсилення значення.
+- **Приклад**:
+	- I **did** go there! — Я справді туди ходив!
+#### Did як основне дієслово
+- Якщо основна дія — **робити**, тоді дієслово **do** може бути основним.
+##### Ствердження
+- I **did** my homework. — Я зробив домашнє завдання.
+	- Тут **did** — це основне дієслово в минулому часі.
+##### Заперечення
+- I **didn't do** my homework. — Я не зробив домашнє завдання.
+	- didn't — допоміжне дієслово
+	- do — основне дієслово
+### Коротка таблиця
+
+| Тип речення        | Формула                            | Приклад               |
+| ------------------ | ---------------------------------- | --------------------- |
+| Ствердження        | Subject + V2                       | I worked.             |
+| Заперечення        | Subject + didn't + V1              | I didn't work.        |
+| Загальне питання   | Did + subject + V1                 | Did you work?         |
+| Спеціальне питання | Wh-word + did + subject + V1       | Where did you work?   |
+| Tag question       | sentence + didn't / did + pronoun? | He worked, didn't he? |
+## Правило: do/does → did
+- У **Present Simple** ми використовуємо: **do/does** — для теперішнього часу.
+- У **Past Simple** замість них використовуємо: **did** — для минулого часу.
+![[12 I didn't ... , Did you ... (past simple negative and questions) - pic. 4.png|Малюнок 2. Використання do/does в теперішньому і did у минулому часі.]]
+### Заперечення
+#### Present Simple
+- I **don’t** watch television very often. — Я не дивлюся телевізор дуже часто.
+- **Структура**: ==**Subject + don’t/doesn’t + Verb 1**==
+#### Past Simple
+- I **didn’t** watch television **yesterday**. — Я не дивився телевізор учора.
+- **Структура**: ==**Subject + didn’t + Verb 1**==
+- **Важливо**: після **didn’t** дієслово завжди у першій формі.
+### Питання
+#### Present Simple
+- **Does** she often go away? — Вона часто їде кудись?
+- **Структура**: ==**Does + subject + Verb 1?**==
+#### Past Simple
+- **Did** she go away **last week**? — Вона їздила кудись минулого тижня?
+- **Структура**: ==**Did + subject + Verb 1?**==
+- Важливо: після **did** дієслово теж у першій формі.
+### Коротко правило
+- **Present Simple**: do/does + V1
+- **Past Simple**: did + V1
+## Past Simple: did / didn’t + infinitive
+- У **Past Simple** в питаннях і запереченнях ми використовуємо: **did / didn’t + infinitive**.
+- Тут **infinitive** означає **початкова форма дієслова без -ed і без другої форми**: watch, play, go, have, do.
+![[12 I didn't ... , Did you ... (past simple negative and questions) - pic. 5.png|Малюнок 3. did / didn’t + infinitive]]
+### Стверджувальні речення
+- У стверджувальних реченнях дієслово ставимо у **Past Simple**:
+
+| Present | Past    |
+| ------- | ------- |
+| watch   | watched |
+| go      | went    |
+| have    | had     |
+| do      | did     |
+- **Приклади**:
+	- I **watched**. — Я дивився.
+	- They **went**. — Вони пішли / поїхали.
+	- He **had**. — Він мав.
+	- You **did**. — Ти зробив.
+### Заперечення з didn’t
+- Після **didn’t** дієслово повертається в початкову форму.
+- **Структура**: ==**Subject + didn’t + Verb 1**==
+- **Приклади**:
+	- I **didn’t watch**. — Я не дивився.
+	- He **didn’t have**. — Він не мав.
+### Питання з did
+- У питаннях **did** ставиться на початок речення, а основне дієслово залишається у першій формі.
+- **Структура**: ==**Did + subject + Verb 1?**==
+- **Приклади**:
+	- **Did** they **go**? — Вони пішли / поїхали?
+	- **Did** you **do**? — Ти зробив?
+### Розбір речень
+- I **played** tennis yesterday, but I **didn’t win**. — Я грав у теніс учора, але я не виграв.
+- **Did** you **do** the shopping? No, I **didn’t have** time. — Ти зробив покупки? Ні, у мене не було часу.
+- We **went** to the cinema, but we **didn’t enjoy** the film. — Ми ходили в кіно, але нам не сподобався фільм.
+## Порядок слів у питаннях Past Simple
+![[12 I didn't ... , Did you ... (past simple negative and questions) - pic. 6.png|Малюнок 4. Порядок слів у питаннях.]]
+### Загальне питання
+- **Структура**: ==**Did + subject + infinitive? (Did + підмет + дієслово в 1-й формі?)**==
+- **Приклад**:
+	- **Did** your sister **phone** you? — Твоя сестра телефонувала тобі?
+		- **Did** — допоміжне дієслово для Past Simple
+		- **your sister** — підмет
+		- **phone** — дієслово в початковій формі
+		- **you** — додаток
+### Спеціальні питання
+- Якщо є питальне слово, воно ставиться **перед did**.
+- **Структура**: ==**Question word + did + subject + infinitive? (Питальне слово + did + підмет + дієслово в 1-й формі?)**==
+- **Приклади**:
+	- **What did** you **do** last night? — Що ти робив учора ввечері?
+		- **What** — що
+		- **did** — допоміжне дієслово Past Simple
+		- **you** — підмет
+		- **do** — дієслово в початковій формі
+		- **last night** — учора ввечері / минулої ночі
+	- **How did** the accident **happen**? — Як сталася аварія?
+		- **How** — як
+		- **did** — допоміжне дієслово Past Simple
+		- **the accident** — підмет
+		- **happen** — дієслово в початковій формі
+	- **Where did** your parents **go** for their holiday? — Куди твої батьки поїхали на відпустку?
+		- **Where** — куди / де
+		- **did** — допоміжне дієслово Past Simple
+		- **your parents** — підмет
+		- **go** — дієслово в початковій формі
+		- **for their holiday** — на свою відпустку
+### Головне правило
+- У питаннях Past Simple: ==**Did + subject + Verb 1?**== або ==**Question word + did + subject + Verb 1?**==
+### Таблиця
+
+| Тип питання        | Структура                            | Приклад            |
+| ------------------ | ------------------------------------ | ------------------ |
+| Загальне питання   | Did + subject + V1?                  | Did she phone you? |
+| Спеціальне питання | What/How/Where + did + subject + V1? | What did you do?   |
+## Короткі відповіді в Past Simple
+- Коли питання починається з **Did**, у короткій відповіді ми теж використовуємо **did / didn’t**.
+![[12 I didn't ... , Did you ... (past simple negative and questions) - pic. 7.png|Малюнок 5. Короткі відповіді на питання в Past Simple.]]
+### Позитивна коротка відповідь
+- **Структура**: ==**Yes, + subject + did.**==
+- Тобто:
+	- Yes, I did.
+	- Yes, he did.
+	- Yes, they did.
+### Негативна коротка відповідь
+- **Структура**: ==**No, + subject + didn’t.**==
+- Тобто:
+	- No, I didn’t.
+	- No, she didn’t.
+	- No, they didn’t.
+### Важливо
+- У короткій відповіді **не повторюємо основне дієслово**.
+- У короткій відповіді достатньо сказати: **I did / I didn’t**
+### Розбір прикладів
+- Did you see Joe yesterday? **No, I didn’t.** — Ти бачив Джо вчора? Ні.
+- Did it rain on Sunday? **Yes, it did.** — У неділю йшов дощ? Так.
+- Did Helen come to the party? **No, she didn’t.** — Гелен прийшла на вечірку? Ні.
+- Did your parents have a good holiday? **Yes, they did.** — У твоїх батьків була хороша відпустка? Так.
