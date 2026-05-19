@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3c5a895d627532d",
+            "id": "a42637d9621d4bd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.5 Write sentences about what you did yesterday..md",
+                "file": "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.4 Write B's questions. Use ....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.5 Write sentences about what you did yesterday."
-            }
-          },
-          {
-            "id": "0a6de76da6a29c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lessons/12 - I didn't ... , Did you ... (past simple negative and questions)/12 I didn't ... , Did you ... (past simple negative and questions).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12 I didn't ... , Did you ... (past simple negative and questions)"
+              "title": "12.4 Write B's questions. Use ..."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 770.5
   },
   "right": {
     "id": "b1e40c067e4ddd6b",
@@ -218,17 +203,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a6de76da6a29c71",
+  "active": "a42637d9621d4bd0",
   "lastOpenFiles": [
-    "Book Essential Grammar in Use.png",
+    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.5 Put the verb in the correct form — positive, negative or question..md",
+    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 5 (exercises).png",
+    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.4 Write B's questions. Use ....md",
+    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises).md",
+    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 4 (exercises).png",
+    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.3 What did you do yesterday. Write positive or negative sentences..md",
+    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 3 (exercises).png",
+    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.2 Write questions with Did ....md",
+    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 2 (exercises).png",
+    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.1 Complete the sentences with the verb in the negative.md",
+    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 1 (exercises).png",
+    "Essential Grammar in Use.md",
     "lessons/12 - I didn't ... , Did you ... (past simple negative and questions)/12 I didn't ... , Did you ... (past simple negative and questions).md",
+    "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
+    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)",
+    "Book Essential Grammar in Use.png",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 7.png",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 6.png",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 5.png",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 4.png",
-    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 3.png",
-    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 2.png",
-    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 1.png",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures) 1",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.5 Write sentences about what you did yesterday..md",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)",
@@ -238,10 +234,6 @@
     "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.2 Write the past simple of these verbs..md",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.1 Complete the sentences. Use a verb from the box..md",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)/11 - worked, got, went etc. (past simple) (exercises).md",
-    "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
-    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 5 (exercises).png",
-    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 4 (exercises).png",
-    "images/11 - worked, got, went etc. (past simple) (pictures)/11 - worked, got, went etc. (past simple) - pic. 3 (exercises).png",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)",
     "exercises/04 - are you doing (present continuous questions) (exercises)/4.1 Look at the pictures and write the questions..md",
     "exercises/04 - are you doing (present continuous questions) (exercises)/04 - are you doing (present continuous questions) (exercises).md",
@@ -256,16 +248,8 @@
     "exercises/10 - was, were (exercises)",
     "exercises/09 - I have and I've got (exercises)/9.5 Complete the sentences. Use have, has got or haven't, hasn't got with ....md",
     "exercises/09 - I have and I've got (exercises)/9.4 Write have got (I've got), has got ('s got), haven't got or hasn't got..md",
-    "exercises/09 - I have and I've got (exercises)/9.3 Write these sentences with got (I've got, have you got etc.). The meaning is the same..md",
-    "exercises/09 - I have and I've got (exercises)/9.2 Read the questions and answers. Then write sentences about Mark..md",
-    "exercises/09 - I have and I've got (exercises)/9.1 Write the short form with got (we've got, he hasn't got etc.).md",
-    "lessons/09 - I have and I've got/09 I have and I've got.md",
     "images/10 - was, were (pictures)",
-    "Essential Grammar in Use.md",
     "lessons/10 - was, were",
-    "exercises/09 - I have and I've got (exercises)/09 - I have and I've got (exercises).md",
-    "exercises/09 - I have and I've got (exercises)",
-    "lessons/08 - I am doing (presnt continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
