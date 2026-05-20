@@ -578,7 +578,7 @@
 - **from 7 PM to 9 PM** — з 7 до 9 вечора
 - **Приклади**:
 	- We **were watching** films throughout the weekend. — Ми дивилися фільми протягом усіх вихідних.
-	- **as** — коли / у той час якFrom 7 PM to 9 PM, I **was working** on my project. — З 7 до 9 вечора я працював над своїм проєктом.
+	- From 7 PM to 9 PM, I **was working** on my project. — З 7 до 9 вечора я працював над своїм проєктом.
 ### Сполучники для зв’язку дій
 #### While / As
 - **while** і **as** часто використовуються з **Past Continuous**, коли одна дія тривала паралельно з іншою.
@@ -627,4 +627,4 @@
 	- **роздратування:** always, constantly, forever
 - Головна формула: **was / were + V-ing**
 - **Приклад**:
-	- **At 9 o’clock yesterday**, I **was reading** a book. 
+	- **At 9 o’clock yesterday**, I **was reading** a book. — Учора о 9-й годині я читав книгу.
