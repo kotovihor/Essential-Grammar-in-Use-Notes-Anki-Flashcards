@@ -1,7 +1,7 @@
 ---
 
 ---
-![[Book Essential Grammar in Use.png|300]]
+![[Book Essential Grammar in Use.png|392]]
 ## Contents
 ### Present
 1. [[01 am is are]]
@@ -16,4 +16,5 @@
 10. [[10 was, were]]
 11. [[11 worked, got, went etc. (past simple)]]
 12. [[12 I didn't ... , Did you ... (past simple negative and questions)]]
-13. 
+13. [[13 I was doing (past continuous)]]
+14. 

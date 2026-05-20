@@ -524,3 +524,107 @@
 - Для навчання, граматичних вправ та іспитів краще запам’ятати просте правило: ==**Stative Verbs зазвичай не використовуються в Continuous.**==
 	- I **knew** the truth. (~~I was knowing the truth.~~) — Я знав правду.
 	- She **wanted** to go home. (~~She was wanting to go home.~~) — Вона хотіла піти додому.
+## Маркери часу для Past Continuous
+### Загальне значення маркерів часу
+- Маркери часу допомагають зрозуміти, що дія **тривала в певний момент у минулому**. Past Continuous показує не просто факт, а процес:
+	- I **was studying** at 8 PM yesterday. — Я навчався вчора о 8 вечора.
+		- Тобто в момент **8 PM** дія вже була в процесі.
+### Конкретний момент у минулому
+- Ці маркери показують точну точку в минулому, коли дія тривала.
+#### At + точний час
+- **at 8 PM yesterday** — вчора о 8 вечора
+- **at noon** — опівдні
+- **at midnight** — опівночі
+- **at 3:30 PM** — о 15:30
+- **Приклади**:
+	- At 8 PM yesterday, I **was doing** my homework. — Вчора о 8 вечора я робив домашнє завдання.
+	- At midnight, they **were sleeping**. — Опівночі вони спали.
+#### Конкретні моменти
+- **at that moment** — у той момент
+- **during the meeting** — під час зустрічі
+- **at the beginning of the day** — на початку дня
+- **Приклади**:
+	- At that moment, she **was talking** to her teacher. — У той момент вона розмовляла зі своїм учителем.
+	- During the meeting, I **was taking** notes. — Під час зустрічі я робив нотатки.
+#### Відносні часові маркери
+- **this time last week** — у цей час минулого тижня
+- **this time last year** — у цей час минулого року
+- **around this time yesterday** — приблизно в цей час учора
+- **Приклади**:
+	- This time last week, I **was preparing** for my exam. — У цей час минулого тижня я готувався до іспиту.
+	- Around this time yesterday, we **were walking** in the park. — Приблизно в цей час учора ми гуляли в парку.
+### Маркери тривалості
+- Ці маркери підкреслюють, що дія тривала протягом певного періоду.
+#### Весь період
+- **all day** — весь день
+- **all morning** — весь ранок
+- **all evening** — весь вечір
+- **all night** — всю ніч
+- **Приклади**:
+	- I **was studying** all evening. — Я навчався весь вечір.
+	- It **was raining** all night. — Дощ ішов усю ніч.
+#### Довгі часові проміжки
+- **all week** — весь тиждень
+- **all month** — весь місяць
+- **all year** — весь рік
+- **for hours** — годинами
+- **the whole time** — весь час
+- **Приклади**:
+	- They **were working** for hours. — Вони працювали годинами.
+	- She **was waiting** the whole time. — Вона чекала весь цей час.
+#### Протягом певного періоду
+- **throughout the weekend** — протягом усіх вихідних
+- **throughout the day** — протягом усього дня
+- **from 7 PM to 9 PM** — з 7 до 9 вечора
+- **Приклади**:
+	- We **were watching** films throughout the weekend. — Ми дивилися фільми протягом усіх вихідних.
+	- **as** — коли / у той час якFrom 7 PM to 9 PM, I **was working** on my project. — З 7 до 9 вечора я працював над своїм проєктом.
+### Сполучники для зв’язку дій
+#### While / As
+- **while** і **as** часто використовуються з **Past Continuous**, коли одна дія тривала паралельно з іншою.
+	- **while** — поки / у той час як
+	- **as** — коли / у той час як
+- **Приклади**:
+	- **While** I **was cooking**, my brother **was watching** TV. — Поки я готував, мій брат дивився телевізор.
+	- **As** she **was walking** home, it **started** to rain. — Коли вона йшла додому, почався дощ.
+#### When
+- **when** часто вводить коротку дію в **Past Simple**, яка сталася під час тривалої дії.
+- **Приклад**:
+	- I **was studying when** the phone **rang**. — Я навчався, коли задзвонив телефон.
+### Маркери роздратування або критики
+- У **Past Continuous** деякі прислівники можуть показувати роздратування через повторювану дію в минулому.
+- **Основні маркери:**
+	- **always** — завжди
+	- **constantly** — постійно
+	- **forever** — вічно
+	- **continually** — безперервно / постійно
+	- **perpetually** — постійно / нескінченно
+- **Приклади**:
+	- He **was always losing** his keys. — Він постійно губив ключі.
+	- They **were constantly arguing**. — Вони постійно сварилися.
+	- She **was forever complaining**. — Вона вічно скаржилася.
+### Порівняння з Past Simple
+#### Past Simple
+- **Past Simple** часто використовує маркери завершеної дії:
+	- **yesterday** — учора
+	- **last week** — минулого тижня
+	- **ago** — тому
+	- **in 2010** — у 2010 році
+	- **on Tuesday** — у вівторок
+- **Приклад**:
+	- I **watched** TV **yesterday**. — Я дивився телевізор учора.
+		- Тут це просто факт.
+#### Past Continuous
+- **Past Continuous** показує, що дія була в процесі в певний момент.
+- **Приклад**:
+	- I **was watching** TV **at 8 PM yesterday**. — Я дивився телевізор учора о 8 вечора.
+		- Тут важливо, що о 8 вечора дія тривала.
+### Коротке правило
+- Для **Past Continuous** часто використовуються маркери, які показують:
+	- **точний момент у минулому:** at 8 PM, at noon, at that moment
+	- **тривалість:** all day, all evening, for hours
+	- **паралельність або переривання:** while, as, when
+	- **роздратування:** always, constantly, forever
+- Головна формула: **was / were + V-ing**
+- **Приклад**:
+	- **At 9 o’clock yesterday**, I **was reading** a book. 
