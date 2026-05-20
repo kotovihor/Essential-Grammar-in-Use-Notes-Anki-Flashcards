@@ -159,7 +159,7 @@
 - **Формула**: ==**Subject + was/were + always/constantly + V-ing**==
 - **Тобто**: ==**підмет + was/were + прислівник + дієслово з -ing**==
 - **Приклади**:
-	- He **was always complaining**. — Він постійно скаржився.
+	- He **was always complaining**. — Він завжди скаржився.
 	- They **were constantly arguing**. — Вони постійно сварилися.
 ##### Порядок слів
 - Прислівник ставиться **між was/were і дієсловом з -ing**.
