@@ -205,3 +205,322 @@
 	- **4:00** — he **was swimming** — О 4-й годині він плавав.
 	- **4:15** — he **finished** swimming — Він закінчив плавати.
 - Тобто дія тривала з **3:30 до 4:15**.
+## Past Continuous: was/were + -ing
+![[13 - I was doing (past continuous) - pic. 2.png|Малюнок 2. Утворення форм Past Continuous.]]
+### Загальне правило
+- **Past Continuous** утворюється за допомогою: ==**was / were + V-ing (підмет + was/were + дієслово з -ing)**==
+- **Приклади**:
+	- I **was watching** TV. — Я дивився телевізор.
+	- They **were playing** football. — Вони грали у футбол.
+### Вибір was або were
+#### Was
+- Використовується з **I/he/she/it**
+- **Приклади**:
+	- I **was working**. — Я працював.
+	- He **was sleeping**. — Він спав.
+	- She **was reading**. — Вона читала.
+	- It **was raining**. — Йшов дощ.
+#### Were
+- Використовується з **you / we / they**
+- **Приклади**:
+	- You **were studying**. — Ти навчався / ви навчалися.
+	- We **were walking**. — Ми гуляли.
+	- They **were watching** TV. — Вони дивилися телевізор.
+### Стверджувальна форма
+#### Формула
+- ==**Subject + was/were + V-ing**==
+#### Приклади
+- I **was watching** a movie when the power **went** out. — Я дивився фільм, коли вимкнули світло.
+- They **were preparing** dinner when I **arrived**. — Вони готували вечерю, коли я прийшов.
+- She **was practicing** piano all afternoon. — Вона займалася на піаніно весь день після обіду.
+### Заперечна форма
+#### Формула
+- ==**Subject + was not / were not + V-ing**==
+- **Скорочено**:
+	- **was not = wasn’t**
+	- **were not = weren’t**
+#### Приклади
+- I **wasn’t sleeping** when you **called**. — Я не спав, коли ти подзвонив.
+- They **weren’t following** the instructions properly. — Вони неправильно виконували інструкції.
+- The machine **wasn’t operating** correctly yesterday. — Машина вчора працювала неправильно.
+### Питальна форма
+#### Загальні питання
+##### Формула
+- ==**Was/Were + subject + V-ing?**==
+##### Приклади
+- **Was** she **waiting** for a long time? — Вона довго чекала?
+- **Were** they **working** on the project yesterday? — Вони працювали над проєктом учора?
+#### Спеціальні питання
+##### Формула
+- ==**Wh-word + was/were + subject + V-ing?**==
+##### Питальні слова
+- **what** — що
+- **why** — чому
+- **where** — де / куди
+- **when** — коли
+- **how** — як
+##### Приклади
+- **What were** you **doing** when the accident happened? — Що ти робив, коли сталася аварія?
+- **Why was** he **running** in the rain? — Чому він біг під дощем?
+### Приклади використання Past Continuous
+- **What were** you **doing** at 11.30 yesterday? **Were** you **working**? — Що ти робив учора об 11:30? Ти працював?
+- 'What did he say?' 'I don't know. I **wasn't listening**.' — 'Що він сказав?' 'Я не знаю. Я не слухав.'
+- It **was raining**, so we didn't go out. — Йшов дощ, тому ми не вийшли.
+- In 2001 we **were living** in Canada. — У 2001 році ми жили в Канаді.
+- Today she'**s wearing** a skirt, but yesterday she **was wearing** trousers. — Сьогодні вона в спідниці, але вчора вона була в штанах.
+- I woke up early yesterday. It was a beautiful morning. The sun **was shining** and the birds **were singing**. — Я прокинувся рано вчора. Це був прекрасний ранок. Сонце світило, а птахи співали.
+### Правила написання -ing
+#### Дієслова на німе -e
+- Якщо дієслово закінчується на німе **-e**, ця літера зникає перед **-ing**.
+- **Приклади**:
+	- write → writing
+	- make → making
+	- live → living
+#### Подвоєння кінцевого приголосного
+- У коротких дієсловах типу: ==**приголосний + голосний + приголосний**== кінцевий приголосний часто подвоюється.
+- **Приклади**:
+	- sit → sitting
+	- run → running
+	- swim → swimming
+	- plan → planning
+#### Дієслова на -ie
+- Якщо дієслово закінчується на **-ie**, то **ie** змінюється на **y**, а потім додається **-ing**.
+- **Приклади**:
+	- lie → lying
+	- die → dying
+#### Винятки: w, x, y
+- Якщо слово закінчується на **w, x, y**, ці літери не подвоюються.
+- **Приклади**:
+	- stay → staying
+	- fix → fixing
+	- play → playing
+
+### Коротке правило
+- ==**Past Continuous** показує дію, яка тривала в певний момент у минулому.==
+
+| Тип речення | Формула                          | Приклад           |
+| ----------- | -------------------------------- | ----------------- |
+| Ствердження | Subject + was/were + V-ing       | I was working.    |
+| Заперечення | Subject + wasn’t/weren’t + V-ing | I wasn’t working. |
+| Питання     | Was/Were + subject + V-ing?      | Were you working? |
+## Present Continuous → Past Continuous
+![[13 - I was doing (past continuous) - pic. 3.png|Малюнок 3. Present Continuous vs Past Continuous]]
+### Загальна ідея
+- **Present Continuous** і **Past Continuous** належать до групи **Continuous / Progressive**. Обидва часи показують дію **в процесі**, але різниця в тому, **коли саме ця дія відбувається**:
+	- **Present Continuous** — дія відбувається зараз.
+	- **Past Continuous** — дія тривала в певний момент у минулому.
+### Формула та структура
+#### Present Continuous
+##### Формула
+- ==**am / is / are + V-ing**==
+##### Приклади
+- I **am watching** TV now. — Я зараз дивлюся телевізор.
+- She **is working** now. — Вона зараз працює.
+- They **are playing** football. — Вони грають у футбол.
+#### Past Continuous
+##### Формула
+- ==**was / were + V-ing**==
+##### Приклади
+- She **was working** at 8 o'clock yesterday. — Вона працювала вчора о 8-й годині.
+- They **were playing** football at that moment. — Вони грали у футбол у той момент.
+### Головна граматична різниця
+- Основна різниця у формі дієслова **to be**.
+
+| Час                | Допоміжне дієслово | Приклад           |
+| ------------------ | ------------------ | ----------------- |
+| Present Continuous | am / is / are      | I **am working**  |
+| Past Continuous    | was / were         | I **was working** |
+- Тобто у **Past Continuous** дієслово **to be** переходить у минулий час:
+	- am / is → was
+	- are → were
+### Порівняння на прикладах
+#### Стверджувальне речення
+##### Present Continuous
+- I'**m working** now. — Я зараз працюю.
+	- ==Тут дія відбувається **зараз**, у момент мовлення.==
+##### Past Continuous
+- I **was working** at 10.30 last night. — Я працював учора о 10:30 вечора.
+	- ==Тут дія відбувалася **в конкретний момент у минулому** — о 10:30 учора ввечері.==
+
+| Present Continuous | Past Continuous                    |
+| ------------------ | ---------------------------------- |
+| I'm working now.   | I was working at 10.30 last night. |
+| Я працюю зараз.    | Я працював учора о 10:30.          |
+| am + V-ing         | was + V-ing                        |
+| дія зараз          | дія в минулому                     |
+#### Заперечне речення
+##### Present Continuous
+- It **isn't raining** now. — Зараз дощ не йде.
+	- ==Тут ми говоримо про ситуацію **зараз**.==
+##### Past Continuous
+- It **wasn't raining** when we went out. — Дощ не йшов, коли ми вийшли.
+	- ==Тут ми говоримо про ситуацію **в минулому**, у момент, коли ми вийшли.==
+
+| Present Continuous    | Past Continuous                     |
+| --------------------- | ----------------------------------- |
+| It isn't raining now. | It wasn’t raining when we went out. |
+| Зараз дощ не йде.     | Дощ не йшов, коли ми вийшли.        |
+| isn't + V-ing         | wasn’t + V-ing                      |
+| зараз                 | у минулому                          |
+#### Питальне речення
+##### Present Continuous
+- What **are** you **doing** now? — Що ти зараз робиш?
+	- ==Тут питають про дію **зараз**.==
+##### Past Continuous
+- What **were** you **doing** at three o'clock? — Що ти робив о третій годині?
+	- ==Тут питають про дію, яка тривала **в конкретний момент у минулому**.==
+
+| Present Continuous      | Past Continuous                       |
+| ----------------------- | ------------------------------------- |
+| What are you doing now? | What were you doing at three o'clock? |
+| Що ти зараз робиш?      | Що ти робив о третій годині?          |
+| are + subject + V-ing   | were + subject + V-ing                |
+| питання про зараз       | питання про минуле                    |
+### Спільне обмеження: Stative Verbs
+#### Що таке Stative Verbs
+- ==**Stative Verbs** — це дієслова, які описують **стан**, а не активну дію.==
+- **Вони можуть описувати:**
+	- думки;
+	- почуття;
+	- володіння;
+	- сприйняття;
+	- властивості;
+	- стани.
+- **Наприклад:**
+	- **know** — знати
+	- **love** — любити
+	- **have** — мати
+	- **believe** — вірити
+	- **want** — хотіти
+- ==**Головна особливість:** такі дієслова зазвичай **не використовуються в Continuous**.==
+#### Чому Stative Verbs не вживаються в Continuous
+- Часи групи **Continuous** показують дію в процесі:
+	- I **am running**. — Я біжу.
+	- She **was cooking**. — Вона готувала.
+- Але стани зазвичай не мають активного процесу. Тому ми кажемо:
+	- I **know** the answer. (~~I am knowing the answer.~~) — Я знаю відповідь.
+	- I **knew** the answer. (~~I was knowing the answer.~~) — Я знав відповідь.
+#### Основні категорії Stative Verbs
+##### Думки, знання та переконання
+- До цієї групи належать дієслова, які описують розумові процеси або переконання:
+	- **know** — знати
+	- **believe** — вірити
+	- **understand** — розуміти
+	- **realize** — усвідомлювати
+	- **remember** — пам’ятати
+	- **forget** — забувати
+	- **suppose** — припускати
+	- **mean** — означати
+	- **recognize** — впізнавати
+- **Приклади**:
+	- I **know** him. — Я знаю його.
+	- She **believed** the story. — Вона повірила цій історії.
+##### Емоції та бажання
+- Ці дієслова описують почуття або бажання:
+	- **love** — любити
+	- **hate** — ненавидіти
+	- **want** — хотіти
+	- **need** — потребувати
+	- **prefer** — надавати перевагу
+	- **like** — подобатися
+	- **dislike** — не подобатися
+	- **wish** — бажати
+	- **adore** — обожнювати
+- **Приклади**:
+	- I **love** this song. — Я люблю цю пісню.
+	- He **wanted** a new phone. — Він хотів новий телефон.
+##### Володіння та приналежність
+- Ці дієслова описують те, що хтось має або чим володіє:
+	- **have** — мати
+	- **own** — володіти
+	- **belong** — належати
+	- **possess** — володіти
+	- **include** — включати
+	- **contain** — містити
+	- **owe** — бути винним
+	- **lack** — бракувати
+- **Приклади**:
+	- I **have** a car. — У мене є машина.
+	- This book **belongs** to me. — Ця книга належить мені.
+##### Сприйняття через органи чуття
+- Ці дієслова описують сприйняття:
+	- **see** — бачити
+	- **hear** — чути
+	- **smell** — пахнути / мати запах
+	- **taste** — мати смак
+	- **seem** — здаватися
+	- **appear** — виглядати
+	- **sound** — звучати
+	- **feel** — відчувати / здаватися
+- **Приклади**:
+	- The soup **tastes** good. — Суп має добрий смак.
+	- This music **sounds** nice. — Ця музика звучить приємно.
+##### Стани, якості та вимірювання
+- Ці дієслова описують стан, властивість або характеристику:
+	- **be** — бути
+	- **exist** — існувати
+	- **cost** — коштувати
+	- **weigh** — важити
+	- **measure** — вимірювати
+	- **consist** — складатися
+	- **fit** — підходити за розміром
+	- **matter** — мати значення
+- **Приклади**:
+	- This bag **costs** 50 dollars. — Ця сумка коштує 50 доларів.
+	- The box **weighs** 10 kilos. — Коробка важить 10 кілограмів.
+#### Дієслова з подвійним значенням
+- Деякі дієслова можуть бути і **stative**, і **dynamic**. Усе залежить від значення.
+##### Think
+###### Stative meaning
+- I **think** you’re right. — Я думаю, що ти правий.
+	- Тут **think** означає “мати думку”.
+###### Dynamic meaning
+- I **was thinking** about the problem. — Я думав над проблемою.
+	- Тут **thinking** означає активний процес обдумування.
+##### Have
+###### Stative meaning
+- I **have** a car. — У мене є машина.
+	- Тут **have** означає “мати”.
+###### Dynamic meaning
+- I **was having** lunch. — Я обідав.
+	- Тут **have lunch** — це дія, тому Continuous можливий.
+###### Інші приклади
+- **have a shower** — приймати душ
+- **have a party** — влаштовувати вечірку
+- **have breakfast** — снідати
+##### Be
+###### Stative meaning
+- He **is** rude. — Він грубий.
+	- Це може описувати його постійну рису характеру.
+###### Dynamic meaning
+- He **is being** rude. — Він поводиться грубо зараз.
+	- Тут **is being** показує тимчасову поведінку.
+##### See
+###### Stative meaning
+- I **see** what you mean. — Я розумію, що ти маєш на увазі.
+	- Тут **see** означає “розуміти”.
+###### Dynamic meaning
+- I'**m seeing** my doctor tomorrow. — Я зустрічаюся з лікарем завтра.
+	- Тут **see** означає “зустрічатися”.
+##### Taste / Smell
+###### Stative meaning
+- The soup **tastes** great. — Суп чудовий на смак.
+	- Тут суп має смак.
+###### Dynamic meaning
+- The chef **is tasting** the soup. — Кухар куштує суп.
+	- Тут кухар виконує дію.
+#### Винятки та сучасне мовлення
+- Іноді **stative verbs** можуть використовуватися в **Continuous**, якщо мовець хоче підкреслити:
+	- тимчасовість;
+	- емоційність;
+	- процес зміни;
+	- рекламний або розмовний стиль.
+- **Приклад**:
+	- I'**m loving** it. — Мені це дуже подобається зараз.
+		- Формально **love** — stative verb, але тут Continuous використовується для емоційного ефекту.
+	- I'**m understanding** you better now. — Я починаю краще тебе розуміти.
+		- Тут підкреслюється поступовий процес розуміння.
+#### Академічне правило
+- Для навчання, граматичних вправ та іспитів краще запам’ятати просте правило: ==**Stative Verbs зазвичай не використовуються в Continuous.**==
+	- I **knew** the truth. (~~I was knowing the truth.~~) — Я знав правду.
+	- She **wanted** to go home. (~~She was wanting to go home.~~) — Вона хотіла піти додому.

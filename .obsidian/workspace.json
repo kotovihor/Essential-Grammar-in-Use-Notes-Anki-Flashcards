@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +204,14 @@
   },
   "active": "84932ac12d35d2e7",
   "lastOpenFiles": [
+    "lessons/03 - I am doing (present continuous)/03 I am doing (present continuous).md",
+    "lessons/13 - I was doing (past continuous)/13 I was doing (past continuous).md",
+    "images/13 - I was doing (past continuous) (pictures)/13 - I was doing (past continuous) - pic. 3.png",
+    "lessons/05 - I do work like etc. (present simple)/05 I do work like etc. (present simple).md",
+    "images/13 - I was doing (past continuous) (pictures)/13 - I was doing (past continuous) - pic. 2.png",
     "images/13 - I was doing (past continuous) (pictures)/13 - I was doing (past continuous) - pic. 1.png",
     "images/13 - I was doing (past continuous) (pictures)",
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.5 Put the verb in the correct form — positive, negative or question..md",
-    "lessons/13 - I was doing (past continuous)/13 I was doing (past continuous).md",
     "lessons/13 - I was doing (past continuous)",
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.4 Write B's questions. Use ....md",
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.3 What did you do yesterday. Write positive or negative sentences..md",
@@ -226,9 +229,6 @@
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)",
     "Book Essential Grammar in Use.png",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 7.png",
-    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 6.png",
-    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 5.png",
-    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)/12 I didn't ... , Did you ... (past simple negative and questions) - pic. 4.png",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures) 1",
     "exercises/11 - worked, got, went etc. (past simple) (exercises)/11.5 Write sentences about what you did yesterday..md",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)",
@@ -250,7 +250,6 @@
     "images/11 - worked, got, went etc. (past simple) (pictures)",
     "lessons/11 - worked, got, went etc. (past simple)",
     "exercises/10 - was, were (exercises)",
-    "exercises/09 - I have and I've got (exercises)/9.5 Complete the sentences. Use have, has got or haven't, hasn't got with ....md",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
