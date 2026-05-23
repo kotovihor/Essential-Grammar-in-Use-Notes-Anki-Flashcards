@@ -251,3 +251,56 @@
 - He **was reading** **when** the phone **rang**. — Він читав, коли задзвонив телефон.
 	- **was reading** — довга дія, процес
 	- **rang** — коротка дія, яка сталася в момент процесу
+## Порівняння часів на прикладах
+![[14 - I was doing (past continuous) and I did (past simple) - pic. 2.png|Малюнок 2. Порівняння часів на прикладах (Past Continuos і Past Simple)]]
+### Past Simple — завершена дія
+#### Основне значення
+- ==**Past Simple** використовується, коли дія в минулому **почалася і закінчилася**. Тобто ми дивимося на дію як на **повний завершений факт**.==
+#### Приклад
+- What **did** you **do** yesterday morning? We **played** tennis. (from 10 to 11.30) — Що ви робили учора вранці? Ми грали в теніс.
+	- Тут дія має початок і кінець.
+### Past Continuous — дія в процесі
+#### Основне значення
+- ==**Past Continuous** використовується, коли дія **тривала в певний момент у минулому**. Ми не показуємо її початок і кінець, а бачимо дію **всередині процесу**.==
+#### Приклад
+- What **were** you **doing** at 10.30? We **were playing** tennis. — Що ви робили о 10:30? Ми грали в теніс.
+	- Тут важливо не те, коли дія почалася або закінчилася, а те, що **о 10:30 вони були в процесі гри**.
+### Порівняння Past Simple і Past Continuous
+#### Past Simple
+- We **played** tennis from 10 to 11.30. — Ми грали в теніс з 10:00 до 11:30.
+	- Тут дія розглядається повністю: від початку до кінця.
+#### Past Continuous
+- We **were playing** tennis at 10.30. — Ми грали в теніс о 10:30.
+	- Тут дія розглядається в конкретний момент часу.
+### Приклади Past Simple
+#### Стверджувальне речення
+- Jack **read** a book yesterday. — Джек читав книгу вчора.
+	- Тут мається на увазі дія від початку до кінця.
+#### Питальне речення
+- **Did** you **watch** the film on television last night? — Ти дивився фільм по телевізору вчора ввечері?
+#### Заперечне речення
+- It **didn’t rain** while we were on holiday. — Дощу не було, поки ми були у відпустці.
+### Приклади Past Continuous
+#### Стверджувальне речення
+- Jack **was reading** a book when the phone rang. — Джек читав книгу, коли задзвонив телефон.
+	- **was reading** — довга дія в процесі.
+	- **rang** — коротка дія, яка сталася.
+#### Питальне речення
+- **Were** you **watching** television when I phoned you? — Ти дивився телевізор, коли я тобі подзвонив?
+#### Заперечне речення
+- It **wasn’t raining** when I got up. — Дощ не йшов, коли я встав.
+### Додаткові приклади
+#### Завершені дії + дія в процесі
+- I **started** work at 9 o’clock and **finished** at 4.30. At 2.30 I **was working**. — Я почав працювати о 9-й і закінчив о 4:30. О 2:30 я працював.
+	- **started / finished** — Past Simple, завершені дії.
+	- **was working** — Past Continuous, дія в процесі о 2:30.
+#### Дія почалася раніше
+- It **was raining** when we **went** out. — Йшов дощ, коли ми вийшли.
+	- **was raining** — фонова дія.
+	- **went out** — коротка дія.
+#### Дія в момент іншої дії
+- I **saw** Lucy and Steve this morning. They **were waiting** at the bus stop. — Я бачив Люсі та Стіва сьогодні вранці. Вони чекали на автобусній зупинці.
+#### While + Past Continuous
+- Kelly **fell** asleep while she **was reading**. — Келлі заснула, поки читала.
+	- **fell asleep** — коротка завершена дія.
+	- **was reading** — довга дія в процесі.
