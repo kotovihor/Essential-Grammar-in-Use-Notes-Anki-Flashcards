@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b17d1402862c981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lessons/13 - I was doing (past continuous)/13 I was doing (past continuous).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13 I was doing (past continuous)"
-            }
-          },
-          {
-            "id": "29cc99b526eb0b52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercises/13 - I was doing (past continuous) (exercises)/13.4 Look at the picture. You saw Joe in the street yesterday afternoon. What was he doing..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13.4 Look at the picture. You saw Joe in the street yesterday afternoon. What was he doing."
-            }
-          },
-          {
             "id": "aa0f1c21ce55739f",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "14 I was doing (past continuous) and I did (past simple)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550.5
+    "width": 550.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1e40c067e4ddd6b",
@@ -234,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84932ac12d35d2e7",
+  "active": "aa0f1c21ce55739f",
   "lastOpenFiles": [
     "images/14 - I was doing (past continuous) and I did (past simple) (pictures)/14 - I was doing (past continuous) and I did (past simple) - pic. 1.png",
     "images/13 - I was doing (past continuous) (pictures)/13 - I was doing (past continuous) - pic. 4 (exercises).png",
