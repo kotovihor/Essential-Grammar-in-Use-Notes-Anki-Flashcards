@@ -57,7 +57,7 @@
 	- He **was driving** home **when** it **started** to rain. — Він їхав додому, коли почався дощ.
 	- We **were having** dinner **when** the guests **arrived**. — Ми вечеряли, коли приїхали гості.
 	- The children **were playing** outside **when** their mother **called** them. — Діти гралися надворі, коли мама їх покликала.
-	- I **was taking** a shower **when** you **called** me. — Я приймав / приймала душ, коли ти мені подзвонив.
+	- I **was taking** a shower **when** you **called** me. — Я приймав душ, коли ти мені подзвонив.
 	- She **was walking** down the street **when** she **saw** an old friend. — Вона йшла вулицею, коли побачила старого друга.
 	- They **were talking** **when** the teacher **entered** the room. — Вони розмовляли, коли вчитель зайшов до кімнати.
 	- He **was working** on his laptop **when** the Internet **stopped** working. — Він працював за ноутбуком, коли перестав працювати інтернет.
