@@ -14,6 +14,48 @@
 		- **Результат**: телефон зараз не працює.
 	- They **have cleaned** the room. — Вони прибрали кімнату.
 		- **Результат**: кімната зараз чиста.
+	- We **have finished** our homework. — Ми закінчили домашнє завдання.
+		- **Результат**: Домашка вже готова.
+	- They **have washed** the car. — Вони помили машину.
+		- **Результат**: Машина зараз чиста.
+	- I **have eaten** breakfast. — Я поснідав.
+		- **Результат**: Я зараз не голодний.
+	- We **have closed** the door. — Ми закрили двері.
+		- **Результат**: Двері зараз закриті.
+	- The baby **has fallen asleep**. — Дитина заснула.
+		- **Результат**: Дитина зараз спить.
+	- She **has spent** all her money. — Вона витратила всі гроші.
+		- **Результат**: У неї зараз немає грошей.
+	- He **has missed** the bus. — Він пропустив автобус.
+		- **Результат**: Йому зараз треба чекати інший.
+	- We **have painted** the walls. — Ми пофарбували стіни.
+		- **Результат**: Стіни зараз іншого кольору.
+	- I **have downloaded** the app. — Я завантажив застосунок.
+		- **Результат**: Він зараз є на моєму телефоні.
+	- He **has repaired** the bike. — Він полагодив велосипед.
+		- **Результат**: Велосипед зараз працює.
+	- We **have booked** a table. — Ми забронювали столик.
+		- **Результат**: У нас зараз є бронювання.
+	- We **have run out of** coffee. — У нас закінчилася кава.
+		- **Результат**: Зараз немає кави.
+	- They **have made** a decision. — Вони ухвалили рішення.
+		- **Результат**: Рішення вже є.
+	- She **has caught** a cold. — Вона застудилася.
+		- **Результат**: Вона зараз погано почувається.
+	- He **has forgotten** the password. — Він забув пароль.
+		- **Результат**:Він зараз не може увійти в акаунт.
+	- The price **has increased**. — Ціна зросла.
+		- **Результат**: Зараз товар дорожчий.
+	- The company **has introduced** a new policy. — Компанія запровадила нову політику.
+		- **Результат**: Нові правила діють зараз.
+	- Scientists **have discovered** a new method. — Вчені відкрили новий метод.
+		- **Результат**: Цей метод тепер можна використовувати.
+	- The government **has changed** the law. — Уряд змінив закон.
+		- **Результат**: Закон зараз інший.
+	- Our team **has completed** the first stage of the project. — Наша команда завершила перший етап проєкту.
+		- **Результат**: Тепер можна переходити до наступного етапу.
+	- The storm **has damaged** several buildings. — Буря пошкодила кілька будівель.
+		- **Результат**: Будівлі зараз пошкоджені.
 ### Особистий досвід
 - ==**Present Perfect** використовують, коли ми говоримо про життєвий досвід: що людина колись робила або не робила. Точний час тут неважливий.==
 - Часто використовуються слова:
@@ -23,6 +65,19 @@
 	- **Have** you **ever been** to London? — Ти коли-небудь був у Лондоні?
 	- I **have never eaten** sushi. — Я ніколи не їв суші.
 	- She **has visited** many countries. — Вона відвідала багато країн.
+	- I **have been** to Spain. — Я був в Іспанії.
+	- We **have watchedx** this series. — Ми дивилися цей серіал.
+	- **Have** you **ever been** to Paris? —Ти коли-небудь був в Парижі?
+	- **Have** you **ever ridden** a horse? — Ти коли-небудь їздив верхи?
+	- **Has** she **ever travelled** abroad? — Вона коли-небудь подорожувала за кордон?
+	- I **have never been** to London. — Я ніколи не був в Лондоні.
+	- He **has never flown** by plane. — Він ніколи не літав літаком.
+	- She **has worked** with international clients. — Вона працювала з міжнародними клієнтами.
+	- He **has learned** two foreign languages. — Він вивчав дві іноземні мови.
+	- I **have tried** many different jobs. — Я пробував багато різних робіт.
+	- They **have never spoken** to a native speaker. — Вони ніколи не говорили з носієм мови.
+	- I **have dealt** with similar problems before. — Я вже мав справу з подібними проблемами раніше.
+	- We **have faced** many challenges together. — Ми разом стикалися з багатьма викликами.
 - ==**Тут неважливо, коли саме це сталося. Важливий сам факт досвіду.**==
 ### Дія, яка почалася в минулому і триває досі
 - ==**Present Perfect** використовують для дій або станів, які почалися в минулому і продовжуються зараз. ==
@@ -46,6 +101,8 @@
 		- День ще не закінчився, тому використовується Present Perfect.
 	- She **has read** two books **this month**. — Вона прочитала дві книги цього місяця.
 		- Місяць ще триває.
+	- The company **has launched** several new products **this year**. — Компанія запустила кілька нових продуктів цього року.
+	- Our team **has completed** three major tasks **this week.** — Наша команда завершила три важливі завдання цього тижня.
 ### Щойно завершені дії та новини
 - ==**Present Perfect** часто використовують для подій, які сталися зовсім недавно.==
 - **Типові маркери:**
@@ -58,6 +115,10 @@
 	- She **has already left**. — Вона вже пішла.
 	- **Have** you **finished yet**? — Ти вже закінчив?
 	- I **haven’t finished yet**. — Я ще не закінчив.
+	- The company **has just announced** a new project. — Компанія щойно оголосила новий проєкт.
+	- The Prime Minister **has resigned**. — Прем’єр-міністр подав у відставку.
+	- The train **has been delayed**. — Потяг затримали.
+	- The documents **have already been signed**. — Документи вже підписали.
 ### Конструкція "It's the first time ..."
 - ==**Present Perfect** використовують у конструкціях, де говоримо, що щось відбувається вперше, вдруге, втретє тощо.==
 - **Структура**: **It is the first / second / third time + Present Perfect**
