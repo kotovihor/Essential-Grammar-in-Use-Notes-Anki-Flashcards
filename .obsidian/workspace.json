@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa0f1c21ce55739f",
+            "id": "5e7fd964f814c12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lessons/14 - I was doing (past continuous) and I did (past simple)/14 I was doing (past continuous) and I did (past simple).md",
+                "file": "lessons/15 - I have done (present perfect 1)/15 I have done (present perfect 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 I was doing (past continuous) and I did (past simple)"
-            }
-          },
-          {
-            "id": "43cf794d236eb52b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "exercises/14 - I was doing (past continuous) and I did (past simple) (exercises)/14.2 Put the verb into the past continuous or past simple..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14.2 Put the verb into the past continuous or past simple."
+              "title": "15 I have done (present perfect 1)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550.5,
+    "width": 366.5,
     "collapsed": true
   },
   "right": {
@@ -221,10 +206,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43cf794d236eb52b",
+  "active": "5e7fd964f814c12b",
   "lastOpenFiles": [
-    "exercises/14 - I was doing (past continuous) and I did (past simple) (exercises)/14.1 Look at the pictures. Put the verbs in the correct form, past continuous or past simple..md",
+    "Book Essential Grammar in Use.png",
+    "lessons/15 - I have done (present perfect 1)/15 I have done (present perfect 1).md",
+    "images/15 - I have done (present perfect 1) (pictures)/15 - I have done (present perfect 1) - pic. 1.png",
+    "images/15 - I have done (present perfect 1) (pictures)",
+    "lessons/15 - I have done (present perfect 1)",
     "exercises/14 - I was doing (past continuous) and I did (past simple) (exercises)/14.2 Put the verb into the past continuous or past simple..md",
+    "exercises/14 - I was doing (past continuous) and I did (past simple) (exercises)/14.1 Look at the pictures. Put the verbs in the correct form, past continuous or past simple..md",
     "Pasted image 20260525113419 1.png",
     "images/14 - I was doing (past continuous) and I did (past simple) (pictures)/14 - I was doing (past continuous) and I did (past simple) - pic. 2 (exercises).png",
     "exercises/14 - I was doing (past continuous) and I did (past simple) (exercises)/14 - I was doing (past continuous) and I did (past simple) (exercises).md",
@@ -247,10 +237,8 @@
     "lessons/13 - I was doing (past continuous)/13 I was doing (past continuous).md",
     "README.md",
     "Essential Grammar in Use.md",
-    "Book Essential Grammar in Use.png",
     "images/13 - I was doing (past continuous) (pictures)/13 - I was doing (past continuous) - pic. 3 (exercises).png",
     "images/13 - I was doing (past continuous) (pictures)/13 - I was doing (past continuous) - pic. 2 (exercises).png",
-    "images/13 - I was doing (past continuous) (pictures)/13 - I was doing (past continuous) - pic. 1 (exercises).png",
     "exercises/13 - I was doing (past continuous) (exercises)",
     "lessons/08 - I am doing (present continuous) and I do (present simple)/08 I am doing (present continuous) and I do (present simple).md",
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.3 What did you do yesterday. Write positive or negative sentences..md",
@@ -263,11 +251,8 @@
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.2 Write questions with Did ....md",
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.1 Complete the sentences with the verb in the negative.md",
     "lessons/12 - I didn't ... , Did you ... (past simple negative and questions)/12 I didn't ... , Did you ... (past simple negative and questions).md",
-    "lessons/11 - worked, got, went etc. (past simple)/11 worked, got, went etc. (past simple).md",
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)",
     "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures) 1",
-    "images/12 - I didn't ... , Did you ... (past simple negative and questions) (pictures)",
-    "lessons/12 - I didn't ... , Did you ... (past simple negative and questions)",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
