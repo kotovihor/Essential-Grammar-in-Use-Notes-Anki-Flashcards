@@ -24,9 +24,9 @@
 	- Their plane **has just landed**. — Їхній літак щойно приземлився
 	- Mike'**s just called**. — Майк щойно зателефонував.
 	- Niki and John **have just come** back from a week in Spain. — Нікі та Джон щойно повернулися після тижня в Іспанії
-	- Jason **has just finished** his project — Джейсон щойно закінчив свій проєкт.
+	- Jason **has just finished** his project. — Джейсон щойно закінчив свій проєкт.
 	- I **have just arrived** at the station. — Я щойно прибув на станцію
-	- I'**ve just seen** Susan coming out of the cinema. — Я щойно бачив Сьюзан, яка виходила з кінотеатру
+	- I'**ve just seen** Susan coming out of the cinema. — Я щойно бачив Сьюзан, яка виходила з кінотеатру.
 	- He **has just visited** Pisa. — Він щойно відвідав Пізу
 ### Місце just у реченні
 - ==У **Present Perfect** слово **just** зазвичай ставиться **між have/has і V3**.==
