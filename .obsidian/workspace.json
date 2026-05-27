@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "15.2 Complete the sentences with a verb from the box."
             }
+          },
+          {
+            "id": "78ee53d20a9e4d40",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2) (pictures)/16 - just, already, yet (present perfect 2) - pic. 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "16 - just, already, yet (present perfect 2) - pic. 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,12 +212,12 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,10 +232,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d0508228ffbb3d9",
+  "active": "f886df199904d2fd",
   "lastOpenFiles": [
-    "exercises/15 - I have done (present perfect 1) (exercises)/15.1 Look at the pictures. What has happened. Choose from the box..md",
+    "lessons/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2)/16 I've just ... , I've already ... , I haven't ... yet (present perfect 2).md",
+    "Book Essential Grammar in Use.png",
+    "images/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2) (pictures)/16 - just, already, yet (present perfect 2) - pic. 1.png",
     "exercises/15 - I have done (present perfect 1) (exercises)/15.2 Complete the sentences with a verb from the box..md",
+    "images/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2) (pictures)",
+    "lessons/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2)",
+    "exercises/15 - I have done (present perfect 1) (exercises)/15.1 Look at the pictures. What has happened. Choose from the box..md",
     "images/15 - I have done (present perfect 1) (pictures)/15 - I have done (present perfect 1) - pic. 2 (exercises).png",
     "exercises/15 - I have done (present perfect 1) (exercises)/15 - I have done (present perfect 1) (exercises).md",
     "lessons/15 - I have done (present perfect 1)/15 I have done (present perfect 1).md",
@@ -231,7 +248,6 @@
     "exercises/15 - I have done (present perfect 1) (exercises)",
     "images/15 - I have done (present perfect 1) (pictures)/15 - I have done (present perfect 1) - pic. 3.png",
     "images/15 - I have done (present perfect 1) (pictures)/15 - I have done (present perfect 1) - pic. 2.png",
-    "Book Essential Grammar in Use.png",
     "images/15 - I have done (present perfect 1) (pictures)/15 - I have done (present perfect 1) - pic. 1.png",
     "images/15 - I have done (present perfect 1) (pictures)",
     "lessons/15 - I have done (present perfect 1)",
@@ -246,7 +262,6 @@
     "exercises/13 - I was doing (past continuous) (exercises)/13 - I was doing (past continuous) (exercises).md",
     "lessons/14 - I was doing (past continuous) and I did (past simple)/14 I was doing (past continuous) and I did (past simple).md",
     "exercises/14 - I was doing (past continuous) and I did (past simple) (exercises)",
-    "images/14 - I was doing (past continuous) and I did (past simple) (pictures)/14 - I was doing (past continuous) and I did (past simple) - pic. 2.png",
     "images/14 - I was doing (past continuous) and I did (past simple) (pictures)",
     "exercises/13 - I was doing (past continuous) (exercises)/13.4 Look at the picture. You saw Joe in the street yesterday afternoon. What was he doing..md",
     "lessons/14 - I was doing (past continuous) and I did (past simple)",
@@ -264,9 +279,6 @@
     "lessons/05 - I do work like etc. (present simple)/05 I do work like etc. (present simple).md",
     "images/13 - I was doing (past continuous) (pictures)",
     "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.5 Put the verb in the correct form — positive, negative or question..md",
-    "lessons/13 - I was doing (past continuous)",
-    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)/12.4 Write B's questions. Use ....md",
-    "exercises/12 - I didn't ... , Did you ... (past simple negative and questions) (exercises)",
     "01 - am is are - graph.canvas",
     "Untitled.canvas",
     "_canvas/01 - am is are (graphs)/01 - am is are - graph.canvas"
