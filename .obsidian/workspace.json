@@ -39,12 +39,14 @@
             "id": "78ee53d20a9e4d40",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2) (pictures)/16 - just, already, yet (present perfect 2) - pic. 1.png"
+                "file": "lessons/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2)/16 I've just ... , I've already ... , I haven't ... yet (present perfect 2).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "16 - just, already, yet (present perfect 2) - pic. 1"
+              "icon": "lucide-file",
+              "title": "16 I've just ... , I've already ... , I haven't ... yet (present perfect 2)"
             }
           }
         ],
@@ -105,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 562.5,
+    "collapsed": true
   },
   "right": {
     "id": "b1e40c067e4ddd6b",
@@ -217,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,11 +236,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f886df199904d2fd",
+  "active": "78ee53d20a9e4d40",
   "lastOpenFiles": [
+    "images/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2) (pictures)/16 - just, already, yet (present perfect 2) - pic. 1.png",
     "lessons/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2)/16 I've just ... , I've already ... , I haven't ... yet (present perfect 2).md",
     "Book Essential Grammar in Use.png",
-    "images/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2) (pictures)/16 - just, already, yet (present perfect 2) - pic. 1.png",
     "exercises/15 - I have done (present perfect 1) (exercises)/15.2 Complete the sentences with a verb from the box..md",
     "images/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2) (pictures)",
     "lessons/16 - I've just ... , I've already ... , I haven't ... yet (present perfect 2)",

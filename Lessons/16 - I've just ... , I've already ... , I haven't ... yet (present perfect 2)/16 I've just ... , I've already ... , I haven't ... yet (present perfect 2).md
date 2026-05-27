@@ -40,9 +40,60 @@
 	- **Have** they **just arrived**? — Вони щойно прибули?
 	- What'**s just happened**? — Що щойно сталося?
 	- **Have** you **just finished**? — Ви щойно закінчили?
-- У значенні **«щойно»** слово **just** зазвичай **не ставиться в кінці питального речення**. У **Present Perfect** слово **just** має стандартну позицію: **have/has + subject + just + V3?** Тобто в питанні воно стоїть **після підмета** і перед основним дієсловом у третій формі.
-### Just у скороченнях
+- ==У значенні **«щойно»** слово **just** зазвичай **не ставиться в кінці питального речення**. У **Present Perfect** слово **just** має стандартну позицію: **have/has + subject + just + V3?** Тобто в питанні воно стоїть **після підмета** і перед основним дієсловом у третій формі.==
+### British English vs American English
+#### British English
+- У британській англійській частіше використовують **Present Perfect** із **just**:
+	- She has **just** bought a new car. — Вона щойно купила нове авто.
+	- I'**ve just seen** Sai. He's really enjoying his new job. — Я щойно бачив Сая. Йому дуже подобається його нова робота.
+	- Mike'**s just called**. Can you ring him back, please? — Майк щойно дзвонив. Будь ласка, передзвони йому.
+#### American English
+- В американській англійській часто використовують **Past Simple**:
+	- I **just finalized** the quarterly forecast. — Я щойно завершив квартальний прогноз.
+	- She **just escalated** the issue to senior management. — Вона щойно передала це питання вищому керівництву.
+	- We **just reconciled** the discrepancy in the report. — Ми щойно узгодили/виправили розбіжність у звіті.
+	- They **just greenlit** the new initiative. — Вони щойно дали зелене світло новій ініціативі.
+	- He **just disclosed** a major conflict of interest. — Він щойно розкрив серйозний конфлікт інтересів.
+	- I **just realized** we underestimated the scope of the project. — Я щойно зрозумів, що ми недооцінили масштаб проєкту.
+	- The team **just implemented** a temporary workaround. — Команда щойно впровадила тимчасове обхідне рішення.
+	- She **just clarified** the underlying assumption. — Вона щойно прояснила базове припущення.
+	- We **just wrapped** up a pretty intense debrief. — Ми щойно завершили доволі напружене підбиття підсумків.
+	- I **just flagged** a potential compliance risk. — Я щойно повідомив про можливий ризик порушення вимог.
+### Інші значення just
+- Слово **just** не завжди означає “щойно”. Воно може мати й інші значення.
+#### Тільки / лише
+- It was **just** a preliminary estimate, not a binding commitment. — Це була лише попередня оцінка, а не зобов’язання.
+- The scandal was **just** the tip of the iceberg. — Скандал був лише верхівкою айсберга.
+- The memo was **just** a formality, but everyone treated it as a mandate. — Службова записка була лише формальністю, але всі сприйняли її як наказ.
+- This is **just** a short-term workaround, not a sustainable solution. — Це лише тимчасовий вихід із ситуації, а не довгострокове рішення.
+#### Точно / саме
+- That is **just** the kind of strategic thinking we need. — Це саме той тип стратегічного мислення, який нам потрібен.
+- Her argument sounded **just** like the critique published last year. — Її аргумент звучав точно як критика, опублікована торік.
+- The witness described the sequence **just** as it appeared on the footage. — Свідок описав події саме так, як вони були зафіксовані на відеозаписі.
+- This clause does **just** what the lawyers intended: it limits liability. — Цей пункт робить саме те, що задумали юристи: обмежує відповідальність.
+- The symptoms were **just** consistent enough to justify further testing. — Симптоми були достатньо точно узгодженими, щоб виправдати подальше обстеження.
+#### Просто
+- That presentation was **just** outstanding. — Та презентація була просто видатною.
+- The level of negligence is **just** appalling. — Рівень недбалості просто обурливий.
+- I **just** cannot endorse a policy that ignores vulnerable communities. — Я просто не можу підтримати політику, яка ігнорує вразливі спільноти.
+- The irony is **just** impossible to miss. — Іронію просто неможливо не помітити.
+- His confidence was **just** breathtaking, given how little evidence he had. — Його впевненість була просто разючою, зважаючи на те, як мало доказів він мав. 
+#### Справедливий
+- Тут **just** — **прикметник**, а не прислівник.
+- A **just** society cannot tolerate systemic discrimination. — Справедливе суспільство не може терпіти системну дискримінацію.
+- The tribunal reached a **just** verdict after months of deliberation. — Трибунал виніс справедливий вердикт після місяців обговорень.
+- The protesters demanded a **just** distribution of resources. — Протестувальники вимагали справедливого розподілу ресурсів.
+- Her criticism was severe but **just**. — Її критика була суворою, але справедливою.
+- A **just** settlement must acknowledge both historical harm and present-day inequality. — Справедливе врегулювання має визнати і історичну шкоду, і сучасну нерівність.
+#### Користані стали вирази з just
 
+| Expression       | Meaning                 | Example                                                                          | Переклад                                                                         |
+| ---------------- | ----------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **just in case** | про всяк випадок        | **Take a copy of the contract, just in case the original gets misplaced.**       | Візьміть копію договору на випадок, якщо оригінал загубиться.                    |
+| **just about**   | майже                   | **The negotiations are just about complete, except for one contentious clause.** | Переговори майже завершені, за винятком одного спірного пункту.                  |
+| **just as**      | саме коли / так само як | **Just as the market began to recover, a new regulatory crisis emerged.**        | Тільки-но ринок почав відновлюватися, як виникла нова криза у сфері регулювання. |
+| **just because** | лише тому що            | **Just because a claim is popular does not make it credible.**                   | Те, що твердження є популярним, ще не означає, що воно є правдивим.              |
+| **just enough**  | рівно достатньо         | **The evidence was just enough to reopen the investigation.**                    | Доказів вистачило саме для того, щоб поновити розслідування.                     |
 ## I've just ...
 - ==**I’ve just …** — це конструкція в **Present Perfect**, яка показує, що дія сталася **щойно / зовсім недавно**.==
 ![[16 - just, already, yet (present perfect 2) - pic. 1.png|Малюнок 1. just = щойно / тільки що / зовсім недавно ]]
